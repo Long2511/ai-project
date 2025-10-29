@@ -1,0 +1,51 @@
+query,ground_truth_id
+"patient with fever and haemorrhage",1
+"what are symptoms of ebola",1
+"woman from Sudan with fever and shock",1
+"case of viral HF with bleeding gums",1
+"haemorrhagic fever outbreak in Uganda",1
+"elderly woman with exfoliative rash",10
+"what is crusted scabies",10
+"patient with skin fissures and sepsis",10
+"Norwegian scabies treatment",10
+"widespread rash and sepsis in Australian indigenous woman",10
+"patient with back pain and difficulty walking",11
+"man with spastic paraparesis",11
+"what is pott's disease",11
+"collapse of T11 vertebral body",11
+"spinal tuberculosis in HIV positive patient",11
+"man with painful genital ulcers",12
+"ddx of chancroid",12
+"treatment for Haemophilus ducreyi",12
+"painful sores on penis and scrotum",12
+"unprotected sex with commercial sex worker painful ulcers",12
+"girl with fever and abdominal pain",13
+"symptoms of enteric fever",13
+"patient with splenomegaly and frontal headache",13
+"blood culture grew Salmonella Typhi",13
+"treatment for typhoid fever",13
+"woman with profuse watery diarrhea",14
+"what is rice-water stool",14
+"oral rehydration for cholera",14
+"Vibrio cholerae outbreak",14
+"patient with severe dehydration and sunken eyes",14
+"child with unilateral parotid swelling",15
+"suppurative parotitis in children in Laos",15
+"Burkholderia pseudomallei abscess",15
+"treatment for melioidosis in children",15
+"boy with purulent discharge from ear and facial nerve palsy",15
+"traveller with fever and eosinophilia",20
+"what is katayama syndrome",20
+"fever after freshwater contact in Africa",20
+"symptoms of acute schistosomiasis",20
+"patient with eosinophilia and nodular lesions on chest x-ray",20
+"HIV positive man with dry cough and night sweats",23
+"symptoms of PCP in HIV patient",23
+"ground-glass infiltrates on CT scan",23
+"treatment for Pneumocystis jirovecii",23
+"shortness of breath with low CD4 count",23
+"backpacker with new onset seizures",38
+"what is neurocysticercosis",38
+"multiple cystic lesions in brain mri",38
+"seizures after travelling to South America",38
+"Taenia solium eggs",38
