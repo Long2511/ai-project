@@ -1,0 +1,26 @@
+```json
+{
+  "patient_information": {
+    "age": "4 years old",
+    "sex": "female",
+    "location": "Bolivia",
+    "health_status": "good general health"
+  },
+  "chief_complaint": "History of several days of a slowly growing nodule on the fifth toe of her right foot that is moderately painful when wearing shoes.",
+  "history_of_present_illness": "A 4-year-old girl presents with a history of several days of a slowly growing nodule on the fifth toe of her right foot. The lesion is dark brown and has a tiny central ulceration surrounded by minimal inflammatory reaction. The family moved from Chile to the Cochabamba region in Bolivia about 6 months ago.",
+  "exposure_and_epidemiology": null,
+  "vitals": null,
+  "physical_exam": {
+    "lesion_description": "Dark brown nodule with a tiny central ulceration surrounded by minimal inflammatory reaction",
+    "pain_on_wearing_shoes": "Moderately painful"
+  },
+  "labs_and_diagnostics": null,
+  "differential_diagnosis": null,
+  "management_and_clinical_course": {
+    "treatment_plan": "The parasite should be completely removed using a sterile needle and/or curette. The resulting round lesion must be disinfected and dressed.",
+    "outcome": "The skin lesion healed within a week without complications."
+  },
+  "final_diagnosis": null,
+  "disease_name_short": null
+}
+```

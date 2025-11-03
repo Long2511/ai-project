@@ -1,0 +1,117 @@
+```json
+{
+  "patient_information": {
+    "age": "25 years",
+    "sex": "female",
+    "hiv_status": "positive",
+    "travel_history": "Zambia",
+    "symptoms_onset": "new-onset seizure",
+    "comorbidities": "none reported",
+    "immunosuppression": "advanced due to HIV infection",
+    "vaccination_status": "unknown",
+    "allergy_info": "unknown"
+  },
+  "chief_complaint": {
+    "symptoms": "new-onset seizures",
+    "duration": "recently diagnosed"
+  },
+  "history_of_present_illness": {
+    "timeline": "recent onset of symptoms",
+    "key_symptoms": "seizures, altered mental status",
+    "pertinent_negatives": "no history of similar episodes",
+    "severity_pattern": "acute onset with rapid progression"
+  },
+  "exposure_and_epidemiology": {
+    "residence_travel": "Zambia",
+    "vectors_animals": "unknown",
+    "water_food_risks": "unknown",
+    "contacts_season_outbreak": "unknown",
+    "occupation": "hospital cafeteria worker"
+  },
+  "vitals": {
+    "temperature": "normal",
+    "blood_pressure": "normal",
+    "heart_rate": "normal",
+    "respiratory_rate": "normal",
+    "oxygen_saturation": "normal"
+  },
+  "physical_exam": {
+    "general_appearance": "well-appearing",
+    "mental_status": "GCS 15/15",
+    "neurological_examination": "unremarkable",
+    "system_reviews": "no focal deficits, clear chest on auscultation"
+  },
+  "labs_and_diagnostics": {
+    "blood_results": {
+      "wbc": "5.8 × 10^9/L (4–10)",
+      "hemoglobin": "11.0 g/dL (12–14)",
+      "platelets": "215 × 10^9/L (150–350)",
+      "cd4_count": "153 cells/μL (500–1200)",
+      "serum_sodium": "135 mmol/L (130–145)",
+      "serum_glucose": "4.5 mmol/L (3.9–5.5)"
+    },
+    "csf_results": {
+      "leukocytes": "5 cells/μL (0–5)",
+      "protein": "0.78 g/L (0.25–0.55)",
+      "glucose": "2.9 mmol/L (2.25–2.97)",
+      "cryptococcal_antigen": "negative",
+      "india_ink_stain": "negative",
+      "gram_stain": "negative",
+      "ziehl_neelsen_stain": "negative"
+    },
+    "additional_tests": {
+      "malaria_rapid_test": "negative",
+      "albuninuria": "normal",
+      "cryptococcal_antigen": "negative",
+      "india_ink_stain": "negative",
+      "gram_stain": "negative",
+      "ziehl_neelsen_stain": "negative"
+    }
+  },
+  "differential_diagnosis": {
+    "considered_conditions": [
+      "epilepsy",
+      "tuberculosis meningitis",
+      "cryptococcal meningitis",
+      "progressive multifocal leukoencephalopathy (PML)",
+      "cerebral toxoplasmosis"
+    ],
+    "evidence_for": {
+      "epilepsy": "new-onset seizures, focal slowing on EEG",
+      "tuberculosis meningitis": "normal CSF protein and glucose levels",
+      "cryptococcal meningitis": "negative cryptococcal antigen test",
+      "PML": "low CD4 count, normal CSF protein level",
+      "cerebral toxoplasmosis": "no history of toxoplasmosis"
+    },
+    "evidence_against": {
+      "epilepsy": "normal CSF findings, no history of similar episodes",
+      "tuberculosis meningitis": "negative India ink stain and gram stain",
+      "cryptococcal meningitis": "negative cryptococcal antigen test",
+      "PML": "no history of immunosuppression or exposure to Epstein-Barr virus",
+      "cerebral toxoplasmosis": "normal CSF findings, no history of toxoplasmosis"
+    }
+  },
+  "management_and_clinical_course": {
+    "initial_treatment": "phenobarbital for seizure control",
+    "antiretroviral_therapy": "started on ART",
+    "clinical_improvement": "seizure-free after 6 months",
+    "drug_adjustments": "carbamazepine added, phenobarbital stopped",
+    "outcome": "remained seizure-free for 1 year"
+  },
+  "final_diagnosis": {
+    "diagnosis": "progressive multifocal leukoencephalopathy (PML)",
+    "confirmation_method": "low CD4 count and normal CSF protein level",
+    "evidence_for": {
+      "CD4_count": "low CD4 count",
+      "CSF_protein_level": "normal CSF protein level"
+    },
+    "evidence_against": {
+      "epilepsy": "no history of similar episodes, normal CSF findings",
+      "tuberculosis meningitis": "negative India ink stain and gram stain",
+      "cryptococcal meningitis": "negative cryptococcal antigen test",
+      "cerebral toxoplasmosis": "normal CSF findings"
+    }
+  },
+  "disease_name_short": "PML"
+}
+```

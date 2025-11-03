@@ -1,0 +1,21 @@
+{
+  "case_id": "031",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/31---A-6-Year-Old-Boy-from-Malawi-With-Fever--Cou_2022_Clinical-Cases-in-Tro.pdf",
+  "n_pages": 2,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/031/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/031/images",
+  "images_meta": [
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        70.58300018310547,
+        53.80204772949219,
+        280.77398681640625,
+        211.2950439453125
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/031/images/031_p2_fig_1.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/031/031.json"
+}

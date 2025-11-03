@@ -1,0 +1,58 @@
+```json
+{
+  "patient_information": {
+    "age": "22 years",
+    "sex": "male",
+    "occupation": "farmer",
+    "location": "rural Ethiopia",
+    "comorbidities": "none reported"
+  },
+  "chief_complaint": "difficulty walking",
+  "history_of_present_illness": {
+    "onset": "10 years ago",
+    "symptoms": "weakness in both legs, waking up with weakness noticed on one morning",
+    "progression": "rapid progression over 4 to 5 days leading to needing a cane for mobility"
+  },
+  "exposure_and_epidemiology": {
+    "travel_history": "recent travel to the capital city seeking an alternative job",
+    "dietary_exposures": "diet almost exclusively consisted of grass peas (Lathyrus sativus, local name guaya)",
+    "other_risk_factors": "no history of trauma or prodromal symptoms"
+  },
+  "vitals": {
+    "temperature": null,
+    "blood_pressure": null,
+    "heart_rate": null,
+    "respiratory_rate": null,
+    "oxygen_saturation": null
+  },
+  "physical_exam": {
+    "gait": "spastic (scissor gait) with foot dragging and toe scraping",
+    "reflexes": "pathological brisk deep tendon reflexes on the right, equivocal on the left",
+    "sensory": "no sensory deficit or bladder dysfunction",
+    "motor": "pyramidal pattern"
+  },
+  "labs_and_diagnostics": {
+    "full_blood_count": null,
+    "liver_function_tests": null,
+    "renal_function_tests": null,
+    "cerebrospinal_fluid": null,
+    "nerve_conduction_studies": null,
+    "electromyography": null
+  },
+  "differential_diagnosis": {
+    "upper_motor_neuron_lesion_with_spastic_paraparesis": "absence of radicular symptoms, sensory level, sphincter disturbance, back pain, non-progression",
+    "HIV-associated_myelopathy": "negative HIV-1 serology and negative family history rule out most compressive, hereditary, infectious and metabolic myelopathies",
+    "HTLV-associated_myelopathy": "absence of radicular symptoms, sensory level, sphincter disturbance, back pain, non-progression"
+  },
+  "management_and_clinical_course": {
+    "treatment": "symptomatic with anti-spastic drugs and physiotherapy",
+    "prognosis": "permanent disability"
+  },
+  "final_diagnosis": {
+    "clinical_syndrome": "neurolathyrism",
+    "confirmation_method": "excessive ingestion of L. sativus grass pea",
+    "evidence": "irreversible acute to subacute spastic paraparesis without prominent sensory involvement, bladder and bowel function are maintained"
+  },
+  "disease_name_short": "Neurolathyrism"
+}
+```

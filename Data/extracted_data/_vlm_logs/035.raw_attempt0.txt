@@ -1,0 +1,67 @@
+```json
+{
+  "patient_information": {
+    "age": "32 years",
+    "sex": "female",
+    "country_of_origin": "Malawi",
+    "comorbidities": "none reported",
+    "immunosuppression": "none reported",
+    "vaccinations": "unknown",
+    "allergies": "unknown"
+  },
+  "chief_complaint": {
+    "symptoms": "headache and blurred vision for 3 weeks",
+    "duration": "gradual onset, does not respond to over-the-counter painkillers"
+  },
+  "history_of_present_illness": {
+    "timeline": "3-week history of symptoms",
+    "key_symptoms": "chronic headache, blurred vision",
+    "severity_pattern": "gradual onset",
+    "other_symptoms": "no fever, no history of convulsions or head trauma"
+  },
+  "exposure_and_epidemiology": {
+    "residence_travel": "recent travel to Malawi",
+    "vectors_animals": "unknown",
+    "water_food_risks": "unknown",
+    "contacts_season_outbreak": "unknown",
+    "occupation": "unknown"
+  },
+  "vitals": {
+    "temperature": "normal",
+    "blood_pressure": "normal",
+    "heart_rate": "normal",
+    "respiratory_rate": "normal",
+    "oxygen_saturation": "normal"
+  },
+  "physical_exam": {
+    "general_appearance": "wasted and slightly anaemic",
+    "vital_signs": "normal",
+    "head_and_neck": "no neck stiffness, normal visual acuity on both sides",
+    "abdomen": "normal",
+    "neurological": "left lateral gaze abduction deficit of the left eye with 'blurring of vision' reported by patient"
+  },
+  "labs_and_diagnostics": {
+    "full_blood_count": "normocytic anaemia and thrombocytopenia",
+    "malaria_rapid_test": "negative",
+    "cryptococcal_antigen": "positive",
+    "lumbar_puncture": "CSF clear, opening pressure increased at 50 cmH2O"
+  },
+  "differential_diagnosis": {
+    "chronic_meningitis": "most likely diagnosis",
+    "cryptococcal_meningitis": "likely differential diagnosis",
+    "tuberculous_meningitis": "less likely differential diagnosis",
+    "bacterial_meningitis": "less likely differential diagnosis"
+  },
+  "management_and_clinical_course": {
+    "initial_treatment": "presumptive antimalarial treatment (artemether/lumefantrine) and antibiotics (amoxicillin)",
+    "lumbar_punctures": "repeated therapeutic lumbar punctures",
+    "antifungal_treatment": "oral fluconazole 1200 mg",
+    "outcome": "patient died 6 weeks later of an unknown cause"
+  },
+  "final_diagnosis": {
+    "disease_name_short": "Cryptococcal meningitis",
+    "confirmation_method": "positive cryptococcal antigen test in CSF",
+    "evidence": "chronic meningitis, positive cryptococcal antigen, normal CSF findings except for increased opening pressure"
+  }
+}
+```

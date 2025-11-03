@@ -1,0 +1,89 @@
+```json
+{
+  "patient_information": {
+    "age": "31 years",
+    "sex": "male",
+    "hiv_status": "positive",
+    "travel_history": "recent travel to Europe, China, Korea, Japan, Singapore and the United States",
+    "symptoms": "increasing shortness of breath on exertion, dry cough, drenching night sweats",
+    "weight_loss": "about 10kg over the past 5 months",
+    "comorbidities": "none reported"
+  },
+  "chief_complaint": "Progressive shortness of breath, dry cough and drenching night sweats for approximately six weeks.",
+  "history_of_present_illness": "Six-week history of increasing shortness of breath on exertion, dry cough, and drenching night sweats. Patient also reports general fatigue and a weight loss of about 10kg over the past 5 months.",
+  "exposure_and_epidemiology": {
+    "travel_history": "recent travel to Europe, China, Korea, Japan, Singapore and the United States",
+    "vector_exposures": "none reported",
+    "animal_exposures": "none reported",
+    "water_food_risks": "none reported",
+    "contacts": "none reported",
+    "season_outbreak_context": "no mention of season or outbreak context"
+  },
+  "vitals": {
+    "temperature": "39.2°C (102.6°F)",
+    "blood_pressure": "120/70 mmHg",
+    "pulse_rate": "100 bpm",
+    "respiratory_rate": "26 breaths per minute",
+    "oxygen_saturation": "87% on air, 97% on 15L O₂"
+  },
+  "physical_exam": {
+    "general_appearance": "alert and short of breath at rest but able to complete full sentences",
+    "temperature": "39.2°C (102.6°F)",
+    "blood_pressure": "120/70 mmHg",
+    "pulse_rate": "100 bpm",
+    "respiratory_rate": "26 breaths per minute",
+    "oxygen_saturation": "87% on air, 97% on 15L O₂",
+    "chest_exam": "clear on auscultation",
+    "abdominal_exam": "unremarkable",
+    "neurological_exam": "unremarkable"
+  },
+  "labs_and_diagnostics": {
+    "fbc": "normal",
+    "crp": "6.7 mg/dL (<5)",
+    "creatinine": "normal",
+    "urea": "normal",
+    "bilirubin": "normal",
+    "alt": "normal",
+    "ap": "normal",
+    "albumin": "normal",
+    "cd4_count": "150/μL",
+    "hiv_viral_load": "1,500,000 copies/mL (fully sensitive on resistance testing)",
+    "arterial_blood_gases_on_air": {
+      "pH": "7.44",
+      "paO2 (kPa)": "7.6",
+      "paCO2 (kPa)": "3",
+      "hco3- (mmol/L)": "19",
+      "base_excess (mmol/L)": "-3.8",
+      "lactate (mmol/L)": "1.6"
+    },
+    "chest_radiography": {
+      "description": "bilateral perihilar infiltrates seen on chest radiograph"
+    }
+  },
+  "differential_diagnosis": [
+    {
+      "diagnosis": "Pneumocystis pneumonia",
+      "evidence": "CD4 count is low, elevated CRP, and bilateral perihilar infiltrates on chest radiography."
+    },
+    {
+      "diagnosis": "Tuberculosis",
+      "evidence": "no evidence of pulmonary emboli or cavitations in CT-pulmonary angiogram"
+    },
+    {
+      "diagnosis": "Atypical bacterial pneumonia",
+      "evidence": "no other significant past medical history, normal routine laboratory tests except for slightly elevated CRP."
+    }
+  ],
+  "management_and_clinical_course": {
+    "initial_treatment": "high-flow oxygen and started on high-dose co-trimoxazole plus prednisolone combined with a proton-pump inhibitor",
+    "response_to_treatment": "tachycardia settled with reversal of his hypoxia, remained otherwise stable",
+    "additional_treatment": "antiretroviral therapy with tenofovir, emtricitabine and efavirenz started after 10 days into PCP treatment",
+    "discharge": "patient discharged on oral co-trimoxazole to complete a 21-day total course"
+  },
+  "final_diagnosis": {
+    "diagnosis": "Pneumocystis pneumonia (PCP)",
+    "evidence": "positive β-glucan assay, positive PCR for P. jirovecii DNA in bronchoalveolar lavage fluid, and clinical features consistent with PCP."
+  },
+  "disease_name_short": "PCP"
+}
+```

@@ -1,0 +1,32 @@
+{
+  "case_id": "082",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/82---A-31-Year-Old-Man-from-Guatemala-With-Acute-_2022_Clinical-Cases-in-Tro.pdf",
+  "n_pages": 3,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/082/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/082/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        331.31298828125,
+        493.3980407714844,
+        541.3599853515625,
+        705.6000366210938
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/082/images/082_p1_fig_1.png"
+    },
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        129.88299560546875,
+        53.802032470703125,
+        484.4750061035156,
+        202.56402587890625
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/082/images/082_p2_fig_1.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/082/082.json"
+}

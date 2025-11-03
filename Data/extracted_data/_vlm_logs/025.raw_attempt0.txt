@@ -1,0 +1,51 @@
+```json
+{
+  "patient_information": {
+    "age": "72 years",
+    "sex": "male",
+    "occupation": "farmer",
+    "location": "Laos"
+  },
+  "chief_complaint": "Extensive, painful verrucous skin lesions on the left foot and lower leg",
+  "history_of_present_illness": {
+    "onset": "10 years prior to admission",
+    "description": "A leech bite on the dorsum of his left foot resulted in a small painless red nodule that developed into a verrucous lesion over time. The lesion slowly increased in size and spread up to his knee.",
+    "recent_changes": "Three days before admission, the ankle became painful and swollen."
+  },
+  "exposure_and_epidemiology": {
+    "travel_history": "Recent travel to Laos",
+    "vector_exposures": "No reported vector exposures or sick contacts"
+  },
+  "vitals": {
+    "temperature": "Normal",
+    "blood_pressure": "Not reported",
+    "heart_rate": "Not reported",
+    "respiratory_rate": "Not reported",
+    "oxygen_saturation": "Not reported"
+  },
+  "physical_exam": {
+    "skin": "Grossly swollen, hyperaemic and feel hot. Several cauliflower-like masses and oval plaque-like lesions on the left lower leg and foot.",
+    "foot": "Painful and swollen with a bad odour",
+    "ankle": "Painful and swollen"
+  },
+  "labs_and_diagnostics": {
+    "CBC": "Not reported",
+    "microscopy_of_skin_scrapings": "Characteristic brownish, round, thick-walled sclerotic cells typical of chromoblastomycosis",
+    "PCR_from_skin_tissue": "Positive for Fonseca pedrosoi, F. monophora and F. nubica"
+  },
+  "differential_diagnosis": {
+    "chronic verrucous skin lesions": "Sporotrichosis (Sporothrix schenckii) and chromoblastomycosis",
+    "mycetoma ('Madura Foot')": "Eumycetoma or actinomycetoma, characterized by fistulating lesions discharging granules",
+    "malignant conditions": "Squamous cell carcinoma, sarcoidosis, chronic eczema and psoriasis"
+  },
+  "management_and_clinical_course": {
+    "treatment": "Antifungal therapy with itraconazole (400 mg/d for 7 days monthly pulse therapy) and surgical debridement of all lesions",
+    "outcome": "Lesions healed uneventfully with some residual swelling and hypopigmentation"
+  },
+  "final_diagnosis": {
+    "disease_name_short": "Chromoblastomycosis",
+    "confirmation_method": "Positive PCR for Fonseca pedrosoi, F. monophora and F. nubica",
+    "evidence": "Characteristic brownish, round, thick-walled sclerotic cells in skin scrapings"
+  }
+}
+```

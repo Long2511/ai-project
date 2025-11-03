@@ -1,0 +1,13 @@
+{
+  "patient_information": "{'age': '41 years', 'sex': 'male', 'occupation': 'yoga teacher', 'travel_history': 'recent trip to northern Australia and a stopover on a Thai island for a beach holiday'}",
+  "chief_complaint": "itchy skin eruptions on both upper thighs for the past week",
+  "history_of_present_illness": "{'onset': 'shortly after arrival in Australia', 'symptoms': 'intensely itchy skin eruptions, kept awake at night', 'duration': 'one week'}",
+  "exposure_and_epidemiology": "{'travel_details': 'recent trip to northern Australia and a stopover on a Thai island for a beach holiday', 'vector_exposures': 'walking barefoot or sitting/lying on faecally contaminated ground', 'animal_exposures': 'no reported animal exposures'}",
+  "vitals": null,
+  "physical_exam": "{'skin_exam': 'three reddish, serpiginous tracks about 2 mm in width', 'lymph_nodes': 'inguinal lymph nodes not enlarged', 'chest_exam': 'clear', 'other_exams': 'rest of examination unremarkable'}",
+  "labs_and_diagnostics": "{'CBC': None, 'inflammatory_markers': None, 'microbiology_serology_PCR': None}",
+  "differential_diagnosis": "{'cutaneous_larva_migrans': 'likely diagnosis', 'chikungunya': 'less likely due to no fever, rash pattern', 'malaria': 'less likely given dengue confirmation and no malaria-specific findings reported'}",
+  "management_and_clinical_course": "{'treatment_recommended': 'single-dose treatment of ivermectin (200 μg/kg)', 'outcome': 'itchy eruptions settled within a few days', 'complications': None}",
+  "final_diagnosis": "{'disease_name_short': 'Cutaneous larva migrans'}",
+  "disease_name_short": null
+}

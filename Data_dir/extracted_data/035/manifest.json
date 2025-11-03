@@ -1,0 +1,32 @@
+{
+  "case_id": "035",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/35---A-32-Year-Old-Woman-from-Malawi-With-Heada_2022_Clinical-Cases-in-Tropi.pdf",
+  "n_pages": 3,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/035/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/035/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        70.5260009765625,
+        545.0460205078125,
+        280.96002197265625,
+        702.7659912109375
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/035/images/035_p1_fig_1.png"
+    },
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        331.31298828125,
+        53.80104064941406,
+        541.4879760742188,
+        194.17303466796875
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/035/images/035_p2_fig_1.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/035/035.json"
+}

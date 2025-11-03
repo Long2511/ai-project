@@ -1,0 +1,103 @@
+```json
+{
+  "patient_information": {
+    "age": "7 years",
+    "sex": "female",
+    "comorbidities": "severe malnutrition (Z-score < -3)",
+    "immunosuppression": null,
+    "vaccination": null,
+    "allergy": null
+  },
+  "chief_complaint": {
+    "problem": "undulating fever for approximately one week",
+    "duration": "4 weeks"
+  },
+  "history_of_present_illness": {
+    "timeline": "fever occurring mainly in the afternoon hours accompanied by chills and sometimes convulsions, progressing to anorexia, dry cough, chest pain, joint and back pain over time",
+    "key_symptoms": [
+      "fever",
+      "chills",
+      "convulsions",
+      "anorexia",
+      "dry cough",
+      "chest pain",
+      "joint and back pain"
+    ],
+    "pertinent_negatives": null,
+    "severity_pattern": "progressive"
+  },
+  "exposure_and_epidemiology": {
+    "residence_travel": "recent travel to an area where visceral leishmaniasis is known",
+    "vectors": "mosquito bite",
+    "animals": null,
+    "water_food_risks": null,
+    "contacts": "uncle had been treated for VL before, sister recently treated for TB",
+    "season_outbreak_context": null,
+    "occupation": null
+  },
+  "vitals": {
+    "temperature": "39.6°C (103.3°F)",
+    "pulse": "96 bpm",
+    "blood_pressure": "100/60 mmHg"
+  },
+  "physical_exam": {
+    "general_appearance": "pale and severely malnourished",
+    "skin": null,
+    "HEENT": "normal heart sounds; soft abdomen with a splenomegaly of 4 cm below the left costal margin",
+    "chest": "clear chest sounds",
+    "abdo": "generalized lymphadenopathy",
+    "neuro": null,
+    "lymph": "multiple enlarged lymph nodes of about 1 cm in diameter in the cervical, axillary, inguinal and epitrochlear region",
+    "other": "no skin lesions or peripheral oedema"
+  },
+  "labs_and_diagnostics": {
+    "CBC": "pancytopenia",
+    "malaria_RDT": "negative",
+    "brucellosis_serology": "negative",
+    "visceral_leishmaniasis_rK39_Antibody_RDT": "negative"
+  },
+  "differential_diagnosis": {
+    "main_alternatives": [
+      "chronic fever, splenomegaly and wasting in a child from South Sudan should raise the suspicion of visceral leishmaniasis or brucellosis",
+      "tuberculosis and HIV infection both need to be ruled out"
+    ],
+    "justification": {
+      "visceral_leishmaniasis": [
+        "chronic fever, splenomegaly and wasting in a child from South Sudan",
+        "uncle had been treated for VL before",
+        "sister recently treated for TB"
+      ],
+      "brucellosis": [
+        "chronic fever, splenomegaly and wasting in a child from South Sudan",
+        "no malaria-specific findings reported"
+      ],
+      "tuberculosis": [
+        "chronic fever, splenomegaly and wasting in a child from South Sudan",
+        "no malaria-specific findings reported"
+      ],
+      "HIV_infection": [
+        "chronic fever, splenomegaly and wasting in a child from South Sudan",
+        "no malaria-specific findings reported"
+      ]
+    }
+  },
+  "management_and_clinical_course": {
+    "initial_treatment": "liposomal amphotericin B and a broad-spectrum antibiotic (ceftriaxone)",
+    "supportive_care": "high-energy/high-protein ready-to-use therapeutic food (RUTF) and vitamin/mineral supplementation",
+    "response": "fever settled after 5 days, patient started to recover",
+    "complications": null,
+    "outcome": "gained some weight, able to walk and play again"
+  },
+  "final_diagnosis": {
+    "disease_name": "Visceral Leishmaniasis (Kala-Azar)",
+    "causative_agent": "Leishmania donovani",
+    "confirmation_method": "positive DAT with high titre (1:6.400)",
+    "evidence": [
+      "chronic fever, splenomegaly and wasting in a child from South Sudan",
+      "uncle had been treated for VL before",
+      "sister recently treated for TB"
+    ]
+  },
+  "disease_name_short": "Visceral Leishmaniasis (Kala-Azar)"
+}
+```

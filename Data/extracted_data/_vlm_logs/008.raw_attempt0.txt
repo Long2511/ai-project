@@ -1,0 +1,43 @@
+```json
+{
+  "patient_information": {
+    "age": "26 years",
+    "sex": "female",
+    "travel_history": "recent trip to Ghana"
+  },
+  "chief_complaint": "Localized swelling on the left leg for approximately three weeks",
+  "history_of_present_illness": "The swelling has developed slowly over the past 3 weeks. It is itchy, but not painful. There is no history of fever; no history of arthropod bites.",
+  "exposure_and_epidemiology": {
+    "travel_details": "6-week trip to Ghana",
+    "vector_exposures": "No mosquito or tick exposure reported"
+  },
+  "vitals": null,
+  "physical_exam": {
+    "lesion_description": "Localized swelling with a central scab, slightly hyperaemic skin surrounding the swelling",
+    "lymphadenopathy": "No lymphadenopathy present",
+    "other_findings": "Patient is afibrile while the rest of the physical examination is normal"
+  },
+  "labs_and_diagnostics": null,
+  "differential_diagnosis": {
+    "most_important_diagnoses": [
+      "Cutaneous myiasis (Tumbu fly)",
+      "Localized bacterial skin and soft-tissue infections",
+      "Spider bite with eschar-like central necrosis"
+    ],
+    "reasoning": "The slow growth of the lesion over several weeks, absence of lymphadenopathy and systemic symptoms, and the localized itchy nature make myiasis the most likely differential diagnosis."
+  },
+  "management_and_clinical_course": {
+    "treatment": [
+      "Gently remove scab",
+      "Apply white petroleum jelly or liquid paraffin to block larval respiratory spiracles"
+    ],
+    "outcome": "The lesion was covered with white petroleum jelly and superinfected. The patient returned 2 days later for review."
+  },
+  "final_diagnosis": {
+    "diagnosis": "Cutaneous myiasis (Tumbu fly)",
+    "confirmation_method": "Larva easily removed with forceps",
+    "evidence": "The slow growth of the lesion, absence of lymphadenopathy and systemic symptoms, and the localized itchy nature make this diagnosis likely."
+  },
+  "disease_name_short": "Cutaneous myiasis"
+}
+```

@@ -1,0 +1,82 @@
+```json
+{
+  "patient_information": {
+    "age": "43 years",
+    "sex": "male",
+    "travel_history": "recent trip to Mozambique and Chile",
+    "medical_history": "unremarkable"
+  },
+  "chief_complaint": "fever for the past 3 days, recurrent fever for the past 7 days",
+  "history_of_present_illness": "43-year-old male presents with a 3-day history of high fever. He has recently returned from a 5-week trip to Mozambique and Chile. He did not take any antimalarial chemoprophylaxis, but he took standby emergency treatment for presumed malaria when feeling febrile about 3 weeks ago.",
+  "exposure_and_epidemiology": {
+    "travel_history": "recent trip to Mozambique and Chile",
+    "freshwater_contact": "reports freshwater contact in a small lake near Maputo"
+  },
+  "vitals": {
+    "temperature": "39.8°C (103.6°F)",
+    "other_vitals_not_reported": "no other vital signs reported"
+  },
+  "physical_exam": {
+    "general_findings": "43-year-old male, febrile",
+    "specific_systems": "normal physical examination with no rash, no hepatomegaly, no splenomegaly and no lymphadenopathy"
+  },
+  "labs_and_diagnostics": {
+    "CBC": "elevated eosinophils (2.1 × 10^9/L), normal total white cell count",
+    "liver_enzymes": "slightly elevated lactate dehydrogenase (LDH) and aspartate aminotransferase (AST)",
+    "C-reactive protein (CRP)": "slightly raised",
+    "chest_radiography": {
+      "description": "some nodular lesions ranging in size from 2 to 5mm in the periphery of the lower lung zones bilaterally",
+      "confirmation": "confirmed by a CT scan of his chest"
+    }
+  },
+  "differential_diagnosis": [
+    {
+      "name": "Acute Schistosomiasis (Katayama Syndrome)",
+      "evidence": "elevated eosinophils, elevated liver enzymes, nodular changes in the periphery of the lower lung zones on chest radiography"
+    },
+    {
+      "name": "Typhoid Fever",
+      "reasons_for_exclusion": [
+        "eosinopenia (not eosinophilia)",
+        "no history of recent travel to endemic areas for typhoid fever"
+      ]
+    },
+    {
+      "name": "Amoebic Liver Abscess",
+      "reasons_for_exclusion": [
+        "no history of recent travel to endemic areas for amoebic liver abscess",
+        "no evidence of abdominal pain or other symptoms suggestive of an abscess"
+      ]
+    }
+  ],
+  "management_and_clinical_course": {
+    "treatment": "treated with praziquantel",
+    "response_to_treatment": "clinical improvement, full recovery by day 6",
+    "complications": "no complications documented"
+  },
+  "final_diagnosis": {
+    "name": "Acute Schistosomiasis (Katayama Syndrome)",
+    "confirmation_method": "positive antischistosomal antibodies and Schistosoma mansoni ova found in stool sample",
+    "evidence": [
+      "elevated eosinophils, elevated liver enzymes, nodular changes in the periphery of the lower lung zones on chest radiography"
+    ],
+    "exclusion_of_alternatives": [
+      {
+        "name": "Typhoid Fever",
+        "reasons_for_exclusion": [
+          "eosinopenia (not eosinophilia)",
+          "no history of recent travel to endemic areas for typhoid fever"
+        ]
+      },
+      {
+        "name": "Amoebic Liver Abscess",
+        "reasons_for_exclusion": [
+          "no history of recent travel to endemic areas for amoebic liver abscess",
+          "no evidence of abdominal pain or other symptoms suggestive of an abscess"
+        ]
+      }
+    ]
+  },
+  "disease_name_short": "Acute Schistosomiasis (Katayama Syndrome)"
+}
+```

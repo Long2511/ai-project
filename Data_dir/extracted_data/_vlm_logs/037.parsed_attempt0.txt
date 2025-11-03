@@ -1,0 +1,13 @@
+{
+  "patient_information": "{'age': '29 years', 'sex': 'female', 'comorbidities': 'none reported', 'immunosuppression': 'none reported', 'vaccination': 'unknown', 'allergy_info': 'unknown'}",
+  "chief_complaint": "{'problem': 'confusion, diarrhea, skin rash', 'duration': 'past month'}",
+  "history_of_present_illness": "{'timeline': '1-month history of confusion, diarrhea, and rash', 'key_symptoms': 'confusion, restlessness, irritability, watery diarrhea, rash on sun-exposed areas', 'severity_pattern': 'progressive over past month'}",
+  "exposure_and_epidemiology": "{'residence_travel': 'Malawi during rainy season', 'vectors': 'unknown', 'animals': 'unknown', 'water_food_risks': 'unknown', 'contacts': 'unknown', 'season_outbreak_context': 'rainy season in Malawi', 'occupation': 'housewife'}",
+  "vitals": "{'temperature': 'normal', 'blood_pressure': 'normal', 'heart_rate': 'normal', 'respiratory_rate': 'normal', 'oxygen_saturation': 'normal'}",
+  "physical_exam": "{'general_appearance': 'slim but not wasted', 'mental_status': 'Glasgow Coma Scale 14/15 (confusion)', 'neurological_examination': 'no neck stiffness, no focal neurologic deficits', 'skin_changes': 'hyperpigmented rash on sun-exposed skin', 'other_systems': 'unremarkable'}",
+  "labs_and_diagnostics": "{'hematocrit': '6.7 g/dL (microcytic anaemia)', 'Mentzer_index': '>13', 'vitamin_B_3_supplementation': 'recommended', 'iron_folic_acid_supplementation': 'recommended', 'albendazole': 'single dose', 'HIV_test': 'negative', 'full_blood_count': {'hemoglobin': '6.7 g/dL (microcytic anaemia)', 'MCV': 'unknown'}, 'vitamin_B_3_deficiency': 'suspected', 'dietary_counselling': 'recommended'}",
+  "differential_diagnosis": "{'pellagra': 'suspected', 'HIV_infection': 'considered', 'tuberculous_meningitis': 'considered', 'cryptococcal_meningitis': 'considered', 'progressive_multifocal_leukoencephalopathy': 'considered'}",
+  "management_and_clinical_course": "{'initial_treatment': 'vitamin B_3, iron, folic acid supplementation, albendazole', 'clinical_improvement': 'settled within a week', 'diarrhea_stopped': 'stopped', 'discharge': 'discharged', 'follow-up_visit': 'asked to come back at 3 months for an outpatient follow-up visit including a repeat full blood count'}",
+  "final_diagnosis": "{'disease_name_short': 'Pellagra', 'causative_agent': 'vitamin B_3 deficiency', 'confirmation_method': 'clinical presentation, microcytic anaemia, hyperpigmented rash on sun-exposed skin', 'evidence': 'settled within a week, no response to iron treatment'}",
+  "disease_name_short": null
+}

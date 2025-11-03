@@ -1,0 +1,32 @@
+{
+  "case_id": "037",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/37---A-29-Year-Old-Woman-from-Malawi-With-Confusi_2022_Clinical-Cases-in-Tro.pdf",
+  "n_pages": 3,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/037/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/037/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        348.83099365234375,
+        291.572021484375,
+        528.60595703125,
+        463.97503662109375
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/037/images/037_p1_fig_1.png"
+    },
+    {
+      "page_number": 1,
+      "figure_index": 2,
+      "bbox": [
+        348.6050109863281,
+        502.2430114746094,
+        528.8250122070312,
+        714.1610107421875
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/037/images/037_p1_fig_2.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/037/037.json"
+}

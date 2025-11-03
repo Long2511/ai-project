@@ -1,0 +1,65 @@
+{
+  "case_id": "071",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/71---A-71-Year-Old-Man-from-Japan-With-Eosinophili_2022_Clinical-Cases-in-Tr.pdf",
+  "n_pages": 5,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/071/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/071/images",
+  "images_meta": [
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        124.3280029296875,
+        53.802001953125,
+        490.0849914550781,
+        605.1400146484375
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/images/071_p2_fig_1.png"
+    },
+    {
+      "page_number": 3,
+      "figure_index": 1,
+      "bbox": [
+        346.2799987792969,
+        260.73101806640625,
+        526.5130004882812,
+        458.3060302734375
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/images/071_p3_fig_1.png"
+    },
+    {
+      "page_number": 3,
+      "figure_index": 2,
+      "bbox": [
+        331.31298828125,
+        498.0469970703125,
+        541.4660034179688,
+        677.3099975585938
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/images/071_p3_fig_2.png"
+    },
+    {
+      "page_number": 4,
+      "figure_index": 1,
+      "bbox": [
+        85.55000305175781,
+        53.80204772949219,
+        265.8330078125,
+        257.32904052734375
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/images/071_p4_fig_1.png"
+    },
+    {
+      "page_number": 4,
+      "figure_index": 2,
+      "bbox": [
+        70.5260009765625,
+        368.78802490234375,
+        280.8330078125,
+        584.2210083007812
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/images/071_p4_fig_2.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/071/071.json"
+}

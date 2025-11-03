@@ -1,0 +1,32 @@
+{
+  "case_id": "011",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/11---A-45-Year-Old-Male-Security-Guard-from-Malawi-_2022_Clinical-Cases-in-T.pdf",
+  "n_pages": 4,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/011/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/011/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        94.39399719238281,
+        571.748046875,
+        519.8740234375,
+        697.43603515625
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/011/images/011_p1_fig_1.png"
+    },
+    {
+      "page_number": 3,
+      "figure_index": 1,
+      "bbox": [
+        378.6520080566406,
+        53.802032470703125,
+        498.6710205078125,
+        276.4350280761719
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/011/images/011_p3_fig_1.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/011/011.json"
+}

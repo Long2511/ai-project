@@ -1,0 +1,32 @@
+{
+  "case_id": "001",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/1---A-20-Year-Old-Woman-from-Sudan-With-Fever--_2022_Clinical-Cases-in-Tropi.pdf",
+  "n_pages": 3,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/001/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/001/images",
+  "images_meta": [
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        85.49299621582031,
+        53.802032470703125,
+        265.8070068359375,
+        231.19403076171875
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/001/images/001_p2_fig_1.png"
+    },
+    {
+      "page_number": 2,
+      "figure_index": 2,
+      "bbox": [
+        70.58300018310547,
+        301.0400085449219,
+        280.89300537109375,
+        426.1610107421875
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/001/images/001_p2_fig_2.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/001/001.json"
+}

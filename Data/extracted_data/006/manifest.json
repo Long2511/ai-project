@@ -1,0 +1,32 @@
+{
+  "case_id": "006",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/6---A-36-Year-Old-Male-Traveller-Returning-from-B_2022_Clinical-Cases-in-Tro.pdf",
+  "n_pages": 2,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/006/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/006/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        358.24200439453125,
+        538.2430419921875,
+        514.635009765625,
+        723.9120483398438
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/006/images/006_p1_fig_1.png"
+    },
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        70.69599914550781,
+        612.0000610351562,
+        280.739013671875,
+        728.3340454101562
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/006/images/006_p2_fig_1.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/006/006.json"
+}

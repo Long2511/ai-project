@@ -1,0 +1,53 @@
+```json
+{
+  "patient_information": {
+    "age": "20 years",
+    "sex": "male",
+    "country_of_origin": "India",
+    "vaccination_history": "received five doses of anti-rabies vaccine (purified chick embryo cell vaccine)",
+    "allergy_info": "no reported allergies"
+  },
+  "chief_complaint": {
+    "symptoms": "fever and quadriparesis",
+    "duration": "4 days followed by tingling and ascending paresis over the next month"
+  },
+  "history_of_present_illness": {
+    "timeline": "fever for 4 days, followed by tingling and ascending paresis over the next month",
+    "key_symptoms": "fever, tingling, ascending paresis",
+    "severity_pattern": "progressive weakness initially in left leg, subsequently involving all four limbs"
+  },
+  "exposure_and_epidemiology": {
+    "travel_history": "recent travel to a rabies-endemic country (India)",
+    "vector_exposure": "dog bite on left lower limb",
+    "animal_exposures": "history of dog bite in a rabies-endemic country, presenting with fever and rapidly progressive ascending paresis one month later should elicit a high clinical suspicion of paralytic rabies.",
+    "season_outbreak_context": "no reported season or outbreak context"
+  },
+  "vitals": {
+    "blood_pressure": "110/70 mmHg",
+    "heart_rate": "90 beats per minute",
+    "respiratory_rate": "26 breaths per minute",
+    "temperature": "38.5°C (101.3°F)"
+  },
+  "physical_exam": {
+    "neurological_examination": "flaccid, areflexic quadriparesis"
+  },
+  "labs_and_diagnostics": {
+    "blood_tests": "normal serum electrolytes, renal and liver function tests",
+    "cerebrospinal_fluid": "52 mg/dL protein (reference: 15–50 mg/dL), 60 mg/dL glucose (reference: 50–75 mg/dL), 340 cells/mm³ (60% polymorphs and 40% lymphocytes)",
+    "diagnostic_tests": "CSF viral RNA by RT-PCR positive, saliva sample collected at admission was positive for rabies viral RNA by RT-PCR"
+  },
+  "differential_diagnosis": {
+    "considered": "paralytic rabies",
+    "justification": "clinical presentation with fever and ascending paresis in a rabies-endemic country, dog bite exposure, and laboratory confirmation of rabies virus"
+  },
+  "management_and_clinical_course": {
+    "treatment": "prompt and appropriate post-exposure prophylaxis (PEP) after an exposure from a suspect rabid animal can prevent rabies in almost 100% of cases. True PEP failures are extremely rare and may occur because of short incubation periods resulting from multiple exposures on highly innervated areas of the body like the face, neck, hands etc. or because of direct inoculation of the virus into nerves.",
+    "outcome": "the patient died because of a sudden cardiac arrest on the fifth day of hospitalization (9 days post-onset of symptoms)"
+  },
+  "final_diagnosis": {
+    "disease_name_short": "Rabies",
+    "confirmation_method": "positive CSF viral RNA by RT-PCR and saliva sample collected at admission was positive for rabies viral RNA by RT-PCR",
+    "evidence": "clinical presentation with fever and ascending paresis in a rabies-endemic country, dog bite exposure, and laboratory confirmation of rabies virus"
+  }
+}
+```

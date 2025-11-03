@@ -1,0 +1,32 @@
+{
+  "case_id": "005",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/5---A-4-Year-Old-Boy-from-Laos-With-a-Lesion-o_2022_Clinical-Cases-in-Tropic.pdf",
+  "n_pages": 2,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/005/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/005/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        83.28199768066406,
+        421.51202392578125,
+        263.4519958496094,
+        646.6400146484375
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/005/images/005_p1_fig_1.png"
+    },
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        70.58300018310547,
+        422.7030029296875,
+        280.8760070800781,
+        580.3090209960938
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/005/images/005_p2_fig_1.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/005/005.json"
+}

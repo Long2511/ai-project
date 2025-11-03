@@ -1,0 +1,32 @@
+{
+  "case_id": "080",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/80---A-62-Year-Old-Man-from-Thailand-With-a_2022_Clinical-Cases-in-Tropical-.pdf",
+  "n_pages": 3,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/080/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/080/images",
+  "images_meta": [
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        56.069000244140625,
+        53.80104064941406,
+        560.239013671875,
+        259.5400390625
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/080/images/080_p2_fig_1.png"
+    },
+    {
+      "page_number": 2,
+      "figure_index": 2,
+      "bbox": [
+        157.03900146484375,
+        308.5790100097656,
+        457.4079895019531,
+        608.8250122070312
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/080/images/080_p2_fig_2.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/080/080.json"
+}

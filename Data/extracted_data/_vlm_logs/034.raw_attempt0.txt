@@ -1,0 +1,123 @@
+```json
+{
+  "patient_information": {
+    "age": "35 years",
+    "sex": "male",
+    "occupation": "farmer",
+    "country_of_origin": "Peru",
+    "travel_history": "recent travel to the Peruvian highlands",
+    "comorbidities": "none reported",
+    "immunosuppression": "none reported"
+  },
+  "chief_complaint": {
+    "symptoms": [
+      "chronic ulcer on left arm",
+      "multiple nodular lesions on left arm"
+    ],
+    "duration": "2 months"
+  },
+  "history_of_present_illness": {
+    "timeline": "2-month history of symptoms",
+    "key_symptoms": [
+      "slowly growing ulcer",
+      "painless nodules",
+      "painful papule that developed into a pustule"
+    ],
+    "severity_pattern": "progressive worsening over 2 months",
+    "onset": "after a scratch on the left hand from a tree branch while working in the fields",
+    "treatment_history": [
+      "antibiotics without improvement",
+      "continued antibiotics and topical traditional medicines"
+    ]
+  },
+  "exposure_and_epidemiology": {
+    "residence_travel": "recent travel to the Peruvian highlands",
+    "vectors": "mosquito exposure implied by endemic setting",
+    "animals": "no animal exposures reported",
+    "water_food_risks": "no water/food risks reported",
+    "contacts": "no sick contacts reported",
+    "season_outbreak_context": "unknown",
+    "occupation_risk_factors": "working in the fields"
+  },
+  "vitals": {
+    "temperature": "4.5 × 10^9/L (reference range 4–10 × 10^9/L)",
+    "hemoglobin": "11.3 g/dL",
+    "differential_count": "normal",
+    "remaining_full_blood_count": "normal"
+  },
+  "physical_exam": {
+    "findings": [
+      "single ulcerative lesion (20 × 30 mm) with irregular elevated borders",
+      "multiple subcutaneous erythematous nodules (10 × 10 mm)",
+      "lymphatic tract compatible with nodular lymphangitis"
+    ],
+    "normal_findings": "rest of the physical examination is normal"
+  },
+  "labs_and_diagnostics": {
+    "white_blood_cell_count": "4.5 × 10^9/L",
+    "hemoglobin": "11.3 g/dL",
+    "differential_count": "normal",
+    "remaining_full_blood_count": "normal",
+    "microscopy_results": [
+      "no leishmania parasites observed by direct microscopy",
+      "leishmanin skin test was negative"
+    ],
+    "culture_results": {
+      "ulcer_scraping": "positive for S. schenckii",
+      "nodule_aspiration": "positive for S. schenckii"
+    },
+    "PCR_results": "not performed",
+    "serology_results": "not performed",
+    "other_tests": [
+      "chest x-ray was normal",
+      "PPD skin testing was negative"
+    ]
+  },
+  "differential_diagnosis": {
+    "considered": [
+      "cutaneous leishmaniasis",
+      "sporotrichosis",
+      "mycobacterial infection by M. tuberculosis or M. marinum"
+    ],
+    "reasons_for_consideration": [
+      "clinical presentation compatible with nodular lymphangitis",
+      "history of travel to an endemic area",
+      "lack of clinical improvement after a complete course of pentavalent antimonials"
+    ]
+  },
+  "management_and_clinical_course": {
+    "approach": [
+      "collection of specimens for microscopy and culture",
+      "initial treatment with pentavalent antimonials",
+      "referred for further diagnosis and treatment"
+    ],
+    "treatment_history": [
+      "empirical treatment for cutaneous leishmaniasis",
+      "negative results from direct microscopy, leishmanin skin test, and culture of ulcer scraping and nodule aspiration"
+    ],
+    "diagnosis_confirmation": {
+      "confirmed": "lymphocutaneous sporotrichosis",
+      "confirmation_method": [
+        "positive cultures for S. schenckii",
+        "clinical features typical of the disease"
+      ]
+    },
+    "treatment": {
+      "initial_treatment": "itraconazole PO 200 mg/day",
+      "duration_of_treatment": "8 months",
+      "resolution_of_symptoms": "ulcer and nodular lesions resolved after treatment",
+      "patient_status": "considered cured"
+    }
+  },
+  "final_diagnosis": {
+    "disease_name_short": "Lymphocutaneous sporotrichosis",
+    "confirmation_method": [
+      "positive cultures for S. schenckii",
+      "clinical features typical of the disease"
+    ],
+    "evidence": [
+      "chronic ulcer with nodular lymphangitis, positive cultures for S. schenckii"
+    ]
+  }
+}
+```

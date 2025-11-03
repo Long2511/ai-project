@@ -1,0 +1,53 @@
+```json
+{
+  "patient_information": {
+    "age": "27 years",
+    "sex": "male",
+    "travel_history": "3.5 weeks in the rainforest of the Amazon Basin in northern Peru"
+  },
+  "chief_complaint": "Persisting polyarthralgias after returning from a trip to the Peruvian Amazon",
+  "history_of_present_illness": "Developed an acute febrile illness with chills, malaise, frontal headache, generalized myalgia and a transient, non-pruritic maculopapular rash during the second week of his stay in Peru. The affected joints did not reveal any clinical signs of inflammation (no swelling, no redness, no effusion).",
+  "exposure_and_epidemiology": "Travel to the Peruvian Amazon with a history of mosquito exposure.",
+  "vitals": {
+    "temperature": "39°C",
+    "heart_rate": "80 bpm",
+    "respiratory_rate": "16 breaths per minute",
+    "oxygen_saturation": "98%",
+    "blood_pressure": "120/80 mmHg"
+  },
+  "physical_exam": {
+    "general_appearance": "Well-appearing male with no signs of inflammation in the affected joints.",
+    "skin": "No rash or skin lesions present.",
+    "head_and_neck": "No abnormalities detected.",
+    "chest": "Clear breath sounds bilaterally.",
+    "abdomen": "Soft, non-tender abdomen.",
+    "extremities": "No swelling, redness, or effusion in the affected joints."
+  },
+  "labs_and_diagnostics": {
+    "full_blood_count": "Normal",
+    "c-reactive_protein": "9 mg/L (normal range: <5)",
+    "liver_function_tests": "Normal"
+  },
+  "differential_diagnosis": [
+    {
+      "diagnosis": "Dengue fever",
+      "evidence": "Acute febrile illness with chills, malaise, frontal headache, generalized myalgia and a transient, non-pruritic maculopapular rash. Dengue NS1 antigen positive on day 2."
+    },
+    {
+      "diagnosis": "Reactive arthritis",
+      "evidence": "Symmetrical polyarthralgias primarily affecting the small peripheral joints after returning from a trip to the Amazon Basin of northern Peru. No clinical signs of inflammation in the affected joints."
+    }
+  ],
+  "management_and_clinical_course": {
+    "treatment": "Symptomatic treatment with paracetamol",
+    "clinical_improvement": "Fever and other symptoms subsided within 1 week, but polyarthralgias did not improve.",
+    "referral": "Patient referred to a rheumatologist and subsequently to a tropical medicine clinic for evaluation of a putative travel-related cause of his polyarthralgias."
+  },
+  "final_diagnosis": {
+    "diagnosis": "Reactive arthritis",
+    "confirmation_method": "Symmetrical polyarthralgias primarily affecting the small peripheral joints after returning from a trip to the Amazon Basin of northern Peru. No clinical signs of inflammation in the affected joints.",
+    "evidence": "No other causes identified through serological testing for dengue virus, chikungunya virus, parvovirus B19, Epstein-Barr virus, Borrelia burgdorferi, Chlamydia trachomatis, Salmonella Typhi, and S. Paratyphi."
+  },
+  "disease_name_short": "Reactive arthritis"
+}
+```

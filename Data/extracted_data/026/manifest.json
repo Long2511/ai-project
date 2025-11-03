@@ -1,0 +1,32 @@
+{
+  "case_id": "026",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/26---A-14-Year-Old-Boy-from-Malawi-Who-Has-Bee_2022_Clinical-Cases-in-Tropic.pdf",
+  "n_pages": 3,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/026/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/026/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        333.6940002441406,
+        257.6700134277344,
+        543.676025390625,
+        415.3330078125
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/026/images/026_p1_fig_1.png"
+    },
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        331.31298828125,
+        468.6240234375,
+        541.5039672851562,
+        626.1170043945312
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/026/images/026_p2_fig_1.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/026/026.json"
+}

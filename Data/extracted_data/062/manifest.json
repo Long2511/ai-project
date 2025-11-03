@@ -1,0 +1,32 @@
+{
+  "case_id": "062",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/62---A-28-Year-Old-Man-from-Ghana-With-a-Chron_2022_Clinical-Cases-in-Tropic.pdf",
+  "n_pages": 3,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/062/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/062/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        97.51200103759766,
+        566.9290161132812,
+        253.70098876953125,
+        691.2000122070312
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/062/images/062_p1_fig_1.png"
+    },
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        83.33899688720703,
+        418.73504638671875,
+        263.3389892578125,
+        625.0400390625
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/062/images/062_p2_fig_1.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/062/062.json"
+}

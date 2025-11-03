@@ -1,0 +1,68 @@
+```json
+{
+  "patient_information": {
+    "age": "6 years old",
+    "sex": "male",
+    "immunocompromised status": "HIV-positive but not yet on antiretroviral therapy (ART)",
+    "travel history": "from Malawi"
+  },
+  "chief_complaint": "High fever, dry cough, coryza, conjunctivitis, and impaired level of consciousness",
+  "history_of_present_illness": "The symptoms started 3 days before admission with high fever, dyspnoea, and a dry cough. The boy was admitted because of worsening symptoms including impaired level of consciousness.",
+  "exposure_and_epidemiology": {
+    "travel history": "from Malawi",
+    "contact history": "unknown",
+    "seasonal context": "measles season"
+  },
+  "vitals": {
+    "temperature": "39.8°C (103.6°F)",
+    "respiratory rate": "laboured breathing",
+    "oxygen saturation": "not specified",
+    "blood pressure": "not specified",
+    "heart rate": "not specified"
+  },
+  "physical_exam": {
+    "general appearance": "sick child",
+    "temperature": "39.8°C (103.6°F)",
+    "respiratory status": "laboured breathing",
+    "coryza": "present",
+    "conjunctivitis": "present",
+    "rash": {
+      "location": "neck and face",
+      "description": "fine maculopapular rash"
+    },
+    "axillary lymphadenopathy": "bilateral"
+  },
+  "labs_and_diagnostics": {
+    "CBC": "not specified",
+    "vitamin A supplementation": "given for corneal protection",
+    "malaria smear": "negative",
+    "measles vaccination status": "unknown",
+    "antibiotic treatment": "received"
+  },
+  "differential_diagnosis": [
+    {
+      "diagnosis": "Measles",
+      "evidence": "rash, coryza, conjunctivitis, and impaired level of consciousness; history of travel to Malawi in measles season"
+    },
+    {
+      "diagnosis": "Other viral infections",
+      "evidence": "similar symptoms but not confirmed by specific tests"
+    }
+  ],
+  "management_and_clinical_course": {
+    "treatment": [
+      "IV fluids",
+      "vitamin A supplementation for corneal protection",
+      "antibiotic treatment"
+    ],
+    "complications": "severe pneumonia and encephalitis",
+    "outcome": "recovery in the outpatient clinic after starting antiretroviral therapy (ART)"
+  },
+  "final_diagnosis": {
+    "diagnosis": "Measles",
+    "confirmation method": "clinical presentation with rash, coryza, conjunctivitis, and impaired level of consciousness; history of travel to Malawi in measles season",
+    "evidence": "rash, coryza, conjunctivitis, and impaired level of consciousness; history of travel to Malawi in measles season"
+  },
+  "disease_name_short": "Measles"
+}
+```

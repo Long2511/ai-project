@@ -1,0 +1,126 @@
+```json
+{
+  "patient_information": {
+    "age": "52 years",
+    "sex": "male",
+    "comorbidities": [
+      "type 2 diabetes mellitus",
+      "poorly controlled hypertension"
+    ],
+    "travel_history": "recent travel to Vietnam several years ago",
+    "last_travel_outside_city": "several years ago"
+  },
+  "chief_complaint": {
+    "duration": "4 days",
+    "symptoms": [
+      "retro-orbital headache",
+      "lethargy",
+      "myalgia",
+      "fevers"
+    ]
+  },
+  "history_of_present_illness": {
+    "timeline": "4 days of symptoms",
+    "key_symptoms": [
+      "fever",
+      "headache",
+      "malaise",
+      "myalgia"
+    ],
+    "severity_pattern": "apparent progression to severe disease with vascular leak and compensated shock"
+  },
+  "exposure_and_epidemiology": {
+    "place_of_residence_travel": "Vietnam",
+    "vector_exposures": [
+      "mosquito exposure implied by endemic setting"
+    ],
+    "animal_exposures": [],
+    "water_food_risks": [],
+    "contacts": [],
+    "season_outbreak_context": "",
+    "occupation": ""
+  },
+  "vitals": {
+    "temperature": "36.5°C",
+    "blood_pressure": "105/90 mmHg",
+    "heart_rate": "120 bpm",
+    "respiratory_rate": "28 breaths per minute",
+    "oxygen_saturation": "93% on air"
+  },
+  "physical_exam": {
+    "mental_status": "drowsy, but rousable",
+    "gcs": "14/15",
+    "temperature": "36.5°C",
+    "blood_pressure": "105/90 mmHg",
+    "heart_rate": "120 bpm",
+    "respiratory_rate": "28 breaths per minute",
+    "oxygen_saturation": "93% on air",
+    "peripheral_oxygen_saturation": "93%",
+    "radial_pulse": "weak",
+    "heart_sounds": "normal",
+    "abdominal_distension": "mild",
+    "shifting_dullness": "present",
+    "tender_liver_edge": "3 cm",
+    "liver_size": "mild hepatomegaly",
+    "gallbladder_wall": "thickened",
+    "skin_exam": "unremarkable"
+  },
+  "labs_and_diagnostics": {
+    "hemoglobin": "14.6 g/dL",
+    "haematocrit": "53.9%",
+    "platelets": "58 × 10^9/L",
+    "wcc": "2.1 × 10^9/L",
+    "neutrophils": "0.9 × 10^9/L",
+    "lymphocytes": "0.8 × 10^9/L",
+    "c-reactive_protein": "20 mg/L",
+    "urea": "7.8 mmol/L",
+    "creatinine": "114 μmol/L",
+    "alanine_aminotransferase": "812 U/L",
+    "alkaline_phosphatase": "260 U/L",
+    "total_bilirubin": "18 μmol/L",
+    "lactate": "3.5 mmol/L"
+  },
+  "differential_diagnosis": {
+    "main_alternatives": [
+      "Dengue fever",
+      "Chikungunya",
+      "Malaria"
+    ],
+    "reasons_for_consideration_dengue": [
+      "Short duration of symptoms before presentation",
+      "Relatively low CRP and absence of neutrophil leucocytosis",
+      "Clinical signs of shock: tachycardia, narrow pulse pressure (<20 mmHg), reduced GCS and raised serum lactate"
+    ],
+    "reasons_for_consideration_chikungunya": [
+      "Epidemiology in South East Asia",
+      "Possible sepsis"
+    ],
+    "reasons_for_consideration_malaria": [
+      "No evidence of haemolysis to support this diagnosis",
+      "Risk of malaria is very low in most urban areas of Vietnam"
+    ]
+  },
+  "management_and_clinical_course": {
+    "fluid_resuscitation": "Ringer's lactate solution at a volume of 10 mL/kg over 1 hour",
+    "rate_of_fluid_delivery": [
+      "15 mL/kg/hr until sufficient haemodynamic improvement is shown",
+      "7 mL/kg/hr for 2 hours and by a further 2 mL/kg/hr every 2 hours until no longer required"
+    ],
+    "clinical_assessments": "haematocrit checks every 6 hours",
+    "discharge": "3 days later, after complete recovery"
+  },
+  "final_diagnosis": {
+    "disease_name": "Dengue fever",
+    "causative_agent": "Dengue virus",
+    "confirmation_method": [
+      "Detection of the NS1 antigen by RDTs or ELISA",
+      "Detection of viral RNA using RT-PCR"
+    ],
+    "evidence_for_alternatives_ruled_out": [
+      "No evidence of haemolysis to support malaria diagnosis",
+      "Risk of malaria is very low in most urban areas of Vietnam"
+    ]
+  },
+  "disease_name_short": "Dengue fever"
+}
+```

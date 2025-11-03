@@ -1,0 +1,32 @@
+{
+  "case_id": "065",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/65---A-4-Year-Old-Girl-from-Bolivia-With-a-Dar_2022_Clinical-Cases-in-Tropic.pdf",
+  "n_pages": 2,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/065/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/065/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        68.25800323486328,
+        548.2210693359375,
+        278.4420166015625,
+        705.60009765625
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/065/images/065_p1_fig_1.png"
+    },
+    {
+      "page_number": 1,
+      "figure_index": 2,
+      "bbox": [
+        331.2569885253906,
+        543.0050659179688,
+        541.6549682617188,
+        705.6570434570312
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/065/images/065_p1_fig_2.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/065/065.json"
+}

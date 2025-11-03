@@ -1,0 +1,32 @@
+{
+  "case_id": "067",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/67---A-24-Year-Old-Woman-from-the-Peruvian-Andes-_2022_Clinical-Cases-in-Tro.pdf",
+  "n_pages": 3,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/067/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/067/images",
+  "images_meta": [
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        137.02699279785156,
+        53.80101013183594,
+        347.00897216796875,
+        210.614013671875
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/067/images/067_p2_fig_1.png"
+    },
+    {
+      "page_number": 2,
+      "figure_index": 2,
+      "bbox": [
+        349.39801025390625,
+        53.80101013183594,
+        477.28802490234375,
+        210.614013671875
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/067/images/067_p2_fig_2.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/067/067.json"
+}

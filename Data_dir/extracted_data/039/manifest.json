@@ -1,0 +1,32 @@
+{
+  "case_id": "039",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/39---A-30-Year-Old-Male-Chinese-Trader-With-_2022_Clinical-Cases-in-Tropical.pdf",
+  "n_pages": 3,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/039/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/039/images",
+  "images_meta": [
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        93.71299743652344,
+        53.80204772949219,
+        303.69500732421875,
+        238.39404296875
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/039/images/039_p2_fig_1.png"
+    },
+    {
+      "page_number": 2,
+      "figure_index": 2,
+      "bbox": [
+        306.02801513671875,
+        54.14201354980469,
+        516.010009765625,
+        237.99700927734375
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/039/images/039_p2_fig_2.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/039/039.json"
+}

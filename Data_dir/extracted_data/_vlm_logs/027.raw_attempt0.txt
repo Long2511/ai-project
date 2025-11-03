@@ -1,0 +1,123 @@
+```json
+{
+  "patient_information": {
+    "age": "16 years",
+    "sex": "male",
+    "country_of_origin": "Sri Lanka",
+    "comorbidities": null,
+    "immunosuppression": null,
+    "vaccination_status": null,
+    "allergy_history": null
+  },
+  "chief_complaint": {
+    "symptoms": [
+      "fever",
+      "jaundice",
+      "renal failure"
+    ],
+    "duration": "2 days"
+  },
+  "history_of_present_illness": {
+    "onset": "2 days ago",
+    "symptoms": [
+      "fever",
+      "frontal headache",
+      "severe body aches",
+      "vomiting",
+      "no urination for 12 hours"
+    ],
+    "duration": "7 days",
+    "travel_history": "recent travel to Sri Lanka",
+    "exposure_to_water_stream": true,
+    "contact_with_animals_or_rodents": false
+  },
+  "exposure_and_epidemiology": {
+    "place_of_residence": null,
+    "vector_exposures": [
+      "mosquito exposure"
+    ],
+    "animal_exposures": null,
+    "water_food_risks": null,
+    "contacts_with_sick_people": false,
+    "season_outbreak_context": null
+  },
+  "vitals": {
+    "temperature": "38.3°C (100.9°F)",
+    "heart_rate": "100 bpm",
+    "blood_pressure": "90/60 mmHg",
+    "respiratory_rate": null,
+    "oxygen_saturation": null
+  },
+  "physical_exam": {
+    "general_appearance": "ill and drowsy",
+    "jaundice": true,
+    "subconjunctival hemorrhages": true,
+    "temperature": "38.3°C (100.9°F)",
+    "pulse_rate": "100 bpm",
+    "blood_pressure": "90/60 mmHg",
+    "respiratory_rate": null,
+    "oxygen_saturation": null
+  },
+  "labs_and_diagnostics": {
+    "CBC": [
+      "WBC: 5.7 (neutrophils: 5.7, lymphocytes: 31%)",
+      "Platelets: 96"
+    ],
+    "liver_function_tests": [
+      "AST: 64",
+      "ALT: 58",
+      "ALP: 246"
+    ],
+    "renal_function_tests": [
+      "Creatinine: 212.2",
+      "Serum creatinine: 77",
+      "BUN: 20.7",
+      "C-reactive protein: 48"
+    ],
+    "urine_analysis": {
+      "red blood cells": "20 per high-power field",
+      "proteinuria": "+",
+      "granular casts": "+"
+    },
+    "serology": [
+      "Leptospira IgM ELISA positive",
+      "Microscopic agglutination test (MAT) positive"
+    ],
+    "imaging": null,
+    "PCR_tests": null
+  },
+  "differential_diagnosis": {
+    "leptospirosis": true,
+    "scrub typhus": false,
+    "dengue hemorrhagic fever": false,
+    "hantavirus infection": false,
+    "other causes of jaundice and renal failure": false
+  },
+  "management_and_clinical_course": {
+    "treatment": [
+      "Empirical benzylpenicillin",
+      "Haemodialysis"
+    ],
+    "complications": [
+      "Myocarditis",
+      "Atrial fibrillation"
+    ],
+    "outcome": "Gradual recovery over 10 days with intensive care management"
+  },
+  "final_diagnosis": {
+    "disease_name": "Severe leptospirosis",
+    "causative_agent": "Leptospira interrogans",
+    "confirmation_method": [
+      "Positive Leptospira IgM ELISA",
+      "Positive MAT"
+    ],
+    "evidence": [
+      "Acute febrile illness with jaundice, renal failure, and subconjunctival hemorrhages",
+      "History of recent travel to Sri Lanka",
+      "Exposure to a water stream",
+      "Positive serological tests for leptospirosis"
+    ]
+  },
+  "disease_name_short": "Leptospirosis"
+}
+```

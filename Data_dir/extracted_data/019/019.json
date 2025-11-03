@@ -1,0 +1,13 @@
+{
+  "patient_information": "{'age': '40-year-old man', 'sex': None, 'comorbidities': None, 'immunosuppression': None, 'vaccination': None, 'allergy_info': None}",
+  "chief_complaint": "Changes in both eyes over the past 4 years, noticed by the patient",
+  "history_of_present_illness": "Patient has observed changes in his eyes for approximately four years. Symptoms include corneal opacities and subcutaneous nodules.",
+  "exposure_and_epidemiology": "{'residence_travel': 'From Togo with recent travel to a village near a rapidly flowing river', 'vectors_animals': 'Small biting flies common near the river, which is preferred breeding site for Simulium blackflies', 'water_food_risks': None, 'contacts_season_outbreak': 'No reported sick contacts or outbreak context', 'occupation': None}",
+  "vitals": "{'temperature': None, 'blood_pressure': None, 'heart_rate': None, 'respiratory_rate': None, 'oxygen_saturation': None}",
+  "physical_exam": "{'skin_changes': 'Atrophic skin with loss of elasticity, multiple scratch marks', 'corneal_opacities': 'Corneal opacities in both eyes', 'subcutaneous_nodules': 'Subcutaneous nodules palpable over bony prominences like ribs and iliac crest'}",
+  "labs_and_diagnostics": "{'CBC_trends': None, 'key_chemistry_coagulation': None, 'inflammatory_markers': None, 'microbiology_serology_PCR': None}",
+  "differential_diagnosis": "Onchocerciasis (river blindness) is the most likely differential diagnosis based on clinical findings and exposure to a rapidly flowing river.",
+  "management_and_clinical_course": "{'treatment': 'Patient treated with ivermectin (150 μg/kg) STAT, repeated after 3 months and after 1 year', 'supportive_care_procedures': None, 'response_complications_outcome': 'Patient responded well to treatment with full recovery by day 6; no complications documented'}",
+  "final_diagnosis": "{'disease_name': 'Onchocerciasis (river blindness)', 'causative_agent_confirmation_method': 'Positive serological tests for Ov150 antigen and recombinant Ov16', 'evidence_alternatives_ruled_out': 'No other differential diagnoses considered due to clinical presentation, exposure history, and positive test results.'}",
+  "disease_name_short": "Onchocerciasis"
+}

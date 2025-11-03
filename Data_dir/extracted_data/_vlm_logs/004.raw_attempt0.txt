@@ -1,0 +1,57 @@
+```json
+{
+  "patient_information": {
+    "age": "4 years",
+    "sex": "female",
+    "vaccination_status": "unknown",
+    "allergy_history": "unknown"
+  },
+  "chief_complaint": "Coma with no neurological localizing signs, supple neck, hepatosplenomegaly, and positive malaria rapid diagnostic test (RDT).",
+  "history_of_present_illness": "The child was well until yesterday when she developed a bad headache in the early afternoon. Later that evening, she had shaking chills.",
+  "exposure_and_epidemiology": {
+    "travel_history": "Travel to rural Uganda during the rainy season",
+    "vector_exposures": "Mosquito bites",
+    "animal_exposures": "Unknown",
+    "water_food_risks": "Unknown",
+    "contacts": "Unknown",
+    "season_outbreak_context": "Rainy season in rural Uganda"
+  },
+  "vitals": {
+    "temperature": "38.7°C (101.7°F)",
+    "pulse": "150 bpm",
+    "respiratory_rate": "36 breaths per minute",
+    "blood_pressure": "98/40 mmHg"
+  },
+  "physical_exam": {
+    "neurological_status": "Comatose with no neurological localizing signs, supple neck, normal oculocephalic reflexes",
+    "abdominal_exam": "Hepatosplenomegaly",
+    "cardiac_exam": "Gallop rhythm"
+  },
+  "labs_and_diagnostics": {
+    "hematocrit": "17.6%",
+    "platelet_count": "28 × 10^9/L",
+    "malaria_rapid_test": "Positive",
+    "lumbar_puncture": "Clear CSF, normal opening pressure"
+  },
+  "differential_diagnosis": [
+    {
+      "diagnosis": "Cerebral malaria",
+      "evidence": "Positive malaria RDT, supple neck, no focal neurological signs"
+    },
+    {
+      "diagnosis": "Acute bacterial meningitis",
+      "evidence": "Normal CSF, no neck stiffness"
+    },
+    {
+      "diagnosis": "Viral encephalitis",
+      "evidence": "No history of recent head trauma or other known cause"
+    }
+  ],
+  "management_and_clinical_course": {
+    "treatment": "Artesunate 2.4 mg/kg IV in A&E, lumbar puncture performed",
+    "outcome": "Discharged home on hospital day five with follow-up appointment scheduled after 4 weeks"
+  },
+  "final_diagnosis": "Cerebral malaria due to Plasmodium falciparum, confirmed by positive malaria RDT and clinical presentation.",
+  "disease_name_short": "Cerebral malaria"
+}
+```
