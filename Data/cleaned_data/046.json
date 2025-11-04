@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 45 years Sex: male Country of origin: Sri Lanka Vaccination history: unknown Allergy history: unknown",
+  "chief_complaint": "Fever, chills, headache, body aches and severe right hypochondrial pain for the past week.",
+  "history_of_present_illness": "A 45-year-old Sri Lankan man presents to a local hospital with fever, chills, headache, body aches and severe right hypochondrial pain for the past week. He has also developed a dry cough during the past few days. He has vomited twice during his illness and has lost his appetite.",
+  "exposure_and_epidemiology": "Travel history: recent travel to Sri Lanka Vector exposures: unknown Animal exposures: unknown Water food risks: unknown Contacts: unknown Season outbreak context: unknown",
+  "vitals": "Temperature: 38.3°C (100.8°F) Blood pressure: 100/80 mmHg Pulse rate: 102 bpm Respiratory rate: 24 breaths per minute",
+  "physical_exam": "General appearance: mildly dehydrated and in pain Abdominal examination: tender hepatomegaly, intercostal tenderness on the right side Lung examination: few inspiratory crackles over the right lung base",
+  "labs_and_diagnostics": "Cbc: WBC (14.7 × 10^9/L), Hemoglobin (12.3 g/dL), Platelets (224 × 10^9/L) Liver function tests: AST (54 U/L), ALT (38 U/L), ALP (446 U/L) Serum bilirubin: Total bilirubin (10.3 μmol/L), Direct bilirubin (1.5 μmol/L) Blood urea nitrogen: 7 mmol/L Creatinine: 124 μmol/L Crp: 48 mg/L",
+  "differential_diagnosis": "Amoebic liver abscess: likely diagnosis based on tender hepatomegaly, intercostal tenderness and elevated right hemidiaphragm in the context of fever. Pyogenic liver abscess: less likely due to mildly elevated transaminases Infectious hepatitis: less likely due to absence of jaundice",
+  "management_and_clinical_course": "Treatment: metronidazole for ten days Outcome: rapid and uneventful recovery",
+  "final_diagnosis": "Amoebic liver abscess caused by Entamoeba histolytica, confirmed by a positive serology test.",
+  "disease_name_short": "Amoebic liver abscess"
+}

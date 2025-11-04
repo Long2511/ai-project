@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 4 years Sex: female Vaccination status: unknown Allergy history: unknown",
+  "chief_complaint": "Coma with no neurological localizing signs, supple neck, hepatosplenomegaly, and positive malaria rapid diagnostic test (RDT).",
+  "history_of_present_illness": "The child was well until yesterday when she developed a bad headache in the early afternoon. Later that evening, she had shaking chills.",
+  "exposure_and_epidemiology": "Travel history: Travel to rural Uganda during the rainy season Vector exposures: Mosquito bites Animal exposures: Unknown Water food risks: Unknown Contacts: Unknown Season outbreak context: Rainy season in rural Uganda",
+  "vitals": "Temperature: 38.7°C (101.7°F) Pulse: 150 bpm Respiratory rate: 36 breaths per minute Blood pressure: 98/40 mmHg",
+  "physical_exam": "Neurological status: Comatose with no neurological localizing signs, supple neck, normal oculocephalic reflexes Abdominal exam: Hepatosplenomegaly Cardiac exam: Gallop rhythm",
+  "labs_and_diagnostics": "Hematocrit: 17.6% Platelet count: 28 × 10^9/L Malaria rapid test: Positive Lumbar puncture: Clear CSF, normal opening pressure",
+  "differential_diagnosis": "{'diagnosis': 'Cerebral malaria', 'evidence': 'Positive malaria RDT, supple neck, no focal neurological signs'}; {'diagnosis': 'Acute bacterial meningitis', 'evidence': 'Normal CSF, no neck stiffness'}; {'diagnosis': 'Viral encephalitis', 'evidence': 'No history of recent head trauma or other known cause'}",
+  "management_and_clinical_course": "Treatment: Artesunate 2.4 mg/kg IV in A&E, lumbar puncture performed Outcome: Discharged home on hospital day five with follow-up appointment scheduled after 4 weeks",
+  "final_diagnosis": "Cerebral malaria due to Plasmodium falciparum, confirmed by positive malaria RDT and clinical presentation.",
+  "disease_name_short": "Malaria"
+}

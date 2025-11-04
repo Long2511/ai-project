@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 33 years Sex: male Travel history: backpacking in India for the previous month",
+  "chief_complaint": "Diarrhea and flatulence for two weeks",
+  "history_of_present_illness": "Passage of loose stools (four or five episodes per day) for the past 2 weeks, weight loss, anorexia, malaise, abdominal cramping when passing stool. For the past 3 days he has had bloating and distension after intake of milk products with an urge to pass stool.",
+  "exposure_and_epidemiology": null,
+  "vitals": null,
+  "physical_exam": "Abdomen: mild non-specific abdominal tenderness Weight loss: 4kg weight loss",
+  "labs_and_diagnostics": "Stool for reducing substances: positive Stool examination for enteric parasites: Giardia trophozoites are seen in the fresh specimen. Giardia cysts are detected on formol-ether concentrated specimens",
+  "differential_diagnosis": null,
+  "management_and_clinical_course": "Treatment: Given tinidazole 2g as a single oral dose Symptoms after treatment: Stool consistency had returned to normal and the frequency had decreased, no nausea, anorexia had decreased",
+  "final_diagnosis": null,
+  "disease_name_short": null
+}

@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 67 years Sex: female Residence: Cameroon Occupation: expatriate",
+  "chief_complaint": "Palpitations and transient subcutaneous swellings for the past year.",
+  "history_of_present_illness": "Patient presents with palpitations at a tropical medicine clinic in Germany. She also reports transient subcutaneous swellings for the past year, no history of fever or constitutional symptoms.",
+  "exposure_and_epidemiology": "Travel history: Living as an expatriate in Cameroon for the past 4 years Vector exposures: No reported mosquito exposure",
+  "vitals": "{'heart_rate': None, 'blood_pressure': None, 'respiratory_rate': None, 'oxygen_saturation': None}",
+  "physical_exam": "General appearance: Afebrile Skin examination: No visible subcutaneous swellings Cardiovascular system: Heart sounds clear and regular, no murmurs Abdomen: Soft, non-tender Neurological exam: Clear",
+  "labs_and_diagnostics": "Full blood count: {\"white_blood_cells\": \"6.20 × 10^9/L (4–10)\", \"hemoglobin\": \"13.8 g/dL (12–15)\", \"platelets\": \"155 × 10^9/L (150–450)\", \"neutrophils\": \"45%\", \"eosinophils\": \"14%\", \"lymphocytes\": \"36%\", \"monocytes\": \"4%\", \"basophils\": \"0%\"} Echocardiography: {\"pericardial_effusion\": \"Minimal\", \"other_findings\": \"No pathological findings\"}",
+  "differential_diagnosis": "{'diagnosis': 'Filarial infection', 'evidence': 'Pattern of transient subcutaneous swellings, eosinophilia, and history of living in Cameroon for several years are suggestive of a filarial infection.'}; {'diagnosis': 'Acute schistosomiasis (Katayama syndrome)', 'evidence': 'Eosinophilia, fever, and an urticarial rash; however, this patient is afebrile and the migratory swellings she describes do not fit the clinical picture of schistosomiasis.'}; {'diagnosis': 'Gnathostomiasis or sparganosis', 'evidence': 'Eosinophilia and migratory swellings; however, these infections are more common in East Asia than in Africa. Sparganosis has been reported from Kenya and Tanzania.'}",
+  "management_and_clinical_course": "Treatment: [{\"drug\": \"Albendazole\", \"dose\": \"200 mg bd for 21 days\"}, {\"drug\": \"Ivermectin\", \"dose\": \"150 μg/kg stat, then DEC at slowly increasing doses\"}] Clinical improvement: Absolute eosinophil count (AEC) returned to normal and the microfilarial count declined. Outcome: No sequelae were observed and the palpitations settled.",
+  "final_diagnosis": "{'diagnosis': 'Filarial infection', 'evidence': 'Positive serology for filarial infection, presence of sheathed microfilaria with a tapered tail characteristic of Loa loa.', 'confirmation_method': \"Microfilariae were detected in the patient's blood after treatment.\"}",
+  "disease_name_short": "Filarial infection"
+}

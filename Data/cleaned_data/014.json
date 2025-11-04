@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 22 years Sex: female Location: Ashulia near Dhaka, Bangladesh Travel history: recently attended a religious festival where water was supplied in large metal containers",
+  "chief_complaint": "profuse watery diarrhea for several days",
+  "history_of_present_illness": "Onset of symptoms shortly after attending the religious festival, with severe dehydration and electrolyte derangement",
+  "exposure_and_epidemiology": "Travel history: recently attended a religious festival in Bangladesh where water was supplied in large metal containers Symptoms onset: shortly after returning from the festival",
+  "vitals": "Temperature: normal Heart rate: 110 bpm Respiratory rate: low volume Blood pressure: 90/50 mmHg Oxygen saturation: normal",
+  "physical_exam": "General appearance: stuporous and minimally responsive to painful stimuli (GCS 9/15) Skin: sunken eyes, dry mouth, scaphoid abdomen Respiratory system: no abnormal findings Cardiovascular system: low volume circulation Abdomen: scaphoid",
+  "labs_and_diagnostics": "Laboratory results: [{\"parameter\": \"sodium\", \"value\": \"143.8 mmol/L\"}, {\"parameter\": \"potassium\", \"value\": \"3.0 mmol/L\"}, {\"parameter\": \"chloride\", \"value\": \"103.8 mmol/L\"}, {\"parameter\": \"bicarbonate\", \"value\": \"11.4 mmol/L\"}, {\"parameter\": \"lactic acid (venous)\", \"value\": \"4.1 mmol/L\"}, {\"parameter\": \"creatinine\", \"value\": \"203 μmol/L\"}, {\"parameter\": \"blood urea nitrogen\", \"value\": \"8.6 mmol/L\"}] Stool examination: {\"macroscopic\": \"liquid stool, rice-water appearance with no faeces matter\", \"microscopic\": \"small slender curved bacilli with darting motility\"} Stool culture: {\"organism\": \"Vibrio cholerae (Ogawa serotype, El Tor biotype)\"}",
+  "differential_diagnosis": null,
+  "management_and_clinical_course": "{'treatment': [{'procedure': \"intravenous rehydration with Ringer's lactate solution\"}, {'monitoring': 'observing for signs of dehydration and electrolyte imbalance'}], 'clinical_progress': {'improvement': 'pulmonary rate and blood pressure improved', 'outcome': 'recovered within 3 hours'}}",
+  "final_diagnosis": "Diagnosis: cholera due to Vibrio cholerae (Ogawa serotype, El Tor biotype) Confirmation method: positive stool culture for V. cholerae Evidence: clinical presentation with severe dehydration and electrolyte derangement",
+  "disease_name_short": "Cholera"
+}

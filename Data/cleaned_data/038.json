@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 24 years Sex: female Travel history: recent travel to rural Thailand one week prior; mosquito exposure is implied by the endemic setting. Comorbidities: no reported comorbidities or immunosuppression Allergy info: no allergy information provided",
+  "chief_complaint": "Symptoms: acute high fever with rash for approximately one week Duration: one week",
+  "history_of_present_illness": "Timeline: Symptoms began shortly after travel and evolved over 7 days. Key symptoms: fever, myalgias, retro-orbital pain, maculopapular rash Severity pattern: severe",
+  "exposure_and_epidemiology": "Place of residence travel: recent travel to rural Thailand one week prior; mosquito exposure is implied by the endemic setting. Vectors: mosquito Animals: no animal exposures reported Water food risks: no water/food risks reported Contacts: no sick contacts reported Season outbreak context: no season or outbreak context provided Occupation: no occupation information provided",
+  "vitals": "Temperature: maximum recorded temperature 39.5 °C; other vital signs not reported.",
+  "physical_exam": "Findings: maculopapular rash and retro-orbital discomfort; no focal neurologic deficits or respiratory distress described. Status: no abnormalities noted",
+  "labs_and_diagnostics": "Cbc: notable for thrombocytopenia (platelets 72×10^9/L) and leukopenia Differential blood count: normal C-reactive protein: normal Csf examination: unremarkable Mri of brain with gadolinium enhancement: {\"findings\": \"multiple cortical and subcortical cystic lesions in both hemispheres\"} Neuroimaging: MRI of brain with gadolinium enhancement shows multiple cortical and subcortical cystic lesions.",
+  "differential_diagnosis": "Considered: [\"Dengue fever\", \"Chikungunya\", \"Malaria\"] Evidence for dengue: NS1 antigen positive on day 2, thrombocytopenia, travel to an endemic area. Evidence against chikungunya: no specific findings reported for chikungunya Evidence against malaria: confirmed dengue diagnosis",
+  "management_and_clinical_course": "Treatment: [\"Supportive care with oral/IV fluids and acetaminophen; no antibiotics.\", \"Clinical improvement with full recovery by day 6\", \"No complications documented.\"] Response to treatment: Full recovery",
+  "final_diagnosis": "Disease name: Dengue fever due to dengue virus Confirmation method: confirmed by a positive NS1 antigen test, compatible with acute febrile illness, thrombocytopenia, retro-orbital pain, and travel exposure. Evidence for alternatives ruled out: Malaria and chikungunya were considered less likely given confirmatory testing and symptom pattern.",
+  "disease_name_short": "Dengue fever"
+}

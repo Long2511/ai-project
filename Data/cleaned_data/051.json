@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 34 years Sex: female Hiv status: positive Country of origin: Malawi Clinical course: slowly progressive half-sided weakness",
+  "chief_complaint": null,
+  "history_of_present_illness": "{'onset': '3 months ago', 'symptoms': ['limp in left leg', 'progressive weakness affecting left arm and leg', 'reduced sensation of pain in left leg and arm'], 'duration': None, 'severity_pattern': None}",
+  "exposure_and_epidemiology": "{'travel_history': 'recent travel to Malawi', 'vector_exposures': None, 'animal_exposures': None, 'water_food_risks': None, 'contacts': None, 'season_outbreak_context': None}",
+  "vitals": "{'temperature': None, 'blood_pressure': None, 'heart_rate': None, 'respiratory_rate': None, 'oxygen_saturation': None}",
+  "physical_exam": "{'neurological_examination': ['spastic hemiparesis on the left', 'hyperreflexia', 'power in left leg: 2/5 (active movement with gravity eliminated)', 'power in left arm: 3/5 (active movement against gravity)'], 'sensory_impairment': {'left leg': 'reduced sensation of pain', 'left arm and leg': None}, 'cranial_nerves': 'normal'}",
+  "labs_and_diagnostics": "{'full_blood_count': ['WBC: 3.8 × 10^9/L (reference range: 4–10)', 'Hemoglobin: 9.9 g/dL (12–14)', 'Platelets: 140 × 10^9/L (150–350)'], 'serology': None, 'microbiology': None, 'imaging': {'MRI': ['multi-focal T2 hyperintense lesions exclusively affecting the white matter and more prominent in the right hemisphere', 'small area of demyelination in the left cerebellar peduncle']}}",
+  "differential_diagnosis": null,
+  "management_and_clinical_course": "Treatment: [\"antiretroviral therapy (ART)\", \"co-trimoxazole prophylaxis\", \"empirical antitoxoplasmosis treatment with high-dose co-trimoxazole\"] Clinical status follow up: [\"unchanged at 4-week follow-up\", \"further deterioration of power in left hand at 8 weeks\", \"MRI showed multi-focal T2 hyperintense lesions exclusively affecting the white matter and more prominent in the right hemisphere, small area of demyelination in the left cerebellar peduncle\"]",
+  "final_diagnosis": "{'disease_name_short': None, 'causative_agent': None, 'confirmation_method': None}",
+  "disease_name_short": null
+}

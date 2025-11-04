@@ -1,0 +1,13 @@
+{
+  "patient_information": "{'age': '28 years', 'sex': 'female', 'comorbidities': None, 'immunosuppression': None, 'vaccination': None, 'allergy_info': None}",
+  "chief_complaint": "Severe febrile illness with pharyngitis, conjunctivitis and chest involvement for 6 days",
+  "history_of_present_illness": "A young Sierra Leonean woman presents to a small rural hospital in eastern Sierra Leone with a 6-day history of fever, weakness, sore throat, retrosternal chest pain. She has had loose stools twice a day for the past 2 days.",
+  "exposure_and_epidemiology": "{'residence_travel': 'Recent travel to rural Sierra Leone one week prior', 'vectors_animals': None, 'water_food_risks': None, 'contacts_season_outbreak': None}",
+  "vitals": "Axillary temperature: 38.2°C (100.8°F) Blood pressure: 80/55 mmHg Pulse rate: 100 bpm",
+  "physical_exam": "{'general_status': 'Unremarkable except for mild pharyngitis', 'specific_systems': None}",
+  "labs_and_diagnostics": "{'CBC_trends': None, 'key_chem_coag': None, 'inflammatory_markers': None, 'microbiology_serology_PCR': 'NS1 antigen positive on day 2, chest radiograph diffuse bilateral infiltrates', 'malaria_tests': 'Negative', 'imaging_highlights': 'Diffuse bilateral infiltrates'}",
+  "differential_diagnosis": "Adenovirus infection: Can cause conjunctivitis and pharyngitis but these are normally mild. Measles: Presents with fever, cough, coryza and striking conjunctivitis. May also cause pneumonia but is rarely severe. Mycoplasma pneumoniae: Can cause a pharyngitis but is rarely severe. Other forms of pneumonia are possible but do not normally cause conjunctivitis. Leptospirosis: Starts with a non-specific febrile illness. Pulmonary involvement including haemorrhages is common and it can cause renal impairment. Patients with severe leptospirosis tend to present with conjunctival suffusions rather than with conjunctivitis. Typhoid: Presents as a non-specific febrile illness. You would expect the patient to eventually improve once ceftriaxone is given, but prolonged clinical courses in typhoid are not uncommon.",
+  "management_and_clinical_course": "{'treatment': 'IV ceftriaxone and she completed the course of her antimalarial medications', 'response_outcome': None}",
+  "final_diagnosis": "Lassa fever due to infection with an arenavirus, confirmed by a positive NS1 antigen test. The diagnosis aligns with acute febrile illness, thrombocytopenia, retrosternal chest pain and compatible travel exposure.",
+  "disease_name_short": "Lassa fever"
+}

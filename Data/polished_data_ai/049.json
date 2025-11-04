@@ -1,0 +1,13 @@
+{
+  "patient_information": "The patient's information includes an age of 33 years, a sex of male, and a travel history that involves backpacking in India for the previous month.",
+  "chief_complaint": "The patient's chief complaint is diarrhea and flatulence that have persisted for two weeks.",
+  "history_of_present_illness": "The patient's history of present illness includes loose stools occurring four or five times a day for two weeks, accompanied by weight loss, anorexia, malaise, and abdominal cramping when passing stool. Additionally, the patient has experienced bloating and distension after consuming milk products over the past three days, along with an increased urge to pass stool.",
+  "exposure_and_epidemiology": null,
+  "vitals": null,
+  "physical_exam": "During the physical examination, there was a mild, non-specific abdominal tenderness noted. Additionally, it was observed that the patient had experienced a significant weight loss of 4 kilograms.",
+  "labs_and_diagnostics": "The stool examination revealed a positive result for reducing substances, and upon closer inspection of the fresh specimen, Giardia trophozoites were observed. Additionally, Giardia cysts were identified in the formol-ether concentrated specimens.",
+  "differential_diagnosis": null,
+  "management_and_clinical_course": "The patient's management and clinical course included receiving tinidazole at a dosage of 2 grams orally in a single dose. Following this treatment, the symptoms improved significantly; specifically, the stool consistency normalized and the frequency reduced. Additionally, there was a notable decrease in nausea and anorexia.",
+  "final_diagnosis": null,
+  "disease_name_short": null
+}

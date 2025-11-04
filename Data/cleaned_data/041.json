@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 7 years Sex: female Comorbidities: none reported Immunosuppression: none reported Vaccination: unknown Allergy info: unknown",
+  "chief_complaint": "Two progressive cutaneous ulcers linked by an area of altered skin on the back of her right hand and on the medial side of her right wrist.",
+  "history_of_present_illness": "After an insect bite, she developed an itchy papule on the back of her right hand, which enlarged over a period of 3 months. A traditional healer prescribed herbal remedies. When the lesion ulcerated a few weeks later, diclofenac and dexamethasone were administered at the local health post.",
+  "exposure_and_epidemiology": "Residence travel: West Africa Vectors: insect bite Animals: unknown Water food risks: unknown Contacts: unknown Season outbreak context: unknown Occupation: unknown",
+  "vitals": "Pulse: 108 bpm (normal 70–110) Blood pressure: 100/70 mmHg Temperature: 37.9°C (100.2°F)",
+  "physical_exam": "Skin: Two skin ulcers present on the back of her right hand and on the medial side of her right wrist. Heent: unknown Chest: unknown Abdo: unknown Neuro: unknown Lymph: unknown",
+  "labs_and_diagnostics": "Cbc: unknown Chem coag: unknown Inflammatory markers: unknown Microbiology serology pcr: PCR from a wound swab confirmed the presence of Mycobacterium ulcerans. Malaria tests: unknown Imaging highlights: unknown",
+  "differential_diagnosis": "Buruli ulcer (bu): likely diagnosis based on clinical presentation and geographical region Other infectious causes: bacterial, viral, fungal, parasitic Non-infectious causes: trauma, envenoming, autoimmune, haematological, neoplastic",
+  "management_and_clinical_course": "Antimicrobials: rifampicin (10 mg/kg per day PO) plus either streptomycin (15 mg/kg per day IM) or clarithromycin (7.5 mg/kg twice daily PO) for 8 weeks Supportive care: adequate wound care, including pain relief Procedures: debridement and skin grafting Response complications outcome: patient made an uneventful recovery",
+  "final_diagnosis": "Disease name short: Buruli Ulcer (BU) Causative agent confirmation method: PCR from a wound swab confirmed the presence of Mycobacterium ulcerans Evidence alternatives ruled out: clinical presentation, geographical region, and mode of transmission",
+  "disease_name_short": null
+}

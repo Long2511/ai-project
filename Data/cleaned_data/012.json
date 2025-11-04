@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 29 years Sex: male Location: The Gambia Comorbidities: none reported Immunosuppression: none reported Vaccination status: unknown Allergy history: unknown",
+  "chief_complaint": "Description: painful sores involving private parts for 7 days Duration: past week",
+  "history_of_present_illness": "Timeline: onset of symptoms one week ago Key symptoms: [\"painful sores on penis, scrotum, and inner thigh\", \"difficulty walking due to pain\", \"no fever or other systemic symptoms\"] Pertinent negatives: [] Severity pattern: acute onset with worsening over 7 days",
+  "exposure_and_epidemiology": "Residence travel: recent travel to The Gambia one week ago Vectors: unknown Animals: unknown Water food risks: unknown Contacts: had unprotected sex with a commercial sex worker 2 weeks ago Season outbreak context: unknown Occupation: unknown",
+  "vitals": "Temperature: normal Blood pressure: normal Heart rate: normal Respiratory rate: normal Oxygen saturation: normal",
+  "physical_exam": "Findings: [\"numerous painful ulcers on penis, scrotum, and inner thigh\", \"ulcers are soft, tender, and bleed on contact\", \"no inguinal lymphadenopathy\"]",
+  "labs_and_diagnostics": "Cbc: normal Chem panel: normal Inflammatory markers: normal Microbiology serology pcr: negative for syphilis, chancroid, and other STIs Malaria tests: negative Imaging results: none reported",
+  "differential_diagnosis": "Diagnoses considered: [\"Herpes simplex\", \"Syphilis\", \"Chancroid\"] Justification: [\"painful genital ulcers with recent travel to The Gambia\", \"negative serology for syphilis and chancroid\", \"clinical presentation consistent with genital ulcer disease\"]",
+  "management_and_clinical_course": "Treatment plan: [\"Treat for syphilis with a single dose of benzathine penicillin (2.4 million units)\", \"Treat for chancroid with azithromycin (1g PO) or ciprofloxacin (500mg bid for 3 days) or erythromycin (500mg qds for 7 days)\", \"If HIV-positive, consider adding aciclovir (400 mg tds for 7 days)\"] Clinical response: [\"pain had resolved\", \"ulcers were all healing after 1 week of antibiotic therapy\"]",
+  "final_diagnosis": "Diagnosis: Genital ulcer disease due to Chancroid Confirmation method: positive culture for Haemophilus ducreyi Evidence: [\"clinical presentation consistent with genital ulcer disease\", \"negative serology for syphilis and chancroid\", \"positive culture for Haemophilus ducreyi\"]",
+  "disease_name_short": "Chancroid"
+}

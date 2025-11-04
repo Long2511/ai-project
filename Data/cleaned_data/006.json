@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 36 years Sex: male Travel history: recent travel to Botswana, Okavango Delta Comorbidities: none reported",
+  "chief_complaint": "mobile itchy mass under skin for past 3 weeks",
+  "history_of_present_illness": "Onset: three weeks ago Symptoms: [\"itchy, serpiginous rash tracking from groin to chest\", \"mass reappearing on right shoulder\"] Duration: past 3 weeks Severity pattern: migratory and intermittent",
+  "exposure_and_epidemiology": "Travel details: [\"fishing trip to Okavango Delta in Botswana\", \"consumed raw fish from the river\"] Vector exposures: none reported Animal exposures: none reported Water food risks: none reported Contacts: two travel companions with similar symptoms Season outbreak context: recent return from Botswana Occupation: restaurant owner",
+  "vitals": "{'temperature': None, 'blood_pressure': None, 'heart_rate': None, 'respiratory_rate': None, 'oxygen_saturation': None}",
+  "physical_exam": "Skin exam: mobile itchy mass Heent exam: normal Chest exam: normal Abdominal exam: normal Neurological exam: normal Lymph nodes: no lymphadenopathy",
+  "labs_and_diagnostics": "{'CBC': 'total white cell count 8.9 × 10^9/L (reference range: 4–10), eosinophil count 0.9 × 10^9/L (<0.5)', 'liver_function_tests': None, 'creatinine_and_electrolytes': None, 'HIV_antibodies': 'negative', 'serology_for_Gnathostoma': 'negative'}",
+  "differential_diagnosis": "{'diagnosis': 'Gnathostomiasis', 'evidence': ['mobile itchy mass', 'eosinophilia', 'travel history to Okavango Delta', 'consumption of raw fish']}; {'diagnosis': 'Sparganosis', 'evidence': ['migratory swellings and eosinophilia', 'history of eating raw or undercooked food items']}",
+  "management_and_clinical_course": "Treatment: [\"albendazole 400 mg bid for 21 days\", \"ivermectin 200 μg/kg on two consecutive days\"] Response to treatment: mass migrated over shoulder and neck, disappeared for 24 hours, then reappeared between eyebrows, moved to forehead and face Outcome: full resolution of symptoms after treatment",
+  "final_diagnosis": "Disease name short: Gnathostomiasis Confirmation method: clinical presentation with eosinophilia, migratory swellings, travel history, and consumption of raw fish Evidence: [\"mobile itchy mass\", \"eosinophilia\", \"travel to Okavango Delta\", \"consumption of raw fish\"]",
+  "disease_name_short": "Gnathostomiasis"
+}

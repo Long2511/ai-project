@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 3 years Sex: male Vaccinations: up-to-date with vaccinations Comorbidities: developing normally and is up to date with vaccinations Immunosuppression: no reported comorbidities or immunosuppression Allergy info: no known history of trauma",
+  "chief_complaint": "Duration: 10-day history Symptoms: gradual, painful swelling of the right cheek with associated fever and poor appetite",
+  "history_of_present_illness": "Timeline: 10 days Key symptoms: painful swelling of the right cheek, fever, poor appetite Severity pattern: progressive over 10 days",
+  "exposure_and_epidemiology": "Place of residence: rural Laos Travel history: recent travel to rural Laos one week prior Vectors: mosquito exposure is implied by the endemic setting Animals: no animal or water/food exposures or sick contacts were reported Season outbreak context: highly seasonal and most cases present during the rainy season",
+  "vitals": "Temperature: 39.5°C (103.1°F) Other vitals: not reported",
+  "physical_exam": "Findings: unwell, localized, fluctuant, hot, tender swelling below and anterior to the right ear, 6 to 8 cm in diameter Description: consistent with a parotid mass (purulent discharge in the auditory canal and suspicion of a small fistula from which pus is arising)",
+  "labs_and_diagnostics": "Cbc: WBC 16.5 x 10^9/L, 90% neutrophils Hb: 9.4 g/dL (13–15 g/dL) Other blood tests: all other blood tests are normal",
+  "differential_diagnosis": "Considered: Acute suppurative unilateral parotitis in children is usually bacterial Supporting findings: most common pathogens are Staphylococcus aureus, Streptococcus pyogenes and Haemophilus influenzae",
+  "management_and_clinical_course": "Treatment: Supportive care with oral/IV fluids and acetaminophen; no antibiotics Response: clinical improvement with full recovery by day 6 Complications: no complications documented",
+  "final_diagnosis": "Disease name short: Acute suppurative unilateral parotitis in children Confirmation method: positive bacterial culture from pus and clinical response to treatment Evidence: clinical presentation, laboratory findings, and response to therapy",
+  "disease_name_short": null
+}

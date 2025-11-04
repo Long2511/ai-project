@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 46 years Sex: female Height: 158 cm Weight: 65 kg Bmi: 26 kg/m² Vaccinations: unknown Allergies: unknown",
+  "chief_complaint": "Duration: 2 months Symptoms: [\"recurrent cutaneous and subcutaneous abscesses\", \"progressive lymphadenopathy\", \"weight loss\"]",
+  "history_of_present_illness": "Timeline: 6 to 8 weeks after returning from northern Thailand Key symptoms: [\"high fever\", \"dry cough\", \"fatigue\"] Severity pattern: acute febrile illness",
+  "exposure_and_epidemiology": "Travel history: recent travel to northern Thailand one month prior Vector exposures: mosquito exposure implied by the endemic setting Animal exposures: no reported animal exposures Water food risks: no reported water or food risks Contacts: no sick contacts reported Season outbreak context: endemic area for histoplasmosis",
+  "vitals": "Temperature: afebrile Blood pressure: 130/80 mmHg Pulse rate: 80 bpm Respiratory rate: not reported Oxygen saturation: not reported",
+  "physical_exam": "Findings: [\"enlarged, tender cervical, nuchal, inguinal and axillary lymph nodes\", \"massive, tender swelling of the upper eyelids\", \"disseminated fluctuant cutaneous and subcutaneous abscesses with surrounding erythema\", \"painful swelling of the left elbow\"]",
+  "labs_and_diagnostics": "Cbc: {\"WCC\": \"30.8 × 10^9/L\", \"Hemoglobin\": \"8.2 g/dL\", \"MCV\": \"88 fl\", \"Platelets\": \"592 × 10^9/L\"} Inflammatory markers: {\"CRP\": \"267 mg/L\", \"ESR\": \">110 mm/h\"}",
+  "differential_diagnosis": "Considered: [\"histoplasmosis\", \"melioidosis\", \"bacterial infections (Burkholderia pseudomallei, Brucella species, Francisella tularensis)\", \"mycobacterial infections\"] Justification: [\"elevated systemic markers of inflammation\", \"disseminated abscesses with surrounding erythema\", \"endemic setting for histoplasmosis\", \"clinical symptoms and laboratory findings consistent with disseminated infection\"]",
+  "management_and_clinical_course": "Treatment: [\"liposomal amphotericin B (3 mg/kg per day, total dose 3 g)\", \"itraconazole maintenance therapy for an additional 6 months\"] Response: clinical improvement with full recovery by day 6 Complications: generalized seizure Outcome: fair general condition on follow-up",
+  "final_diagnosis": "Disease name short: Histoplasmosis Confirmation method: [\"positive histoplasma serology\", \"PCR of fungal cells in lymph node biopsy\"] Evidence: [\"disseminated abscesses with surrounding erythema\", \"endemic setting for histoplasmosis\", \"clinical symptoms and laboratory findings consistent with disseminated infection\"]",
+  "disease_name_short": "Histoplasmosis"
+}

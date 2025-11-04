@@ -1,0 +1,13 @@
+{
+  "patient_information": "{'age': '24 years', 'sex': 'female', 'comorbidities': None, 'immunosuppression': None, 'vaccination': None, 'allergy': None}",
+  "chief_complaint": "Fever and shock for approximately one week",
+  "history_of_present_illness": "A 24-year-old woman presents to a small hospital in rural Uganda with a 5-day history of fever. The illness started with a sore throat, achiness all over, and abdominal pain. She developed bilateral conjunctivitis and became increasingly unwell over the course of the past days.",
+  "exposure_and_epidemiology": "{'residence_travel': 'Uganda', 'vectors': None, 'animals': None, 'water_food_risks': None, 'contacts': None, 'season_outbreak_context': None, 'occupation': None}",
+  "vitals": "{'temperature': '38°C (100.4°F)', 'blood_pressure': '85/65 mmHg', 'heart_rate': '105 bpm', 'respiratory_rate': None, 'oxygen_saturation': None}",
+  "physical_exam": "{'general_appearance': 'Unwell', 'conjunctivitis': 'Bilateral', 'rash': None, 'lymphadenopathy': None, 'heart': 'Normal sounds', 'lungs': 'Clear', 'abdomen': 'Normal', 'neurological': 'Normal'}",
+  "labs_and_diagnostics": "{'CBC': 'Low platelets, low leukocytes', 'microbiology_serology_PCR': None, 'malaria_tests': None}",
+  "differential_diagnosis": "[{'name': 'Marburg virus disease (MVD)', 'evidence': \"Patient's husband died of a similar severe febrile illness, and Marburg virus has been associated with mines.\"}, {'name': 'Ebola virus disease (EVD)', 'evidence': \"Patient's husband died of a similar severe febrile illness, and EVD has been detected in Uganda. Symptoms are non-specific but can include fever, conjunctivitis, and abdominal symptoms.\"}]",
+  "management_and_clinical_course": "Treatment: [\"IV artesunate\", \"IV lumefantrine\", \"IV ceftriaxone\"] Response: Patient remained very unwell for several days but started to improve. Outcome: Patient recovered and was discharged after an additional 2 days in isolation.",
+  "final_diagnosis": "{'name': 'Marburg virus disease', 'evidence': \"Positive Marburg virus PCR result, patient's husband died of a similar illness, and Marburg virus has been associated with mines.\", 'confirmation_method': 'PCR'}",
+  "disease_name_short": "Marburg fever"
+}

@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 64 years Sex: male Medical history: [\"hypertension\", \"right cerebellar infarction\"] Recent conditions: [\"simple partial seizures controlled by antiepileptic agent\"]",
+  "chief_complaint": "Symptoms: [\"generalized tonic-clonic seizures\", \"weakness of the right lower extremity\"] Duration: approximately one week",
+  "history_of_present_illness": "Timeline: Onset of symptoms shortly after travel to Japan Key symptoms: [\"fever\", \"myalgias\", \"retro-orbital pain\", \"maculopapular rash\"] Severity pattern: Evolved over 7 days Pertinent negatives: []",
+  "exposure_and_epidemiology": "Travel history: [\"recent travel to rural Thailand one week prior\"] Vector exposures: [\"mosquito exposure implied by endemic setting\"] Animal exposures: [] Water food risks: [] Contacts: [] Season outbreak context: Occupation:",
+  "vitals": "Temperature: 39.5 °C Other vitals: [\"BP, HR, RR, SpO₂ not reported\"]",
+  "physical_exam": "Findings: [\"maculopapular rash\", \"retro-orbital discomfort\", \"no focal neurologic deficits or respiratory distress\"] Abnormalities: []",
+  "labs_and_diagnostics": "Cbc: [\"thrombocytopenia (platelets 72×10^9/L)\", \"leukopenia\"] Microbiology serology pcr: [\"Dengue NS1 antigen positive on day 2\", \"No imaging was reported\"]",
+  "differential_diagnosis": "Considered: [\"dengue fever\", \"chikungunya\", \"malaria\"] Justification: [\"Dengue supported by NS1 positivity, thrombocytopenia, and travel to an endemic area.\", \"Malaria less likely given dengue confirmation and no malaria-specific findings reported.\"]",
+  "management_and_clinical_course": "Treatment: [\"Supportive care with oral/IV fluids and acetaminophen\", \"No antibiotics\"] Response: Clinical improvement with full recovery by day 6 Complications: [] Outcome:",
+  "final_diagnosis": "Disease name short: Dengue fever Causative agent: Confirmation method: NS1 antigen test Evidence: [\"Acute febrile illness, thrombocytopenia, retro-orbital pain, and compatible travel exposure.\"]",
+  "disease_name_short": null
+}

@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 26 years Sex: female Travel history: recent trip to Ghana",
+  "chief_complaint": "Localized swelling on the left leg for approximately three weeks",
+  "history_of_present_illness": "The swelling has developed slowly over the past 3 weeks. It is itchy, but not painful. There is no history of fever; no history of arthropod bites.",
+  "exposure_and_epidemiology": "Travel details: 6-week trip to Ghana Vector exposures: No mosquito or tick exposure reported",
+  "vitals": null,
+  "physical_exam": "Lesion description: Localized swelling with a central scab, slightly hyperaemic skin surrounding the swelling Lymphadenopathy: No lymphadenopathy present Other findings: Patient is afibrile while the rest of the physical examination is normal",
+  "labs_and_diagnostics": null,
+  "differential_diagnosis": "Most important diagnoses: [\"Cutaneous myiasis (Tumbu fly)\", \"Localized bacterial skin and soft-tissue infections\", \"Spider bite with eschar-like central necrosis\"] Reasoning: The slow growth of the lesion over several weeks, absence of lymphadenopathy and systemic symptoms, and the localized itchy nature make myiasis the most likely differential diagnosis.",
+  "management_and_clinical_course": "Treatment: [\"Gently remove scab\", \"Apply white petroleum jelly or liquid paraffin to block larval respiratory spiracles\"] Outcome: The lesion was covered with white petroleum jelly and superinfected. The patient returned 2 days later for review.",
+  "final_diagnosis": "Diagnosis: Cutaneous myiasis (Tumbu fly) Confirmation method: Larva easily removed with forceps Evidence: The slow growth of the lesion, absence of lymphadenopathy and systemic symptoms, and the localized itchy nature make this diagnosis likely.",
+  "disease_name_short": "Cutaneous myiasis"
+}

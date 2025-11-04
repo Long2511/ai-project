@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 6 years Sex: male Location: Malawi lakeshore Comorbidities: none reported Immunosuppression: none reported Vaccination status: unknown Allergy history: unknown",
+  "chief_complaint": "Symptom: painless, proptosed left eye Duration: 3 weeks",
+  "history_of_present_illness": "Onset: progressive painless proptosis over 3 weeks Severity pattern: worsened rapidly Other symptoms: normal vision, no pain Family history: no other swellings or abnormalities reported",
+  "exposure_and_epidemiology": "Travel history: resides in malaria-endemic area Vector exposures: unknown Animal exposures: unknown Water food risks: unknown Contacts: no sick contacts reported Season outbreak context: unknown",
+  "vitals": "Temperature: normal Blood pressure: normal Heart rate: normal Respiratory rate: normal Oxygen saturation: normal",
+  "physical_exam": "Eye exam: {\"right_eye\": \"normal\", \"left_eye\": {\"proptosis\": \"present\", \"pulsation\": \"absent\", \"appearance\": \"round and clear\", \"response_to_light\": \"well\"}} Other systems: {\"general\": \"thin but not malnourished\", \"head_and_neck\": \"no other swellings or abnormalities reported\", \"abdomen\": \"unknown\", \"neurological\": \"unknown\"}",
+  "labs_and_diagnostics": "{'CBC': {'hemoglobin': 'normal', 'white_blood_cell_count': 'normal', 'platelets': 'normal'}, 'microbiology': {'blood_culture': 'negative', 'urine_culture': 'negative', 'CSF_analysis': 'unknown'}, 'histology': {'biopsy_result': \"Burkitt's lymphoma\"}}",
+  "differential_diagnosis": "{'likely_diagnoses': [\"Burkitt's lymphoma\", 'other types of B cell lymphoma', 'rhabdomyosarcoma'], 'less_likely_diagnoses': ['retinoblastoma (not considered)', 'arteriovenous malformation (non-pulsating, excludes infection)']}",
+  "management_and_clinical_course": "Treatment plan: initial supportive care with FNA biopsy Chemotherapy: {\"start_date\": \"unknown\", \"courses\": \"4 courses in the next 30 days\"} Clinical response: {\"improvement\": \"less proptosed within 48 hours, back to normal within a week\", \"outcome\": \"cured after four courses of chemotherapy\"}",
+  "final_diagnosis": "{'disease_name': \"Burkitt's lymphoma\", 'causative_agent': 'Epstein-Barr virus (EBV)', 'confirmation_method': 'histology from biopsy', 'alternative_exclusions': ['retinoblastoma', 'arteriovenous malformation']}",
+  "disease_name_short": "Burkitt's lymphoma"
+}

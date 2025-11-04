@@ -1,0 +1,13 @@
+{
+  "patient_information": "{'age': '24 years', 'sex': 'male', 'origin': 'Turkish', 'comorbidities': None, 'immunosuppression': None, 'vaccination': None, 'allergy': None}",
+  "chief_complaint": "Symptoms: right upper quadrant pain, nausea and vomiting Duration: recent",
+  "history_of_present_illness": "{'timeline': 'recent presentation with symptoms', 'key_symptoms': 'jaundice and cystic liver lesions', 'pertinent_negatives': None, 'severity_pattern': 'acute onset of symptoms'}",
+  "exposure_and_epidemiology": "{'residence_travel': 'German resident visiting family in rural eastern Turkey (Anatolia) every year for about 6 weeks', 'vectors_animals': None, 'water_food_risks': None, 'contacts_season_outbreak': None}",
+  "vitals": "{'blood_pressure': '110/70 mmHg', 'pulse_rate': '64 bpm', 'temperature': '36°C (96.8°F)', 'other_vitals': None}",
+  "physical_exam": "Findings: scleral jaundice, right upper quadrant and epigastric tenderness",
+  "labs_and_diagnostics": "Full blood count: normal Additional results: [{\"parameter\": \"AST (U/L)\", \"value\": \"145 <35\"}, {\"parameter\": \"ALT (U/L)\", \"value\": \"454 <35\"}, {\"parameter\": \"GGT (U/L)\", \"value\": \"394 <55\"}, {\"parameter\": \"ALP (U/L)\", \"value\": \"402 38–126\"}, {\"parameter\": \"Total bilirubin (μmol/L)\", \"value\": \"120 <19.0\"}, {\"parameter\": \"ESR (mm/h)\", \"value\": \"17/40 10/20\"}, {\"parameter\": \"CRP (mg/L)\", \"value\": \"49 <5\"}]",
+  "differential_diagnosis": null,
+  "management_and_clinical_course": "Treatment: [{\"procedure\": \"endoscopic retrograde cholangiography (ERC) to restore biliary flow\", \"outcome\": \"CE cyst content removed from the common bile duct\"}, {\"procedure\": \"antibiotic treatment for bacterial cholangitis with ciprofloxacin and metronidazole\"}] Clinical outcome: patient referred for surgery and partial cystectomy performed on both cysts Follow up: no recurrence after 9 years, considered cured",
+  "final_diagnosis": "{'disease_name_short': 'Cystic echinococcosis (CE)', 'causative_agent': None, 'confirmation_method': 'positive serology for Echinococcus granulosus', 'evidence': 'calcified cyst walls, biliary fistula with obstruction'}",
+  "disease_name_short": "Cystic echinococcosis"
+}

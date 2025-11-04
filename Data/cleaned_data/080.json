@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 62 years Sex: male Location: Kalasin Province, northeast Thailand Occupation: Thai police sergeant major",
+  "chief_complaint": null,
+  "history_of_present_illness": null,
+  "exposure_and_epidemiology": "{'travel_history': 'Travel to Kalasin Province in northeast Thailand one week prior', 'vector_exposures': 'No reported mosquito or tick exposures', 'animal_exposures': 'No animal exposures reported', 'water_food_risks': 'No water/food risks reported', 'contacts': 'No sick contacts reported', 'season_outbreak_context': None, 'occupation_risk_factors': None}",
+  "vitals": "Temperature: 37.0 °C Blood pressure: 120/80 mmHg Heart rate: 75 bpm Respiratory rate: 16 breaths/min Oxygen saturation: 98% on room air",
+  "physical_exam": "General appearance: Patient appears well-nourished and in no acute distress. Skin exam: No rash or jaundice noted. Head and neck exam: No lymphadenopathy, normal cranial nerves. Chest exam: Clear breath sounds bilaterally. Abdominal exam: Soft abdomen with non-palpable liver and spleen. No ascites detected. Neurological exam: Normal mental status, no focal neurologic deficits. Lymph nodes: No palpable lymphadenopathy.",
+  "labs_and_diagnostics": "Laboratory results: {\"AST (U/L)\": \"26\", \"ALT (U/L)\": \"32\", \"ALP (U/L)\": \"84\", \"total_bilirubin (mg/dL)\": \"0.6\", \"direct_bilirubin (mg/dL)\": \"0.2\", \"HBsAg (MEIA)\": \"Negative\", \"Anti-HBs (ELISA, IU/L)\": \"24.13\", \"HBeAg (ELISA)\": \"Negative\", \"Anti-HBc (ELISA)\": \"Positive\", \"Anti-HCV\": \"Negative\", \"AFP (U/mL)\": \"2.8\", \"CEA (μg/L)\": \"18.96\", \"CA19-9 (U/mL)\": \"342.80\"} Imaging results: {\"abdominal_MRI\": \"Single solid liver mass in the right liver lobe, size 9 x 9 cm.\", \"histology\": \"Infiltrative compact glandular structures lined by dysplastic columnar cells with necrosis.\"}",
+  "differential_diagnosis": null,
+  "management_and_clinical_course": "Treatment plan: Surgery (hepatectomy) followed by postoperative chemotherapy. Clinical response: No complications reported, patient recovered well. Outcome: Complete resection of the liver mass with no recurrence noted.",
+  "final_diagnosis": null,
+  "disease_name_short": null
+}

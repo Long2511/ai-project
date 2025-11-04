@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 21 years Sex: male Origin: rural Mali Immigration status: migrant Education level: unable to read and write",
+  "chief_complaint": "Massive splenomegaly causing abdominal heaviness for some time",
+  "history_of_present_illness": "Intermittent fever, no night sweats, stable weight",
+  "exposure_and_epidemiology": "Travel history: recent travel to rural Mali one year prior Vector exposures: crossed Niger and spent weeks at a detention centre in Libya Seasonal context: arrived in Germany during the Mediterranean crossing",
+  "vitals": "Temperature: 36.1°C (96.98°F) Blood pressure: 120/80 mmHg Heart rate: 64 bpm",
+  "physical_exam": "Spleen size: massively enlarged, around 15 cm below the left costal margin Liver size: normal in size Abdominal palpation: no free fluid detected Heart examination: clear heart sounds with no murmurs",
+  "labs_and_diagnostics": "Cbc: mild bicytopenia, normal LDH and almost 4-fold increased immunoglobulin M (IgM) Plasmodium spp. ifat: 1:256 Pcr for p. falciparum: positive Bone marrow aspirate: negative",
+  "differential_diagnosis": "{'diagnosis': 'Hyperreactive Malarial Splenomegaly (HMS)', 'evidence': 'massive splenomegaly, elevated IgM, positive Plasmodium spp. IFAT and PCR for P. falciparum'}; {'diagnosis': 'Lymphoma or leukaemia', 'evidence': 'normal differential count, no lymphadenopathy'}",
+  "management_and_clinical_course": "Treatment: one single course of dihydroartemisinin/piperazine Outcome: patient remained well and spoke fluent German after treatment",
+  "final_diagnosis": "Disease name short: HMS Confirmation method: positive Plasmodium spp. IFAT and PCR for P. falciparum, elevated IgM Evidence: massive splenomegaly, elevated IgM, positive Plasmodium spp. IFAT and PCR for P. falciparum",
+  "disease_name_short": null
+}

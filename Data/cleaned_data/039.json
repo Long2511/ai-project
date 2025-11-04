@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 30 years Sex: male Nationality: Chinese Occupation: trader",
+  "chief_complaint": "Fever, chills, headache, and dry cough for 7 days",
+  "history_of_present_illness": "A 30-year-old male Chinese itinerant trader presented to a hospital in Vientiane, Laos, with fever, chills, headache, and dry cough. He had been living in southern Laos and was treated there with intravenous infusions of artemether for 5 days but did not improve.",
+  "exposure_and_epidemiology": "Travel history: Travel to rural Thailand one week prior Vector exposures: Mosquito exposure implied by the endemic setting Animal exposures: No reported animal exposures Water food risks: No reported water or food risks Contacts: No sick contacts reported",
+  "vitals": "Temperature: 39.5°C (103.1°F) Blood pressure: Normal Glucose: Normal Creatinine: Normal Total bilirubin: 14 µmol/L (<14.5) Direct bilirubin: 6.4 µmol/L (<4.3)",
+  "physical_exam": "Fever: Present Headache: Present Nausea: Present Dry cough: Present Chest pain: Present Abdominal tenderness: Present Chest examination: Clear Hepatosplenomegaly: Not detected",
+  "labs_and_diagnostics": "Hematocrit: 301 <40 Ast: 230 <37 Alp: 470 <120 Total bilirubin: 14 <14.5 Direct bilirubin: 6.4 <4.3 Giemsa smear: Negative for malaria parasites Hrp-2 test: Positive for Plasmodium falciparum",
+  "differential_diagnosis": "Dengue fever: Considered due to recent travel to rural Thailand, fever pattern, and thrombocytopenia. Chikungunya: Less likely given the absence of arthralgia or rash. Malaria: Confirmed by HRP-2 test for Plasmodium falciparum.",
+  "management_and_clinical_course": "Antimalarial treatment with oral quinine sulphate and doxycycline: Given Clinical improvement: Observed within 35 hours after starting therapy Discharge: Patient discharged well",
+  "final_diagnosis": "Dengue fever due to plasmodium falciparum: Confirmed by HRP-2 test and clinical presentation. Evidence: Acute febrile illness, thrombocytopenia, retro-orbital pain, and compatible travel exposure.",
+  "disease_name_short": "Dengue fever"
+}

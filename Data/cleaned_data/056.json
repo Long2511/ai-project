@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 21 years Sex: female Pregnancy status: 32 weeks pregnant, first pregnancy Location: The Gambia",
+  "chief_complaint": "Generalized, non-itchy rash for 5 days",
+  "history_of_present_illness": "A 21-year-old woman presents with a generalized, non-itchy rash that has been present for 5 days. She is otherwise well and has no significant past medical history.",
+  "exposure_and_epidemiology": null,
+  "vitals": null,
+  "physical_exam": "Rash description: Generalized, non-itchy rash involving the palms of both hands Other findings: Mouth is normal, no lymphadenopathy, not anaemic or jaundiced",
+  "labs_and_diagnostics": null,
+  "differential_diagnosis": "Most likely diagnosis: Syphilis Alternative diagnoses: [{\"name\": \"Other rashes\", \"description\": \"Malaria, dermatitis, drug eruption\"}]",
+  "management_and_clinical_course": "Treatment: Intramuscular benzathine penicillin Outcome: Uneventful recovery, normal infant at term",
+  "final_diagnosis": "Disease name short: Syphilis Confirmation method: Positive treponemal test (TPHA) Evidence: Generalized rash involving palms of hands, no lymphadenopathy or jaundice, positive TPHA result",
+  "disease_name_short": null
+}

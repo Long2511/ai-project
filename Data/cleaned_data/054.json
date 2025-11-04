@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 52 years Sex: male Comorbidities: none reported Immunosuppression: none reported Vaccinations: none reported Allergies: none reported",
+  "chief_complaint": "Problem: fever for the past 2 days Duration: past 2 days",
+  "history_of_present_illness": "Timeline: fever for the past 2 days, night sweats, frontal headache Key symptoms: fever, night sweats, frontal headache Pertinent negatives: no joint pains, no rash Severity pattern: acute febrile illness",
+  "exposure_and_epidemiology": "Residence travel: recent travel to South Africa Vectors: mosquito exposure implied by endemic setting Animals: none reported Water food risks: none reported Contacts: none reported Season outbreak context: travel to malaria-endemic region Occupation: safari tour",
+  "vitals": "Temperature: 37.5°C (99.5°F) Pulse: 80 bpm Blood pressure: 130/70 mmHg Jaundice: none reported Neck supple: yes Lymph nodes: {\"left_groin\": \"enlarged\"}",
+  "physical_exam": "General condition: fair Skin: small necrotic skin lesion on upper thigh with surrounding inflammation and lymphangiitis Heent: none reported Chest: none reported Abdo: none reported Neuro: none reported Lymph: {\"left_groin\": \"enlarged\"}",
+  "labs_and_diagnostics": "Cbc: {\"platelets\": \"normal\", \"leukocytes\": \"normal\"} Microbiology serology pcr: {\"PCR from eschar scab\": \"negative for malaria\", \"malaria rapid diagnostic test (RDT)\": \"negative\", \"thick and thin film for malaria\": \"negative\"}",
+  "differential_diagnosis": "Considered: [\"African tick-bite fever\", \"other rickettsial infections\", \"malaria\"] Reasons for consideration: {\"African tick-bite fever\": \"clinical presentation, travel history to malaria-endemic region\", \"other rickettsial infections\": \"compatible symptoms and travel history\", \"malaria\": \"negative diagnostic tests for malaria\"}",
+  "management_and_clinical_course": "Treatment: {\"antimicrobial\": \"doxycycline at 100 mg bid PO for 7 days\", \"supportive_care\": \"oral/IV fluids, acetaminophen\"} Response: fever settled within next few days, lymphadenopathy subsided Outcome: eschar healed after about 2 weeks",
+  "final_diagnosis": "Disease name short: African tick-bite fever (ATBF) Causative agent: Rickettsia africae Confirmation method: PCR from eschar scab, negative malaria diagnostic tests Diagnostic evidence: clinical presentation, travel history to malaria-endemic region",
+  "disease_name_short": "African tick-bite fever"
+}

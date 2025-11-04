@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 29 years Sex: female Comorbidities: none reported Immunosuppression: none reported Vaccination: unknown Allergy info: unknown",
+  "chief_complaint": "Problem: confusion, diarrhea, skin rash Duration: past month",
+  "history_of_present_illness": "Timeline: 1-month history of confusion, diarrhea, and rash Key symptoms: confusion, restlessness, irritability, watery diarrhea, rash on sun-exposed areas Severity pattern: progressive over past month",
+  "exposure_and_epidemiology": "Residence travel: Malawi during rainy season Vectors: unknown Animals: unknown Water food risks: unknown Contacts: unknown Season outbreak context: rainy season in Malawi Occupation: housewife",
+  "vitals": "Temperature: normal Blood pressure: normal Heart rate: normal Respiratory rate: normal Oxygen saturation: normal",
+  "physical_exam": "General appearance: slim but not wasted Mental status: Glasgow Coma Scale 14/15 (confusion) Neurological examination: no neck stiffness, no focal neurologic deficits Skin changes: hyperpigmented rash on sun-exposed skin Other systems: unremarkable",
+  "labs_and_diagnostics": "Hematocrit: 6.7 g/dL (microcytic anaemia) Mentzer index: >13 Vitamin b 3 supplementation: recommended Iron folic acid supplementation: recommended Albendazole: single dose Hiv test: negative Full blood count: {\"hemoglobin\": \"6.7 g/dL (microcytic anaemia)\", \"MCV\": \"unknown\"} Vitamin b 3 deficiency: suspected Dietary counselling: recommended",
+  "differential_diagnosis": "Pellagra: suspected Hiv infection: considered Tuberculous meningitis: considered Cryptococcal meningitis: considered Progressive multifocal leukoencephalopathy: considered",
+  "management_and_clinical_course": "Initial treatment: vitamin B_3, iron, folic acid supplementation, albendazole Clinical improvement: settled within a week Diarrhea stopped: stopped Discharge: discharged Follow-up visit: asked to come back at 3 months for an outpatient follow-up visit including a repeat full blood count",
+  "final_diagnosis": "Disease name short: Pellagra Causative agent: vitamin B_3 deficiency Confirmation method: clinical presentation, microcytic anaemia, hyperpigmented rash on sun-exposed skin Evidence: settled within a week, no response to iron treatment",
+  "disease_name_short": null
+}

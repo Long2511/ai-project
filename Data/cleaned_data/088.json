@@ -1,0 +1,13 @@
+{
+  "patient_information": "{'age': '74 years', 'sex': 'male', 'comorbidities': ['cerebral infarction without neurologic sequelae', 'hypertension', 'ulcerative colitis'], 'immunosuppression': None, 'vaccination': None, 'allergy': None}",
+  "chief_complaint": "Problem: fever, joint pain, headache, and nausea Duration: over the past 5 days",
+  "history_of_present_illness": "{'timeline': '74-year-old Japanese man is brought to a hospital with a history of fever, joint pain, headache, and nausea over the past 5 days.', 'key_symptoms': ['fever', 'joint pain', 'headache', 'nausea'], 'pertinent_negatives': None, 'severity_pattern': None}",
+  "exposure_and_epidemiology": "{'residence_travel': '74-year-old Japanese man is brought to a hospital with a history of fever, joint pain, headache, and nausea over the past 5 days.', 'vectors': None, 'animals': None, 'water_food_risks': None, 'contacts': None, 'season_outbreak_context': None, 'occupation': None}",
+  "vitals": "Temperature: 37°C (98.6°F) Pulse rate: 101 bpm Blood pressure: 120/70 mmHg Oxygen saturation: 96% Respiratory rate: 32 breaths per minute",
+  "physical_exam": "{'general_appearance': 'unwell and drowsy', 'temperature': '37°C (98.6°F)', 'pulse_rate': '101 bpm', 'blood_pressure': '120/70 mmHg', 'oxygen_saturation': '96%', 'respiratory_rate': '32 breaths per minute', 'chest_exam': 'normal', 'abdomen_exam': None, 'neurological_exam': None, 'lymph_nodes': 'left inguinal lymph node is enlarged', 'skin_exam': 'livedo reticularis bilaterally on his lower extremities but otherwise no rash is seen'}",
+  "labs_and_diagnostics": "Cbc: [\"WBC: 5.3 (3.3–8.6)\", \"Haemoglobin: 17.7 (13.7–16.8)\", \"Platelets: 90 (158–348)\"] Liver function tests: [\"AST: 413 (13–30)\", \"ALT: 925 (10–42)\", \"LDH: 1025 (124–222)\", \"CK: 7442 (59–248)\"] Inflammatory markers: [\"CRP: 0.1 (0.00–0.14)\"]",
+  "differential_diagnosis": "Considered: [\"sepsis\", \"pneumonia\", \"meningitis or infective endocarditis\"] Less likely: [\"rickettsial infections (Japanese spotted fever, scrub typhus)\", \"tick-borne infectious diseases (SFTS)\"]",
+  "management_and_clinical_course": "{'treatment': ['symptomatic and supportive treatment', 'adequate fluid administration', 'respiratory support'], 'complications': None, 'outcome': 'discharged on day 35 without any sequelae'}",
+  "final_diagnosis": "Disease name short: SFTS (Severe Fever With Thrombocytopenia Syndrome) Confirmation method: PCR of serum Evidence: [\"acute fever with respiratory distress and impaired consciousness\", \"thrombocytopenia\", \"livedo reticularis bilaterally on his lower extremities\"]",
+  "disease_name_short": "SFTS"
+}

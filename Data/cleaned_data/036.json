@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 23 years Sex: male Location: Myanmar Occupation: farmer",
+  "chief_complaint": "Progressive unilateral scrotal swelling for approximately three years.",
+  "history_of_present_illness": "The patient has a history of left-sided scrotal swelling that began three years ago. The swelling is non-tender and has gradually increased in size. There is no history of fever or other symptoms.",
+  "exposure_and_epidemiology": "Travel history: The patient comes from the central part of Myanmar, where scrotal swelling is not uncommon. Vector exposures: No reported mosquito bites or other vector exposures.",
+  "vitals": "Temperature: normal Heart rate: normal Respiratory rate: normal Blood pressure: normal",
+  "physical_exam": "Scrotal swelling: Non-tender, non-reducible swelling that cannot be reduced manually. Lymph nodes: No palpable inguinal lymph nodes.",
+  "labs_and_diagnostics": "Cbc: Normal Microfilaria test: Negative Cfa test: Positive",
+  "differential_diagnosis": "{'name': 'Lymphatic filariasis (LF)', 'evidence': 'Positive CFA test, no history of fever or other symptoms.'}; {'name': 'Hydrocele', 'evidence': 'No evidence of hydrocele on ultrasound.'}; {'name': 'Testicular tumor', 'evidence': 'No palpable mass or abnormality in the testes.'}",
+  "management_and_clinical_course": "Treatment: Hydrocoele confirmed on ultrasound. Hydrocoelectomy performed, with drainage of 3 liters of clear fluid. Postoperative care: Antifilarial treatment initiated postoperatively.",
+  "final_diagnosis": "Lymphatic filariasis (LF) due to Wuchereria bancrofti, confirmed by a positive circulating filarial antigen (CFA) test. The diagnosis is supported by the patient's history of scrotal swelling and the absence of other signs or symptoms.",
+  "disease_name_short": "Lymphatic filariasis"
+}

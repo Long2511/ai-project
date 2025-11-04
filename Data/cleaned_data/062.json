@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 28 years Sex: male Country of origin: Ghana Occupation: self-employed",
+  "chief_complaint": "Painful ulcer on the left ankle for approximately four months.",
+  "history_of_present_illness": "The patient has a history of a similar ulcer on the right ankle several years ago that took about a year to heal. He also reports bone pain in his right thigh and both knees.",
+  "exposure_and_epidemiology": null,
+  "vitals": "Temperature: 36.6°C Pulse: 88 bpm Blood pressure: 110/70 mmHg",
+  "physical_exam": "Ankle ulcer: Present on the left ankle, next to the medial malleolus with hyperpigmented skin surrounding it. Knee joints: Tenderness in both knee joints and in his right thigh Other findings: Rest of physical examination is normal",
+  "labs_and_diagnostics": "Blood count: WBC: 17.6 × 10^9/L, Hb: 6.9 g/dL, Platelets: Adequate Sickle cell test: Sickling test positive and haemoglobin electrophoresis showed a homozygous HbSS-type. Wound swab: Grew Pseudomonas species sensitive to levofloxacin.",
+  "differential_diagnosis": null,
+  "management_and_clinical_course": "Treatment: Systemic antibiotic treatment with levofloxacin, alternate daily wound dressing using normal saline irrigation and povidone-iodine. Pain management: Pain relief achieved with paracetamol and tramadol Follow up: Ulcer still not healed after 3 years, grafting under consideration.",
+  "final_diagnosis": null,
+  "disease_name_short": null
+}

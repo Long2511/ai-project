@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 30 years Sex: female Country of origin: Bolivia Migration history: recent migrant from Bolivia, arrived in Europe 4 months prior Residence: urban environment for the past 20 years but grew up in a rural area during her childhood",
+  "chief_complaint": "Symptoms: progressive dyspnoea at moderate exertion (New York Heart Association grade II) along with self-limiting palpitations Duration: 2-year history",
+  "history_of_present_illness": "Timeline: 2-year history of progressive dyspnoea and palpitations Key symptoms: progressive dyspnoea at moderate exertion, self-limiting palpitations Severity pattern: New York Heart Association grade II",
+  "exposure_and_epidemiology": "Travel history: recent travel to Bolivia Vector exposures: mosquito exposure implied by endemic setting Animal exposures: no reported animal exposures Water food risks: no reported water or food risks Contacts: no sick contacts reported Season outbreak context: travel to Bolivia during the Chagas disease transmission season",
+  "vitals": "Blood pressure: 110/65 mmHg Heart rate: 40 bpm Oxygen saturation: 99% Other vitals: normal",
+  "physical_exam": "Cardiovascular system: clear cardiac sounds, no murmurs Respiratory system: clear chest Abdomen: no peripheral oedema or ascites Neurological system: sinus bradycardia with right bundle branch block on ECG",
+  "labs_and_diagnostics": "Full blood count: normal Basic blood chemistry tests: normal Ecg: sinus bradycardia with right bundle branch block Chest x-ray: moderate cardiomegaly, sinus bradycardia with right bundle branch block on ECG",
+  "differential_diagnosis": "Considered chagasic cardiomyopathy: Chagas disease considered due to symptoms and travel history Alternative diagnoses: other causes of cardiomegaly and sinus bradycardia ruled out",
+  "management_and_clinical_course": "Treatment plan: antitrypanosomal therapy with benznidazole for 60 days Skin rash response: complete resolution after corticosteroids and antihistamines Cardiac function evaluation: sinus dysfunction without symptomatic bradycardia or syncope Echocardiography results: hypertrophic left ventricle without obstruction Outcome: stable cardiac function, healthy child birth",
+  "final_diagnosis": "Diagnosis confirmation method: positive serological tests for Chagas disease Causative agent: Trypanosoma cruzi Evidence for final diagnosis: chronic phase of Chagasic cardiomyopathy, positive serology",
+  "disease_name_short": "Chagas disease"
+}

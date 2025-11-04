@@ -1,0 +1,13 @@
+{
+  "patient_information": "Age: 42 years Sex: male Travel history: recent trip to Thailand, spent time in southern Thailand including Little Koh Chang and Hua Hin Symptoms onset: fever for the past 6 days Other symptoms: arthralgias and retro-orbital pain",
+  "chief_complaint": "Duration: approximately one week Description: acute high fever with associated symptoms",
+  "history_of_present_illness": "Timeline: fever for the past 6 days, arthralgias and retro-orbital pain after extensive travel in southern Thailand Key symptoms: fever, arthralgias, retro-orbital pain Severity pattern: evolved over 6 days",
+  "exposure_and_epidemiology": "Travel details: recent trip to Thailand, spent time in southern Thailand including Little Koh Chang and Hua Hin Vector exposures: mosquito exposure is implied by the endemic setting Animal exposures: no animal exposures reported Water food risks: no water or food risks reported Contacts: no sick contacts reported Season outbreak context: travel to an endemic area",
+  "vitals": "Temperature: 39.1°C (102.4°F) Blood pressure: BP 156/80 mmHg Heart rate: pulse 106 beats per minute Respiratory rate: respiratory rate 16 breath cycles per minute Oxygen saturation: SpO2 95% on ambient air",
+  "physical_exam": "General status: GCS is 15/15 Abdominal exam: no intercostal tenderness, no organomegaly Chest exam: clear chest on auscultation Neurological exam: normal neurological examination",
+  "labs_and_diagnostics": "Full blood count: thrombocytopenia of 81 × 10^9/L (reference: 150–300) Inflammatory markers: CRP 55 mg/L (reference: <5) Liver function tests: AST 62 U/L (reference: 10–50 U/L), ALT 106 U/L (reference: 10–50) Dengue ns1 antigen test: negative Rapid diagnostic test for malaria: negative",
+  "differential_diagnosis": "Main alternatives: [\"Dengue fever\", \"Chikungunya\", \"Zika virus infection\", \"Malaria\"] Reasons for alternatives: {\"Dengue fever\": \"clinical syndrome of fever, retro-orbital pain, arthralgias and thrombocytopenia after a visit to Thailand\", \"Chikungunya\": \"arthralgias and thrombocytopenia\", \"Zika virus infection\": \"fever and associated symptoms\", \"Malaria\": \"negative rapid diagnostic test for malaria\"}",
+  "management_and_clinical_course": "Treatment: started with atovaquone/proguanil 250/100mg, 4 tablets once daily for 3 days Clinical improvement: patient rapidly recovered and was discharged on the fourth day",
+  "final_diagnosis": "Disease name: Plasmodium knowlesi infection Causative agent: Plasmodium knowlesi Confirmation method: species-specific PCR confirmed the presence of a mono-infection with P. knowlesi Evidence: clinical syndrome, thrombocytopenia, and positive species-specific PCR",
+  "disease_name_short": "Plasmodium knowlesi infection"
+}

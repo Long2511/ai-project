@@ -1,0 +1,13 @@
+{
+  "patient_information": "The patient's information includes an age of 23 years, a sex of male, a location in Myanmar, and an occupation as a farmer.",
+  "chief_complaint": "The patient's chief complaint is progressive unilateral scrotal swelling that has persisted for about three years.",
+  "history_of_present_illness": "The patient's history reveals a three-year-long issue with left-sided scrotal swelling, which has been non-tender and progressively enlarged without accompanying fever or additional symptoms.",
+  "exposure_and_epidemiology": "The patient's travel history indicates that they come from the central part of Myanmar, an area where scrotal swelling is relatively common. Regarding vector exposures, there were no reported instances of mosquito bites or any other forms of vector exposure.",
+  "vitals": "The patient's vital signs are all within normal limits, including temperature, heart rate, respiratory rate, and blood pressure.",
+  "physical_exam": "During a physical examination, the patient exhibited scrotal swelling which was noted to be non-tender and non-reducible, meaning it could not be manually reduced. Additionally, there were no palpable inguinal lymph nodes detected during the examination.",
+  "labs_and_diagnostics": "The patient's complete blood count (CBC) was normal and the microfilaria test was negative, while the complement fixation assay (CFA) test was positive.",
+  "differential_diagnosis": "The differential diagnosis includes Lymphatic filariasis (LF), characterized by a positive CFA test and no history of fever or other symptoms. Additionally, hydrocele is ruled out as there is no evidence of it on ultrasound. Lastly, a testicular tumor is not present since there are no palpable masses or abnormalities in the testes.",
+  "management_and_clinical_course": "The patient underwent hydrocele surgery, which involved the removal of a hydrocele and the drainage of three liters of clear fluid. Following the procedure, antifilarial treatment was initiated as part of their postoperative care.",
+  "final_diagnosis": "The final diagnosis for this case is Lymphatic Filariasis (LF), caused by Wuchereria bancrofti, which was confirmed through a positive circulating filarial antigen (CFA) test. This diagnosis is supported by the patient's history of scrotal swelling and the absence of other signs or symptoms.",
+  "disease_name_short": "The disease name short for lymphatic filariasis is \"Lymphatic Filariasis\"."
+}
