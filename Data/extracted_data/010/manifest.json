@@ -1,0 +1,32 @@
+{
+  "case_id": "010",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/10---A-55-Year-Old-Indigenous-Woman-from-Australia-W_2022_Clinical-Cases-in-.pdf",
+  "n_pages": 2,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/010/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/010/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        333.6940002441406,
+        558.0850219726562,
+        543.676025390625,
+        715.5780029296875
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/010/images/010_p1_fig_1.png"
+    },
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        68.4280014038086,
+        525.5440673828125,
+        278.3840026855469,
+        682.923095703125
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/010/images/010_p2_fig_1.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/010/010.json"
+}

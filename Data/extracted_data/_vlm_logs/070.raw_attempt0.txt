@@ -1,0 +1,72 @@
+```json
+{
+  "patient_information": {
+    "age": "58 years",
+    "sex": "female",
+    "residence": "rural area in Sri Lanka",
+    "comorbidities": null,
+    "immunosuppression": null,
+    "vaccination": null,
+    "allergy_info": null
+  },
+  "chief_complaint": {
+    "problem": "fever, deafness, and confusion",
+    "duration": "10 days"
+  },
+  "history_of_present_illness": {
+    "timeline": "Onset of symptoms after travel to Sri Lanka",
+    "key_symptoms": "high-grade fever, chills, body aches, non-productive cough, progressive shortness of breath, tinnitus, hearing loss",
+    "severity_pattern": "symptoms progressed over 10 days"
+  },
+  "exposure_and_epidemiology": {
+    "residence_travel": "recent travel to rural Sri Lanka",
+    "vectors": null,
+    "animals": null,
+    "water_food_risks": null,
+    "contacts": null,
+    "season_outbreak_context": null,
+    "occupation": null
+  },
+  "vitals": {
+    "temperature": "39.3°C (102.7°F)",
+    "heart_rate": "120 bpm",
+    "blood_pressure": "90/60 mmHg"
+  },
+  "physical_exam": {
+    "mental_status": "confused, Glasgow Coma Scale score of 13/15",
+    "hearing_impairment": "severely impaired (WHO grade 3)",
+    "liver_size": "enlarged to 5 cm below the right costal margin",
+    "spleen_palpable": "just palpable",
+    "lymph_nodes": "enlarged axillary lymph nodes on the right side",
+    "respiratory_exam": "scattered crackles audible over both lung bases",
+    "neurological_exam": "no rash, no neck stiffness, negative Kernig's and Brudzinski's signs"
+  },
+  "labs_and_diagnostics": {
+    "CBC": "normal white cell count but slight thrombocytopenia",
+    "liver_function_tests": "slightly raised liver transaminases, normal bilirubin and AP",
+    "CSF": "slight lymphocytic pleocytosis, mildly raised protein, slightly decreased glucose",
+    "blood_cultures": "no organisms grown",
+    "Leptospira_serology": "negative",
+    "Salmonella_serology": "negative",
+    "Leptospira-PCR": "not available",
+    "malaria_thick_smear": "negative"
+  },
+  "differential_diagnosis": {
+    "considered": "dengue fever, chikungunya, malaria",
+    "evidence_for_dengue": "positive NS1 antigen test, thrombocytopenia, travel to an endemic area",
+    "evidence_against_malaria": "no malaria-specific findings reported"
+  },
+  "management_and_clinical_course": {
+    "treatment": "supportive care with oral/IV fluids and acetaminophen; doxycycline therapy commenced on day 2",
+    "response": "improved over next 48 hours, discharged on day 6",
+    "outcome": "hearing returned to normal, no other neurological deficits"
+  },
+  "final_diagnosis": {
+    "disease_name": "Scrub typhus due to Orientia tsutsugamushi",
+    "causative_agent": "Orientia tsutsugamushi",
+    "confirmation_method": "positive NS1 antigen test, elevated antibody titre",
+    "alternative_exclusions": "no other infectious causes considered"
+  },
+  "disease_name_short": "Scrub typhus"
+}
+```

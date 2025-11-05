@@ -1,0 +1,32 @@
+{
+  "case_id": "079",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/79---A-34-Year-Old-Male-Immigrant-from-Peru-With-Ch_2022_Clinical-Cases-in-T.pdf",
+  "n_pages": 3,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/079/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/079/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        319.1239929199219,
+        511.65301513671875,
+        559.447021484375,
+        691.7100219726562
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/079/images/079_p1_fig_1.png"
+    },
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        64.74299621582031,
+        512.3910522460938,
+        544.9320068359375,
+        705.6570434570312
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/079/images/079_p2_fig_1.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/079/079.json"
+}

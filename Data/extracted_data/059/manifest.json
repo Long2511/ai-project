@@ -1,0 +1,43 @@
+{
+  "case_id": "059",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/59---A-24-Year-Old-Man-from-Malawi-With-Skin-Le_2022_Clinical-Cases-in-Tropi.pdf",
+  "n_pages": 3,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/059/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/059/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        358.29901123046875,
+        253.58804321289062,
+        514.4310302734375,
+        461.7640380859375
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/059/images/059_p1_fig_1.png"
+    },
+    {
+      "page_number": 1,
+      "figure_index": 2,
+      "bbox": [
+        331.20001220703125,
+        557.8580322265625,
+        541.634033203125,
+        715.5780029296875
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/059/images/059_p1_fig_2.png"
+    },
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        333.58099365234375,
+        53.802001953125,
+        543.77197265625,
+        243.156005859375
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/059/images/059_p2_fig_1.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/059/059.json"
+}

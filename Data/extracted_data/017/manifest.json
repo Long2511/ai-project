@@ -1,0 +1,32 @@
+{
+  "case_id": "017",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/17---A-34-Year-Old-Man-from-Thailand-With-Feve_2022_Clinical-Cases-in-Tropic.pdf",
+  "n_pages": 3,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/017/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/017/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        95.24400329589844,
+        511.3139953613281,
+        251.64599609375,
+        719.5469970703125
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/017/images/017_p1_fig_1.png"
+    },
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        333.6940002441406,
+        53.802032470703125,
+        543.676025390625,
+        211.1810302734375
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/017/images/017_p2_fig_1.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/017/017.json"
+}

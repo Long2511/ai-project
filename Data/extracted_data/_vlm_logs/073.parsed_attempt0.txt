@@ -1,0 +1,13 @@
+{
+  "patient_information": "{'age': '21 years', 'sex': 'male', 'origin': 'rural Mali', 'immigration_status': 'migrant', 'education_level': 'unable to read and write'}",
+  "chief_complaint": "Massive splenomegaly causing abdominal heaviness for some time",
+  "history_of_present_illness": "Intermittent fever, no night sweats, stable weight",
+  "exposure_and_epidemiology": "{'travel_history': 'recent travel to rural Mali one year prior', 'vector_exposures': 'crossed Niger and spent weeks at a detention centre in Libya', 'seasonal_context': 'arrived in Germany during the Mediterranean crossing'}",
+  "vitals": "{'temperature': '36.1°C (96.98°F)', 'blood_pressure': '120/80 mmHg', 'heart_rate': '64 bpm'}",
+  "physical_exam": "{'spleen_size': 'massively enlarged, around 15 cm below the left costal margin', 'liver_size': 'normal in size', 'abdominal_palpation': 'no free fluid detected', 'heart_examination': 'clear heart sounds with no murmurs'}",
+  "labs_and_diagnostics": "{'CBC': 'mild bicytopenia, normal LDH and almost 4-fold increased immunoglobulin M (IgM)', 'Plasmodium spp. IFAT': '1:256', 'PCR for P. falciparum': 'positive', 'Bone marrow aspirate': 'negative'}",
+  "differential_diagnosis": "[{'diagnosis': 'Hyperreactive Malarial Splenomegaly (HMS)', 'evidence': 'massive splenomegaly, elevated IgM, positive Plasmodium spp. IFAT and PCR for P. falciparum'}, {'diagnosis': 'Lymphoma or leukaemia', 'evidence': 'normal differential count, no lymphadenopathy'}]",
+  "management_and_clinical_course": "{'treatment': 'one single course of dihydroartemisinin/piperazine', 'outcome': 'patient remained well and spoke fluent German after treatment'}",
+  "final_diagnosis": "{'disease_name_short': 'HMS', 'confirmation_method': 'positive Plasmodium spp. IFAT and PCR for P. falciparum, elevated IgM', 'evidence': 'massive splenomegaly, elevated IgM, positive Plasmodium spp. IFAT and PCR for P. falciparum'}",
+  "disease_name_short": null
+}

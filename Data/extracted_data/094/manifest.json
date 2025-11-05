@@ -1,0 +1,32 @@
+{
+  "case_id": "094",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/94---A-20-Year-Old-Woman-from-the-Democratic-Republic-_2022_Clinical-Cases-i.pdf",
+  "n_pages": 3,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/094/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/094/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        319.1239929199219,
+        311.92401123046875,
+        559.218017578125,
+        510.23602294921875
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/094/images/094_p1_fig_1.png"
+    },
+    {
+      "page_number": 3,
+      "figure_index": 1,
+      "bbox": [
+        56.069000244140625,
+        53.802032470703125,
+        296.10699462890625,
+        314.53302001953125
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/094/images/094_p3_fig_1.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/094/094.json"
+}

@@ -1,0 +1,32 @@
+{
+  "case_id": "030",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/30---A-12-Year-Old-Boy-from-Rural-Kenya-With_2022_Clinical-Cases-in-Tropical.pdf",
+  "n_pages": 3,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/030/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/030/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        333.6940002441406,
+        339.4210205078125,
+        543.676025390625,
+        471.4590148925781
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/030/images/030_p1_fig_1.png"
+    },
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        68.37200164794922,
+        53.802032470703125,
+        278.35400390625,
+        207.55303955078125
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/030/images/030_p2_fig_1.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/030/030.json"
+}

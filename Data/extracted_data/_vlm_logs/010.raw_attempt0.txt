@@ -1,0 +1,117 @@
+```json
+{
+  "patient_information": {
+    "age": "55 years",
+    "sex": "female",
+    "indigenous_status": "yes",
+    "country_of_origin": "Australia",
+    "comorbidities": "none reported",
+    "immunosuppression": "none reported",
+    "vaccination_history": "unknown",
+    "allergy_history": "unknown"
+  },
+  "chief_complaint": {
+    "symptoms": [
+      "widespread exfoliative rash",
+      "systemically unwell with signs of sepsis"
+    ],
+    "duration": "recent onset"
+  },
+  "history_of_present_illness": {
+    "timeline": "recent onset",
+    "key_symptoms": [
+      "widespread exfoliative rash",
+      "systemically unwell with signs of sepsis"
+    ],
+    "pertinent_negatives": [],
+    "severity_pattern": "acute, severe"
+  },
+  "exposure_and_epidemiology": {
+    "residence_travel": "remote indigenous community in tropical northern Australia",
+    "vectors": "mosquitoes (endemic setting)",
+    "animals": "unknown",
+    "water_food_risks": "unknown",
+    "contacts": "family members and children with multiple scabies lesions",
+    "season_outbreak_context": "unknown",
+    "occupation": "unknown"
+  },
+  "vitals": {
+    "temperature": "39.5°C (103.1°F)",
+    "heart_rate": "110 bpm",
+    "respiratory_rate": "28 breaths per minute",
+    "blood_pressure": "85 mmHg systolic to radial pulsation",
+    "oxygen_saturation": "92% on room air"
+  },
+  "physical_exam": {
+    "findings": [
+      "widespread exfoliative rash involving all limbs and especially the armpits, buttocks, and thighs",
+      "pale skin",
+      "clammy skin",
+      "poorly responsive patient",
+      "temperature of 39.5°C (103.1°F)",
+      "heart rate of 110 bpm",
+      "respiratory rate of 28 breaths per minute",
+      "blood pressure of 85 mmHg systolic to radial pulsation",
+      "oxygen saturation of 92% on room air"
+    ]
+  },
+  "labs_and_diagnostics": {
+    "results": [
+      "full blood count (FBC) results not provided",
+      "CRP levels not provided",
+      "biochemistry panel results not provided",
+      "blood cultures taken and sent to regional laboratory for results expected the next day",
+      "skin scrapings taken for microscopy under low-power magnification"
+    ]
+  },
+  "differential_diagnosis": {
+    "considered": [
+      "crusted scabies",
+      "secondary sepsis from Staphylococcus aureus or Streptococcus pyogenes",
+      "other causes of exfoliative rash and sepsis"
+    ],
+    "justification": [
+      "widespread exfoliative rash consistent with crusted scabies",
+      "systemic signs of sepsis suggesting secondary infection",
+      "endemic setting in remote indigenous community"
+    ]
+  },
+  "management_and_clinical_course": {
+    "initial_management": [
+      "oxygen administration",
+      "intravenous (IV) fluids",
+      "additional set of blood cultures",
+      "administration of ceftriaxone 2 g and gentamicin 320 mg",
+      "treatment with a five-dose course of ivermectin (200 μg/kg/dose)",
+      "application of topical scabicide (benzyl benzoate 25%) every second day for the first week, then twice weekly for the second week",
+      "administration of a keratolytic cream (lactic acid and urea in sorbolene cream) after bathing on days the topical scabicide was not administered"
+    ],
+    "treatment_outcome": [
+      "blood pressure rose to 95 mmHg systolic",
+      "oxygen saturation increased to 97% with oxygen by nasal prongs",
+      "patient returned to community health centre where she put her on oxygen, inserted a wide-bore cannula, and took an additional set of blood cultures",
+      "blood culture taken in the community grew Staphylococcus aureus resistant to flucloxacillin and clindamycin but sensitive to gentamicin, co-trimoxazole, and doxycycline (i.e., community-acquired MRSA)",
+      "patient was managed in a single room with enhanced contact precautions",
+      "all family members were treated in the community with topical permethrin 5%",
+      "children with skin sores were each given a single dose of intramuscular benzathine penicillin"
+    ],
+    "clinical_improvement": [
+      "patient was afebrile, off oxygen and eating well",
+      "family members followed up regularly by health staff to allow early diagnosis and treatment should she again be infected with scabies"
+    ]
+  },
+  "final_diagnosis": {
+    "disease_name_short": "Crusted scabies",
+    "confirmation_method": [
+      "positive skin scrapings under low-power magnification",
+      "clinical findings consistent with crusted scabies"
+    ],
+    "evidence": [
+      "widespread exfoliative rash involving all limbs and especially the armpits, buttocks, and thighs",
+      "systemically unwell with signs of sepsis",
+      "endemic setting in remote indigenous community"
+    ]
+  },
+  "disease_name_short": "Crusted scabies"
+}
+```

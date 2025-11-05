@@ -1,0 +1,119 @@
+```json
+{
+  "patient_information": {
+    "age": "55 years",
+    "sex": "female",
+    "nationality": "Turkish",
+    "comorbidities": [
+      "double heart valve replacement",
+      "history of rheumatic fever"
+    ],
+    "immunosuppression": null,
+    "vaccination": null,
+    "allergy": null
+  },
+  "chief_complaint": {
+    "symptoms": ["intermittent fever", "night sweats", "chest pain", "fatigue"],
+    "duration": "several weeks"
+  },
+  "history_of_present_illness": {
+    "timeline": "shortly before travel to Turkey",
+    "key_symptoms": [
+      "fever up to 39.5°C (103.1°F)",
+      "night sweats",
+      "chest pain",
+      "fatigue"
+    ],
+    "pertinent_negatives": null,
+    "severity_pattern": "intermittent"
+  },
+  "exposure_and_epidemiology": {
+    "residence_travel": [
+      "recent travel to Turkey",
+      "had visited relatives in Turkey several weeks before"
+    ],
+    "vectors": ["mosquito"],
+    "animals": null,
+    "water_food_risks": null,
+    "contacts": null,
+    "season_outbreak_context": null,
+    "occupation": null
+  },
+  "vitals": {
+    "blood_pressure": "within normal limits",
+    "heart_rate": "within normal limits",
+    "temperature": "39.5°C (103.1°F)",
+    "respiratory_rate": null,
+    "oxygen_saturation": null
+  },
+  "physical_exam": {
+    "findings": [
+      "unremarkable prosthetic heart sounds",
+      "systolic grade 1 murmur over the aortic area without radiation",
+      "liver and spleen not enlarged",
+      "no lymph nodes palpable",
+      "no haemorrhages or petechiae detectable"
+    ]
+  },
+  "labs_and_diagnostics": {
+    "hemoglobin": "slight anaemia (Hb 11.5 g/dL)",
+    "white_blood_cell_count": null,
+    "lymphocyte_neutrophil_ratio": null,
+    "platelet_count": null,
+    "c reactive_protein": "15 mg/dL",
+    "creatinine": null,
+    "transaminases": null,
+    "blood_cultures": "negative",
+    "urinary_cultures": "Enterobacteriaceae",
+    "chest_radiography": "no infiltrates",
+    "echocardiography": {
+      "findings": [
+        "competent prosthetic valves",
+        "abscess cavity around the aortic prosthesis"
+      ]
+    }
+  },
+  "differential_diagnosis": {
+    "considered": ["urosepsis", "another infection"],
+    "supporting_findings": [
+      "urinary tract infection",
+      "blood cultures grew Brucella melitensis biovar 2"
+    ],
+    "less_likely": ["brucellosis", "tuberculosis", "Q-fever"]
+  },
+  "management_and_clinical_course": {
+    "initial_treatment": [
+      "co-trimoxazole",
+      "some improvement"
+    ],
+    "diagnosis_confirmation": [
+      "blood cultures grew Brucella melitensis biovar 2",
+      "transoesophageal echocardiography revealed a large vegetation attached to the prosthetic mitral valve"
+    ],
+    "treatment_changes": [
+      "rifampicin, doxycycline and gentamicin initiated",
+      "improved rapidly",
+      "C-reactive protein returned to normal after 6 weeks of triple therapy"
+    ],
+    "outcome": {
+      "eventually_slips_into_congestive_heart_failure": true,
+      "complete_and_sustained_recovery_after_third_thoracotomy": true
+    }
+  },
+  "final_diagnosis": {
+    "disease_name": "Brucellosis",
+    "causative_agent": "Brucella melitensis biovar 2",
+    "confirmation_method": [
+      "blood cultures grew Brucella melitensis biovar 2",
+      "transoesophageal echocardiography revealed a large vegetation attached to the prosthetic mitral valve"
+    ],
+    "evidence": [
+      "intermittent fever, night sweats, chest pain and fatigue",
+      "recent travel to Turkey",
+      "blood cultures grew Brucella melitensis biovar 2",
+      "transoesophageal echocardiography revealed a large vegetation attached to the prosthetic mitral valve"
+    ]
+  },
+  "disease_name_short": "Brucellosis"
+}
+```

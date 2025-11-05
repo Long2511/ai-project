@@ -1,0 +1,43 @@
+{
+  "case_id": "051",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/51---A-34-Year-Old-HIV-Positive-Woman-from-Malawi-W_2022_Clinical-Cases-in-T.pdf",
+  "n_pages": 3,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/051/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/051/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        331.31298828125,
+        587.509033203125,
+        541.428955078125,
+        705.6570434570312
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/051/images/051_p1_fig_1.png"
+    },
+    {
+      "page_number": 3,
+      "figure_index": 1,
+      "bbox": [
+        101.36699676513672,
+        86.85400390625,
+        301.8330078125,
+        295.4840087890625
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/051/images/051_p3_fig_1.png"
+    },
+    {
+      "page_number": 3,
+      "figure_index": 2,
+      "bbox": [
+        304.27099609375,
+        53.802032470703125,
+        508.3089904785156,
+        295.0870361328125
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/051/images/051_p3_fig_2.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/051/051.json"
+}

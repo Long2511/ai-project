@@ -1,0 +1,92 @@
+```json
+{
+  "patient_information": {
+    "age": "35 years",
+    "sex": "female",
+    "comorbidities": "none reported",
+    "immunosuppression": "HIV-positive",
+    "vaccination": "unknown",
+    "allergy": "unknown"
+  },
+  "chief_complaint": {
+    "problem": "fever and weakness",
+    "duration": "3 days"
+  },
+  "history_of_present_illness": {
+    "timeline": "progressed over several months",
+    "key_symptoms": [
+      "no cough or night sweats",
+      "some weight loss",
+      "no diarrhea, dysuria, or history of abnormal bleeds"
+    ],
+    "severity_pattern": "severe"
+  },
+  "exposure_and_epidemiology": {
+    "residence_travel": "recent travel to Malawi",
+    "vectors_animals": "unknown",
+    "water_food_risks": "unknown",
+    "contacts_season_outbreak": "unknown",
+    "occupation": "small-scale farmer"
+  },
+  "vitals": {
+    "temperature": "37.8°C (100°F)",
+    "blood_pressure": "90/60 mmHg",
+    "heart_rate": "110 bpm",
+    "respiratory_rate": "25 breaths/min",
+    "oxygen_saturation": "97% on ambient air"
+  },
+  "physical_exam": {
+    "general_appearance": "wasted, body mass index 17 kg/m²",
+    "head_eyes_nose_throat": "conjunctivae pale, no jaundice",
+    "oral_cavity": "normal",
+    "chest": "clear",
+    "abdomen": "soft with slight diffuse tenderness",
+    "spleen": "palpable 3 cm below left costal margin"
+  },
+  "labs_and_diagnostics": {
+    "full_blood_count": [
+      "WBC: 3.0 × 10^9/L (4–10)",
+      "Hemoglobin: 4.8 mg/dL (12–14)",
+      "MCV: 90 fL (80–99)",
+      "Platelets: 112 × 10^9/L (150–400)"
+    ],
+    "malaria_rapid_test": "negative",
+    "HIV_serology": "positive",
+    "other_tests": [
+      "TB screening revealed prominent hilar lymph nodes",
+      "CD4 count <100 cells/μL"
+    ]
+  },
+  "differential_diagnosis": {
+    "considered": ["Salmonella infection", "Tuberculosis"],
+    "reasons_for_consideration": [
+      "septic picture without focal symptoms",
+      "HIV-positive status",
+      "wasting and severe anaemia suggest advanced immunosuppression"
+    ]
+  },
+  "management_and_clinical_course": {
+    "initial_treatment": ["fluids", "broad-spectrum antibiotics"],
+    "antibiotics_changed_to_ciprofloxacin_500mg_tds",
+    "TB_screening_positive",
+    "started_on_antituberculosis_treatment",
+    "received_co-trimoxazole_prophylaxis_and_vitamin_B12",
+    "discharged_after_4_weeks_in_hospital",
+    "feeling_much_better_with_weight_gain_and_improving_haemoglobin_levels"
+  },
+  "final_diagnosis": {
+    "diagnosis": "Salmonella infection with concomitant tuberculosis (TB)",
+    "confirmation_method": [
+      "positive HIV serology",
+      "prominent hilar lymph nodes on TB screening",
+      "CD4 count <100 cells/μL"
+    ],
+    "evidence_against_alternatives": [
+      "septic picture without focal symptoms",
+      "HIV-positive status",
+      "wasting and severe anaemia suggest advanced immunosuppression"
+    ]
+  },
+  "disease_name_short": "Salmonella infection with TB"
+}
+```

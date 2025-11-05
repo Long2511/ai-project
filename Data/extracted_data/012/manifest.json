@@ -1,0 +1,32 @@
+{
+  "case_id": "012",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/12---A-29-Year-Old-Man-from-The-Gambia-With-G_2022_Clinical-Cases-in-Tropica.pdf",
+  "n_pages": 2,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/012/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/012/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        70.5260009765625,
+        565.5690307617188,
+        280.92498779296875,
+        705.6570434570312
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/012/images/012_p1_fig_1.png"
+    },
+    {
+      "page_number": 2,
+      "figure_index": 1,
+      "bbox": [
+        68.1449966430664,
+        308.5240173339844,
+        278.510986328125,
+        448.5550231933594
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/012/images/012_p2_fig_1.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/012/012.json"
+}

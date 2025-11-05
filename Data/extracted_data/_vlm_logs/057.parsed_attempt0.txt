@@ -1,0 +1,13 @@
+{
+  "patient_information": "{'age': '37 years', 'sex': 'female', 'comorbidities': 'none reported', 'immunosuppression': 'none reported', 'vaccinations': 'none reported', 'allergies': 'none reported'}",
+  "chief_complaint": "{'symptoms': 'first episode of haematemesis', 'duration': 'recent onset'}",
+  "history_of_present_illness": "{'timeline': 'recent onset', 'key_symptoms': 'fever, abdominal pain, vomiting', 'pertinent_negatives': 'no history of fever or abnormal bleeding', 'severity_pattern': 'acute'}",
+  "exposure_and_epidemiology": "{'residence_travel': 'from Malawi to the Lower Shire Valley in southern Malawi', 'vectors': 'none reported', 'animals': 'none reported', 'water_food_risks': 'none reported', 'contacts': 'none reported', 'season_outbreak_context': 'recent travel', 'occupation': 'working on a large sugar plantation'}",
+  "vitals": "{'temperature': '90/60 mmHg', 'heart_rate': '110 bpm', 'respiratory_rate': '28 breath cycles per minute', 'oxygen_saturation': 'normal', 'platelets': '130 × 10^9/L', 'hemoglobin': '8.3 g/dL', 'white_blood_cells': '2.8 × 10^9/L'}",
+  "physical_exam": "{'general_appearance': 'slim but not wasted, slightly pale', 'conjunctiva': 'slightly pale with no subconjunctival effusions', 'abdomen': 'non-tender, no abdominal distension or tenderness', 'spleen': 'palpable at 10 cm below the left costal margin', 'liver': 'slightly enlarged but non-tender', 'lymph_nodes': 'normal'}",
+  "labs_and_diagnostics": "{'CBC': 'pancytopenia with normocytic anaemia', 'platelets': '130 × 10^9/L', 'hemoglobin': '8.3 g/dL', 'white_blood_cells': '2.8 × 10^9/L', 'MCV': '88 fl', 'ultrasound_of_liver': {'description': \"pattern typical of 'pipestem fibrosis'\"}}",
+  "differential_diagnosis": "{'considered': ['portal hypertension and gastro-oesophageal varices', 'hepatosplenic schistosomiasis'], 'reasons_for_consideration': ['splenomegaly and pancytopenia', 'recent travel to an endemic area for hepatosplenic schistosomiasis']}",
+  "management_and_clinical_course": "{'initial_treatment': 'IV fluids, endoscopy with banding', 'additional_tests_performed': ['Hepatitis B and C serologies', 'Stool sample for S. mansoni ova'], 'diagnosis_confirmed': 'hepatosplenic schistosomiasis', 'treatment': 'single dose of praziquantel 40 mg/kg', 'outcome': 'discharged home'}",
+  "final_diagnosis": "{'disease_name': 'Hepatosplenic Schistosomiasis', 'causative_agent': 'Schistosoma mansoni', 'confirmation_method': \"ultrasound of liver showing 'pipestem fibrosis'\", 'evidence': ['splenomegaly and pancytopenia', 'recent travel to an endemic area']}",
+  "disease_name_short": "Hepatosplenic Schistosomiasis"
+}

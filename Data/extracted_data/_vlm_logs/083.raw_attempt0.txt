@@ -1,0 +1,95 @@
+```json
+{
+  "patient_information": {
+    "age": "18 years",
+    "sex": "male",
+    "country_of_origin": "India",
+    "comorbidities": "none reported",
+    "immunosuppression": "none reported",
+    "vaccinations": "none reported",
+    "allergies": "none reported"
+  },
+  "chief_complaint": {
+    "description": "noticed a pale patch on his right arm and forearm for 3 months",
+    "duration": "3 months"
+  },
+  "history_of_present_illness": {
+    "timeline": "noticed the pale patch on his right arm and forearm for 3 months",
+    "key_symptoms": [
+      "reduced sensation in the affected area",
+      "mild numbness of the little finger of the right hand",
+      "thickened right ulnar nerve"
+    ],
+    "severity_pattern": "progressive over 3 months"
+  },
+  "exposure_and_epidemiology": {
+    "travel_history": "recent travel to India",
+    "vector_exposures": "none reported",
+    "animal_exposures": "none reported",
+    "water_food_risks": "none reported",
+    "contacts": "none reported",
+    "season_outbreak_context": "unknown"
+  },
+  "vitals": {
+    "temperature": null,
+    "blood_pressure": null,
+    "heart_rate": null,
+    "respiratory_rate": null,
+    "oxygen_saturation": null
+  },
+  "physical_exam": {
+    "skin_exam": "20 cm by 10 cm hypopigmented macule on the outer aspect of the right arm extending onto the forearm",
+    "heent_exam": "normal",
+    "chest_exam": "normal",
+    "abdominal_exam": "normal",
+    "neurological_exam": {
+      "sensory_abnormalities": [
+        "reduced sensation in the tip and ulnar border of the right little finger"
+      ],
+      "motor_abnormalities": null,
+      "reflexes": null
+    },
+    "lymph_nodes": "normal",
+    "other_systems_exam": "normal"
+  },
+  "labs_and_diagnostics": {
+    "CBC": "normal",
+    "chem_panel": "normal",
+    "coagulation_profile": "normal",
+    "inflammatory_markers": "normal",
+    "microbiology_serology_PCR": null,
+    "malaria_tests": null,
+    "imaging_results": null
+  },
+  "differential_diagnosis": {
+    "considered_conditions": [
+      "leprosy",
+      "vitiligo",
+      "pityriasis alba",
+      "seborrheic dermatitis"
+    ],
+    "reasons_for_consideration": [
+      "hypopigmented macule with reduced sensation and thickened nerve",
+      "recent travel to India",
+      "normal CBC, chem panel, and coagulation profile"
+    ]
+  },
+  "management_and_clinical_course": {
+    "treatment_plan": null,
+    "supportive_care": null,
+    "procedures_performed": null,
+    "response_to_treatment": null,
+    "complications": null,
+    "outcome": null
+  },
+  "final_diagnosis": {
+    "diagnosis_statement": "paucibacillary leprosy",
+    "confirmation_method": "skin biopsy and slit-skin smear",
+    "evidence_for_alternatives_ruled_out": [
+      "normal CBC, chem panel, and coagulation profile",
+      "no identifiable bacteria in skin biopsy or slit-skin smear"
+    ]
+  },
+  "disease_name_short": "Leprosy"
+}
+```

@@ -1,0 +1,21 @@
+{
+  "case_id": "042",
+  "source_pdf": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/pdf-data/42---A-41-Year-Old-Male-Traveller-Returning-from-Au_2022_Clinical-Cases-in-T.pdf",
+  "n_pages": 2,
+  "pages_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/042/pages",
+  "images_dir": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/042/images",
+  "images_meta": [
+    {
+      "page_number": 1,
+      "figure_index": 1,
+      "bbox": [
+        70.58300018310547,
+        569.197021484375,
+        280.77398681640625,
+        704.4100341796875
+      ],
+      "path": "/content/drive/MyDrive/Project-AI/Data/extracted_data/042/images/042_p1_fig_1.png"
+    }
+  ],
+  "json_path": "/content/drive/.shortcut-targets-by-id/1yHFl0_mcLCuL8ghHHxr9zmInsCZ3CqKt/data/extracted_data/042/042.json"
+}

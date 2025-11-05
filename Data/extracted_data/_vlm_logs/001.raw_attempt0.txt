@@ -1,0 +1,49 @@
+```json
+{
+  "patient_information": {
+    "age": "20 years",
+    "sex": "female",
+    "country_of_origin": "Sudan",
+    "residence": "northern Uganda",
+    "travel_history": "recent travel to rural Uganda one week prior"
+  },
+  "chief_complaint": "Acute onset of fever, severe asthenia, chest and abdominal pain, nausea, vomiting, diarrhea, and slight non-productive cough.",
+  "history_of_present_illness": "The patient presented with a two-day history of symptoms including high fever, severe fatigue, chest and abdominal pain, nausea, vomiting, diarrhea, and mild respiratory distress. The symptoms began shortly after travel to northern Uganda.",
+  "exposure_and_epidemiology": {
+    "travel_history": "Travel to rural Uganda one week prior",
+    "vector_exposures": "Mosquito exposure is implied by the endemic setting",
+    "animal_exposures": "No animal exposures reported",
+    "water_food_risks": "No water or food risks reported",
+    "contacts": "No sick contacts reported",
+    "season_outbreak_context": "Travel to an area with known viral hemorrhagic fever (VHF) outbreaks"
+  },
+  "vitals": {
+    "temperature": "39.6°C (103.3°F)",
+    "blood_pressure": "90/60 mmHg",
+    "pulse_rate": "90 bpm",
+    "respiratory_rate": "24 breaths per minute"
+  },
+  "physical_exam": {
+    "abdominal_tenderness": "Abdominal tenderness, especially in the right upper quadrant",
+    "hepatosplenomegaly": "Hepatosplenomegaly",
+    "bleeding_from_gums": "Bleeding from the gums",
+    "lungs_clear": "Clear lungs"
+  },
+  "labs_and_diagnostics": {
+    "CBC": "Mildly lymphopenia and thrombocytopenia, elevated hepatic transaminases with AST > ALT",
+    "microvascular_instability": "Microvascular instability with capillary leak and impaired haemostasis",
+    "differential_diagnosis": "Considered viral hemorrhagic fever (VHF) versus other febrile illnesses such as typhoid fever, leptospirosis, and malaria"
+  },
+  "management_and_clinical_course": {
+    "treatment": "Supportive care with intravenous fluids, broad-spectrum antibiotics, and analgesics",
+    "clinical_progression": "The patient's condition rapidly worsened with subconjunctival haemorrhage, copious bleeding from the mouth, nose, and rectum",
+    "death": "The patient became comatose and died approximately 24 hours after admission"
+  },
+  "final_diagnosis": {
+    "disease_name_short": "Viral hemorrhagic fever (VHF)",
+    "confirmation_method": "Positive ELISA antigen and PCR tests for Ebola virus, negative result for ELISA IgG antibody",
+    "evidence": "The diagnosis was confirmed by laboratory testing at a specialized laboratory established as part of the international outbreak response. The patient's history and clinical presentation were consistent with an HF syndrome."
+  },
+  "disease_name_short": "Viral hemorrhagic fever (VHF)"
+}
+```
