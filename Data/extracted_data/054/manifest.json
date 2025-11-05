@@ -1,0 +1,35 @@
+{
+  "case_id": "054",
+  "case_title": "A 52 Year Old Male Safari Tourist Returning fro 2022 Clinical Cases in",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/54---A-52-Year-Old-Male-Safari-Tourist-Returning-fro_2022_Clinical-Cases-in-.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/054/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/054/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/054/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/054/pages/054_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/054/pages/054_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/054/pages/054_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/054/images/054_p1_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/054/raw_text_data/054_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/054/images/054_p1_fig_1.png",
+      "width": 877,
+      "height": 706,
+      "figure_id": "054_p1_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:09.881352+00:00",
+  "updated_at": "2025-11-05T07:21:16.838124+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

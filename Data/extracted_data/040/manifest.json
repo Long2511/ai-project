@@ -1,0 +1,25 @@
+{
+  "case_id": "040",
+  "case_title": "A 62 Year Old Woman from Ethiopia With D 2022 Clinical Cases in Tropica",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/40---A-62-Year-Old-Woman-from-Ethiopia-With-D_2022_Clinical-Cases-in-Tropica.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/040/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/040/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/040/raw_text_data",
+  "n_pages": 2,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/040/pages/040_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/040/pages/040_page_2.png"
+  ],
+  "image_files": [],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/040/raw_text_data/040_raw_text.txt"
+  ],
+  "images_meta": [],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:05.831494+00:00",
+  "updated_at": "2025-11-05T07:21:16.198201+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

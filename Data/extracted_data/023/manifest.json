@@ -1,0 +1,42 @@
+{
+  "case_id": "023",
+  "case_title": "A 31 Year Old HIV Positive Business Traveller W 2022 Clinical Cases in",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/23---A-31-Year-Old-HIV-Positive-Business-Traveller-W_2022_Clinical-Cases-in-.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/023/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/023/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/023/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/023/pages/023_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/023/pages/023_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/023/pages/023_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/023/images/023_p1_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/023/images/023_p3_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/023/raw_text_data/023_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/023/images/023_p1_fig_1.png",
+      "width": 876,
+      "height": 840,
+      "figure_id": "023_p1_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/023/images/023_p3_fig_1.png",
+      "width": 877,
+      "height": 625,
+      "figure_id": "023_p3_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:56:55.221128+00:00",
+  "updated_at": "2025-11-05T07:21:14.529205+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

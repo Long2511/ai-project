@@ -1,0 +1,65 @@
+{
+  "case_id": "071",
+  "case_title": "A 71 Year Old Man from Japan With Eosinophili 2022 Clinical Cases in Tr",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/71---A-71-Year-Old-Man-from-Japan-With-Eosinophili_2022_Clinical-Cases-in-Tr.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/raw_text_data",
+  "n_pages": 5,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/pages/071_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/pages/071_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/pages/071_page_3.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/pages/071_page_4.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/pages/071_page_5.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/images/071_p2_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/images/071_p3_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/images/071_p3_fig_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/images/071_p4_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/images/071_p4_fig_2.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/raw_text_data/071_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/images/071_p2_fig_1.png",
+      "width": 1525,
+      "height": 2298,
+      "figure_id": "071_p2_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/images/071_p3_fig_1.png",
+      "width": 752,
+      "height": 824,
+      "figure_id": "071_p3_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/images/071_p3_fig_2.png",
+      "width": 877,
+      "height": 748,
+      "figure_id": "071_p3_fig_2"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/images/071_p4_fig_1.png",
+      "width": 752,
+      "height": 849,
+      "figure_id": "071_p4_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/071/images/071_p4_fig_2.png",
+      "width": 878,
+      "height": 899,
+      "figure_id": "071_p4_fig_2"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:14.259601+00:00",
+  "updated_at": "2025-11-05T07:21:17.707037+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

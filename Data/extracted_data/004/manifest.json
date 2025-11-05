@@ -1,0 +1,42 @@
+{
+  "case_id": "004",
+  "case_title": "A 4 Year Old Girl from Uganda in a 2022 Clinical Cases in Tropical Medi",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/4---A-4-Year-Old-Girl-from-Uganda-in-a-_2022_Clinical-Cases-in-Tropical-Medi.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/004/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/004/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/004/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/004/pages/004_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/004/pages/004_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/004/pages/004_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/004/images/004_p2_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/004/images/004_p2_fig_2.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/004/raw_text_data/004_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/004/images/004_p2_fig_1.png",
+      "width": 752,
+      "height": 874,
+      "figure_id": "004_p2_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/004/images/004_p2_fig_2.png",
+      "width": 876,
+      "height": 581,
+      "figure_id": "004_p2_fig_2"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:56:48.397299+00:00",
+  "updated_at": "2025-11-05T07:21:12.211740+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

@@ -1,0 +1,13 @@
+{
+  "patient_information": "A 4-year-old girl in good general health.",
+  "chief_complaint": "A slowly growing and moderately painful nodule on the fifth toe of her right foot, present for several days.",
+  "history_of_present_illness": "The patient presented with a history of a slowly growing nodule on her right fifth toe over several days, which was moderately painful when she wore shoes. Her parents reported that when they attempted to squeeze the lesion, they observed white oval granules emerging from the nodule.",
+  "exposure_and_epidemiology": "The patient's family moved from Chile to the Cochabamba region in Bolivia approximately 6 months ago, where they now live on a farm. Her 9-year-old brother has similar lesions on two of his toes.",
+  "vitals": null,
+  "physical_exam": "Examination revealed a dark-brown small nodule with a tiny central ulceration, surrounded by a minimal inflammatory reaction. The lesion was located close to the root of the fifth toenail on the right foot.",
+  "labs_and_diagnostics": "The diagnosis was made clinically based on the macroscopic presentation. Microscopic examination of removed tissue was performed for confirmation, showing parts of a female flea and typical eggs (size 600 x 280 µm). No other laboratory or imaging studies were reported.",
+  "differential_diagnosis": null,
+  "management_and_clinical_course": "The parasite was completely removed using a sterile needle and/or curette. The resulting lesion was disinfected and dressed. The plan included checking the patient's tetanus vaccination status and observing the wound for superinfection. The skin lesion healed within one week without complications.",
+  "final_diagnosis": "The final diagnosis is tungiasis, caused by the burrowing female sand flea, Tunga penetrans. The diagnosis was established based on the classic clinical presentation of a painful, growing nodule on the toe with a central dark point, and the extrusion of eggs upon pressure. The epidemiological context, including living on a farm in an endemic area of Bolivia and a similar case in a sibling, further supported the diagnosis. Microscopic examination of the removed tissue confirmed the presence of the parasite and its eggs.",
+  "disease_name_short": "Tungiasis"
+}

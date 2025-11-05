@@ -1,0 +1,41 @@
+{
+  "case_id": "065",
+  "case_title": "A 4 Year Old Girl from Bolivia With a Dar 2022 Clinical Cases in Tropic",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/65---A-4-Year-Old-Girl-from-Bolivia-With-a-Dar_2022_Clinical-Cases-in-Tropic.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/065/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/065/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/065/raw_text_data",
+  "n_pages": 2,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/065/pages/065_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/065/pages/065_page_2.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/065/images/065_p1_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/065/images/065_p1_fig_2.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/065/raw_text_data/065_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/065/images/065_p1_fig_1.png",
+      "width": 877,
+      "height": 656,
+      "figure_id": "065_p1_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/065/images/065_p1_fig_2.png",
+      "width": 877,
+      "height": 679,
+      "figure_id": "065_p1_fig_2"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:12.788780+00:00",
+  "updated_at": "2025-11-05T07:21:17.354668+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

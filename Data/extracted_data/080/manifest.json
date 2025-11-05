@@ -1,0 +1,42 @@
+{
+  "case_id": "080",
+  "case_title": "A 62 Year Old Man from Thailand With a 2022 Clinical Cases in Tropical",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/80---A-62-Year-Old-Man-from-Thailand-With-a_2022_Clinical-Cases-in-Tropical-.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/080/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/080/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/080/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/080/pages/080_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/080/pages/080_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/080/pages/080_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/080/images/080_p2_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/080/images/080_p2_fig_2.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/080/raw_text_data/080_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/080/images/080_p2_fig_1.png",
+      "width": 2102,
+      "height": 858,
+      "figure_id": "080_p2_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/080/images/080_p2_fig_2.png",
+      "width": 1252,
+      "height": 1252,
+      "figure_id": "080_p2_fig_2"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:30.386581+00:00",
+  "updated_at": "2025-11-05T07:21:18.076125+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

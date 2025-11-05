@@ -1,0 +1,26 @@
+{
+  "case_id": "016",
+  "case_title": "A 25 Year Old Female School Teacher from Malaw 2022 Clinical Cases in T",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/16---A-25-Year-Old-Female-School-Teacher-from-Malaw_2022_Clinical-Cases-in-T.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/016/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/016/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/016/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/016/pages/016_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/016/pages/016_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/016/pages/016_page_3.png"
+  ],
+  "image_files": [],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/016/raw_text_data/016_raw_text.txt"
+  ],
+  "images_meta": [],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:56:51.805973+00:00",
+  "updated_at": "2025-11-05T07:21:13.258066+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

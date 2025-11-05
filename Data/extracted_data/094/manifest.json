@@ -1,0 +1,42 @@
+{
+  "case_id": "094",
+  "case_title": "A 20 Year Old Woman from the Democratic Republic 2022 Clinical Cases i",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/94---A-20-Year-Old-Woman-from-the-Democratic-Republic-_2022_Clinical-Cases-i.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/094/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/094/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/094/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/094/pages/094_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/094/pages/094_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/094/pages/094_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/094/images/094_p1_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/094/images/094_p3_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/094/raw_text_data/094_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/094/images/094_p1_fig_1.png",
+      "width": 1002,
+      "height": 827,
+      "figure_id": "094_p1_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/094/images/094_p3_fig_1.png",
+      "width": 1001,
+      "height": 1087,
+      "figure_id": "094_p3_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:34.054587+00:00",
+  "updated_at": "2025-11-05T07:21:18.876633+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

@@ -1,0 +1,43 @@
+{
+  "case_id": "011",
+  "case_title": "A 45 Year Old Male Security Guard from Malawi 2022 Clinical Cases in T",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/11---A-45-Year-Old-Male-Security-Guard-from-Malawi-_2022_Clinical-Cases-in-T.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/011/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/011/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/011/raw_text_data",
+  "n_pages": 4,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/011/pages/011_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/011/pages/011_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/011/pages/011_page_3.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/011/pages/011_page_4.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/011/images/011_p1_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/011/images/011_p3_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/011/raw_text_data/011_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/011/images/011_p1_fig_1.png",
+      "width": 1774,
+      "height": 524,
+      "figure_id": "011_p1_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/011/images/011_p3_fig_1.png",
+      "width": 501,
+      "height": 928,
+      "figure_id": "011_p3_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:56:50.127496+00:00",
+  "updated_at": "2025-11-05T07:21:12.671738+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

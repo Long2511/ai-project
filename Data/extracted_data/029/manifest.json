@@ -1,0 +1,26 @@
+{
+  "case_id": "029",
+  "case_title": "A 35 Year Old Woman from Malawi With Feve 2022 Clinical Cases in Tropic",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/29---A-35-Year-Old-Woman-from-Malawi-With-Feve_2022_Clinical-Cases-in-Tropic.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/029/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/029/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/029/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/029/pages/029_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/029/pages/029_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/029/pages/029_page_3.png"
+  ],
+  "image_files": [],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/029/raw_text_data/029_raw_text.txt"
+  ],
+  "images_meta": [],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:56:56.814445+00:00",
+  "updated_at": "2025-11-05T07:21:15.397150+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

@@ -1,0 +1,49 @@
+{
+  "case_id": "051",
+  "case_title": "A 34 Year Old HIV Positive Woman from Malawi W 2022 Clinical Cases in T",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/51---A-34-Year-Old-HIV-Positive-Woman-from-Malawi-W_2022_Clinical-Cases-in-T.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/051/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/051/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/051/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/051/pages/051_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/051/pages/051_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/051/pages/051_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/051/images/051_p1_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/051/images/051_p3_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/051/images/051_p3_fig_2.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/051/raw_text_data/051_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/051/images/051_p1_fig_1.png",
+      "width": 876,
+      "height": 494,
+      "figure_id": "051_p1_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/051/images/051_p3_fig_1.png",
+      "width": 836,
+      "height": 871,
+      "figure_id": "051_p3_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/051/images/051_p3_fig_2.png",
+      "width": 851,
+      "height": 1006,
+      "figure_id": "051_p3_fig_2"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:09.226132+00:00",
+  "updated_at": "2025-11-05T07:21:16.675901+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

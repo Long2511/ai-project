@@ -1,0 +1,42 @@
+{
+  "case_id": "037",
+  "case_title": "A 29 Year Old Woman from Malawi With Confusi 2022 Clinical Cases in Tro",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/37---A-29-Year-Old-Woman-from-Malawi-With-Confusi_2022_Clinical-Cases-in-Tro.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/037/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/037/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/037/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/037/pages/037_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/037/pages/037_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/037/pages/037_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/037/images/037_p1_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/037/images/037_p1_fig_2.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/037/raw_text_data/037_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/037/images/037_p1_fig_1.png",
+      "width": 750,
+      "height": 720,
+      "figure_id": "037_p1_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/037/images/037_p1_fig_2.png",
+      "width": 752,
+      "height": 884,
+      "figure_id": "037_p1_fig_2"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:04.703286+00:00",
+  "updated_at": "2025-11-05T07:21:16.094106+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

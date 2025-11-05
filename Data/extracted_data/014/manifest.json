@@ -1,0 +1,35 @@
+{
+  "case_id": "014",
+  "case_title": "A 22 Year Old Woman from Bangladesh With P 2022 Clinical Cases in Tropi",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/14---A-22-Year-Old-Woman-from-Bangladesh-With-P_2022_Clinical-Cases-in-Tropi.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/014/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/014/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/014/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/014/pages/014_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/014/pages/014_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/014/pages/014_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/014/images/014_p1_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/014/raw_text_data/014_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/014/images/014_p1_fig_1.png",
+      "width": 876,
+      "height": 492,
+      "figure_id": "014_p1_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:56:51.285452+00:00",
+  "updated_at": "2025-11-05T07:21:12.904055+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

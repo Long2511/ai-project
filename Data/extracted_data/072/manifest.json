@@ -1,0 +1,41 @@
+{
+  "case_id": "072",
+  "case_title": "A 4 Year Old Boy from Mozambique With Sever 2022 Clinical Cases in Trop",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/72---A-4-Year-Old-Boy-from-Mozambique-With-Sever_2022_Clinical-Cases-in-Trop.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/072/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/072/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/072/raw_text_data",
+  "n_pages": 2,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/072/pages/072_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/072/pages/072_page_2.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/072/images/072_p1_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/072/images/072_p1_fig_2.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/072/raw_text_data/072_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/072/images/072_p1_fig_1.png",
+      "width": 878,
+      "height": 835,
+      "figure_id": "072_p1_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/072/images/072_p1_fig_2.png",
+      "width": 876,
+      "height": 785,
+      "figure_id": "072_p1_fig_2"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:14.477186+00:00",
+  "updated_at": "2025-11-05T07:21:17.739070+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

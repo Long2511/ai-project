@@ -1,0 +1,34 @@
+{
+  "case_id": "066",
+  "case_title": "A 32 Year Old Man from Malawi With Pain in the 2022 Clinical Cases in",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/66---A-32-Year-Old-Man-from-Malawi-With-Pain-in-the-_2022_Clinical-Cases-in-.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/066/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/066/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/066/raw_text_data",
+  "n_pages": 2,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/066/pages/066_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/066/pages/066_page_2.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/066/images/066_p1_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/066/raw_text_data/066_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/066/images/066_p1_fig_1.png",
+      "width": 877,
+      "height": 811,
+      "figure_id": "066_p1_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:13.002045+00:00",
+  "updated_at": "2025-11-05T07:21:17.386585+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

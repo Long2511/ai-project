@@ -1,0 +1,41 @@
+{
+  "case_id": "006",
+  "case_title": "A 36 Year Old Male Traveller Returning from B 2022 Clinical Cases in Tro",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/6---A-36-Year-Old-Male-Traveller-Returning-from-B_2022_Clinical-Cases-in-Tro.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/006/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/006/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/006/raw_text_data",
+  "n_pages": 2,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/006/pages/006_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/006/pages/006_page_2.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/006/images/006_p1_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/006/images/006_p2_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/006/raw_text_data/006_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/006/images/006_p1_fig_1.png",
+      "width": 653,
+      "height": 775,
+      "figure_id": "006_p1_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/006/images/006_p2_fig_1.png",
+      "width": 876,
+      "height": 485,
+      "figure_id": "006_p2_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:56:48.922837+00:00",
+  "updated_at": "2025-11-05T07:21:12.339974+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

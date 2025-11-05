@@ -1,0 +1,41 @@
+{
+  "case_id": "058",
+  "case_title": "A 25 Year Old Woman from Egypt With Severe Ch 2022 Clinical Cases in Tr",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/58---A-25-Year-Old-Woman-from-Egypt-With-Severe-Ch_2022_Clinical-Cases-in-Tr.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/058/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/058/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/058/raw_text_data",
+  "n_pages": 2,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/058/pages/058_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/058/pages/058_page_2.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/058/images/058_p1_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/058/images/058_p2_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/058/raw_text_data/058_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/058/images/058_p1_fig_1.png",
+      "width": 877,
+      "height": 680,
+      "figure_id": "058_p1_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/058/images/058_p2_fig_1.png",
+      "width": 878,
+      "height": 807,
+      "figure_id": "058_p2_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:10.844309+00:00",
+  "updated_at": "2025-11-05T07:21:17.058283+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

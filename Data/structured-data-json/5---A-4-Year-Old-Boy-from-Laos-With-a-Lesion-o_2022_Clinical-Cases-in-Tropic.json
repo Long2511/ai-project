@@ -1,0 +1,13 @@
+{
+  "patient_information": "A 4-year-old, unimmunized boy from a remote village in Laos, described as chronically malnourished, stunted, and thin. He had a history of a fever and rash approximately 2 months prior to presentation, from which he recovered.",
+  "chief_complaint": "A rapidly progressing dark sore on the cheek, first noticed three days prior to presentation.",
+  "history_of_present_illness": "Three days ago, the family noticed a dark sore on the child's cheek. The lesion progressed quickly to eat through the cheek. Associated symptoms include bad breath, listlessness, and anorexia. The family is very poor, and local doctors did not recognize the disease.",
+  "exposure_and_epidemiology": "The child lives in a remote village in a poor developing country in Laos. He is unimmunized and his immune system is compromised by malnutrition and a recent infection (fever and rash 2 months prior), which are known risk factors for noma.",
+  "vitals": null,
+  "physical_exam": "The child appears small, quiet, stunted, and thin. There is a gangrenous, necrotizing lesion on the right cheek that has destroyed part of his upper and lower lips, exposing his teeth. His breath smells bad.",
+  "labs_and_diagnostics": "No diagnostic laboratory tests were performed, as the diagnosis was made clinically.",
+  "differential_diagnosis": "The differential diagnosis included tooth abscess and cellulitis, but the rapid destruction of tissue is typical of noma. Other ulcerating facial lesions such as oral cancer, syphilis, and yaws were considered unlikely in a young child. Cutaneous leishmaniasis was deemed unlikely to develop so rapidly and destructively. Mucocutaneous leishmaniasis, while destructive, is non-endemic in Laos.",
+  "management_and_clinical_course": "The child was treated with penicillin and metronidazole to cover suspected aerobic and anaerobic oropharyngeal bacteria, along with nutritional support. Necrotic tissue was removed. His face healed with contractures, resulting in disfigurement and salivary incontinence. At age 9, he was referred for surgery by a visiting surgical team and underwent two successful surgeries that improved his appearance and corrected the salivary incontinence.",
+  "final_diagnosis": "The final diagnosis is noma, an opportunistic infection. The diagnosis was made clinically based on the presence of a rapidly advancing gangrenous lesion of the face in a chronically malnourished, unimmunized child from a resource-poor setting. The clinical presentation is characteristic of noma, and other potential diagnoses were deemed less likely due to the patient's age and the lesion's features.",
+  "disease_name_short": "Noma"
+}

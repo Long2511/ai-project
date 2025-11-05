@@ -1,0 +1,42 @@
+{
+  "case_id": "089",
+  "case_title": "A 30 Year Old Woman from Bolivia With Ex 2022 Clinical Cases in Tropica",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/89---A-30-Year-Old-Woman-from-Bolivia-With-Ex_2022_Clinical-Cases-in-Tropica.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/089/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/089/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/089/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/089/pages/089_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/089/pages/089_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/089/pages/089_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/089/images/089_p2_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/089/images/089_p2_fig_2.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/089/raw_text_data/089_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/089/images/089_p2_fig_1.png",
+      "width": 1982,
+      "height": 1039,
+      "figure_id": "089_p2_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/089/images/089_p2_fig_2.png",
+      "width": 901,
+      "height": 1201,
+      "figure_id": "089_p2_fig_2"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:32.933661+00:00",
+  "updated_at": "2025-11-05T07:21:18.695030+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "063",
+  "case_title": "A 38 Year Old European Expatriate Living in M 2022 Clinical Cases in Tr",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/63---A-38-Year-Old-European-Expatriate-Living-in-M_2022_Clinical-Cases-in-Tr.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/063/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/063/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/063/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/063/pages/063_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/063/pages/063_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/063/pages/063_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/063/images/063_p2_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/063/raw_text_data/063_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/063/images/063_p2_fig_1.png",
+      "width": 877,
+      "height": 881,
+      "figure_id": "063_p2_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:12.250108+00:00",
+  "updated_at": "2025-11-05T07:21:17.291093+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

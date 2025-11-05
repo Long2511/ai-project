@@ -1,0 +1,49 @@
+{
+  "case_id": "093",
+  "case_title": "A 35 Year Old Male Logger from Peru With Fe 2022 Clinical Cases in Trop",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/93---A-35-Year-Old-Male-Logger-from-Peru-With-Fe_2022_Clinical-Cases-in-Trop.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/093/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/093/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/093/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/093/pages/093_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/093/pages/093_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/093/pages/093_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/093/images/093_p2_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/093/images/093_p2_fig_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/093/images/093_p3_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/093/raw_text_data/093_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/093/images/093_p2_fig_1.png",
+      "width": 1002,
+      "height": 588,
+      "figure_id": "093_p2_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/093/images/093_p2_fig_2.png",
+      "width": 1001,
+      "height": 750,
+      "figure_id": "093_p2_fig_2"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/093/images/093_p3_fig_1.png",
+      "width": 1001,
+      "height": 864,
+      "figure_id": "093_p3_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:33.823689+00:00",
+  "updated_at": "2025-11-05T07:21:18.843699+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

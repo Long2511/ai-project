@@ -1,0 +1,25 @@
+{
+  "case_id": "013",
+  "case_title": "A 16 Year Old Girl from Malawi With Fever 2022 Clinical Cases in Tropic",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/13---A-16-Year-Old-Girl-from-Malawi-With-Fever_2022_Clinical-Cases-in-Tropic.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/013/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/013/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/013/raw_text_data",
+  "n_pages": 2,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/013/pages/013_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/013/pages/013_page_2.png"
+  ],
+  "image_files": [],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/013/raw_text_data/013_raw_text.txt"
+  ],
+  "images_meta": [],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:56:50.973172+00:00",
+  "updated_at": "2025-11-05T07:21:12.790076+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

@@ -1,0 +1,13 @@
+{
+  "patient_information": "A 41-year-old male yoga teacher from Europe with no reported comorbidities. The patient is described as being 'otherwise completely well'.",
+  "chief_complaint": "Intensely itchy skin eruptions on both upper thighs for one week.",
+  "history_of_present_illness": "For the past week, the patient has had three intensely itchy skin eruptions on both upper thighs. The itch is so severe it sometimes keeps him awake at night. The symptoms developed just after his arrival in Australia, following a beach holiday in Thailand. There has been no fever, cough, or wheeze.",
+  "exposure_and_epidemiology": "The patient had just returned to Europe from a 10-day trip to northern Australia for a yoga seminar. En route to Australia, he had a 3-day beach holiday on a Thai island. The text suggests he was likely infected while lying on the beach or performing yoga exercises in the sand.",
+  "vitals": "No fever was reported; other vital signs were not mentioned.",
+  "physical_exam": "On both upper thighs, there were a total of three reddish, serpiginous tracks, approximately 2 mm in width. The inguinal lymph nodes were not enlarged, the chest was clear, and the rest of the examination was unremarkable.",
+  "labs_and_diagnostics": "No investigations were performed. The diagnosis was established clinically, supported by the patient's travel history.",
+  "differential_diagnosis": "The primary clinical syndrome was identified as a creeping eruption. The main differential diagnosis included cutaneous larva migrans (CLM) caused by animal hookworms, larva currens from Strongyloides stercoralis, and less common causes like Gnathostoma, Fasciola, or parasitic fly larvae (migratory myiasis). Larva currens was considered less likely as its tracks move much faster and persist for only a few hours, whereas the patient's lesions were slow-moving and had been present for a week.",
+  "management_and_clinical_course": "The patient was prescribed a single-dose treatment of ivermectin (200 µg/kg). The itchy eruptions resolved within a few days of taking the medication.",
+  "final_diagnosis": "The final diagnosis is cutaneous larva migrans (CLM), caused by zoonotic hookworm larvae. This diagnosis was made clinically based on the characteristic intensely pruritic, serpiginous tracks on the thighs, which are classic for this condition. The diagnosis was strongly supported by the exposure history of a recent beach holiday in Thailand, a highly endemic region. The rapid resolution of symptoms after treatment with ivermectin further confirmed the diagnosis.",
+  "disease_name_short": "Cutaneous Larva Migrans"
+}

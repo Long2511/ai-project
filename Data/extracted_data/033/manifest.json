@@ -1,0 +1,42 @@
+{
+  "case_id": "033",
+  "case_title": "A 53 Year Old Man from Malawi With a C 2022 Clinical Cases in Tropical",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/33---A-53-Year-Old-Man-from-Malawi-With-a-C_2022_Clinical-Cases-in-Tropical-.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/033/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/033/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/033/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/033/pages/033_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/033/pages/033_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/033/pages/033_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/033/images/033_p1_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/033/images/033_p3_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/033/raw_text_data/033_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/033/images/033_p1_fig_1.png",
+      "width": 751,
+      "height": 820,
+      "figure_id": "033_p1_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/033/images/033_p3_fig_1.png",
+      "width": 876,
+      "height": 656,
+      "figure_id": "033_p3_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:03.649333+00:00",
+  "updated_at": "2025-11-05T07:21:15.825320+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

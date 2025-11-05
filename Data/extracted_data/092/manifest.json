@@ -1,0 +1,42 @@
+{
+  "case_id": "092",
+  "case_title": "A 42 Year Old Traveller Returning from Thaila 2022 Clinical Cases in Tr",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/92---A-42-Year-Old-Traveller-Returning-from-Thaila_2022_Clinical-Cases-in-Tr.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/092/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/092/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/092/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/092/pages/092_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/092/pages/092_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/092/pages/092_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/092/images/092_p2_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/092/images/092_p2_fig_2.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/092/raw_text_data/092_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/092/images/092_p2_fig_1.png",
+      "width": 1001,
+      "height": 751,
+      "figure_id": "092_p2_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/092/images/092_p2_fig_2.png",
+      "width": 1001,
+      "height": 751,
+      "figure_id": "092_p2_fig_2"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:33.616972+00:00",
+  "updated_at": "2025-11-05T07:21:18.808709+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

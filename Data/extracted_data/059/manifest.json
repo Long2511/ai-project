@@ -1,0 +1,49 @@
+{
+  "case_id": "059",
+  "case_title": "A 24 Year Old Man from Malawi With Skin Le 2022 Clinical Cases in Tropi",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/59---A-24-Year-Old-Man-from-Malawi-With-Skin-Le_2022_Clinical-Cases-in-Tropi.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/059/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/059/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/059/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/059/pages/059_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/059/pages/059_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/059/pages/059_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/059/images/059_p1_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/059/images/059_p1_fig_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/059/images/059_p2_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/059/raw_text_data/059_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/059/images/059_p1_fig_1.png",
+      "width": 652,
+      "height": 869,
+      "figure_id": "059_p1_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/059/images/059_p1_fig_2.png",
+      "width": 877,
+      "height": 658,
+      "figure_id": "059_p1_fig_2"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/059/images/059_p2_fig_1.png",
+      "width": 877,
+      "height": 790,
+      "figure_id": "059_p2_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:11.193514+00:00",
+  "updated_at": "2025-11-05T07:21:17.120749+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

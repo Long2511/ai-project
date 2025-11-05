@@ -1,0 +1,26 @@
+{
+  "case_id": "091",
+  "case_title": "A 20 Year Old Male from India With Fever 2022 Clinical Cases in Tropic",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/91---A-20-Year-Old-Male-from-India-With-Fever-_2022_Clinical-Cases-in-Tropic.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/091/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/091/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/091/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/091/pages/091_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/091/pages/091_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/091/pages/091_page_3.png"
+  ],
+  "image_files": [],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/091/raw_text_data/091_raw_text.txt"
+  ],
+  "images_meta": [],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:33.376658+00:00",
+  "updated_at": "2025-11-05T07:21:18.772763+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

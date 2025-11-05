@@ -1,0 +1,42 @@
+{
+  "case_id": "081",
+  "case_title": "A 33 Year Old Refugee from Afghanistan With 2022 Clinical Cases in Tro",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/81---A-33-Year-Old-Refugee-from-Afghanistan-With-_2022_Clinical-Cases-in-Tro.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/081/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/081/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/081/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/081/pages/081_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/081/pages/081_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/081/pages/081_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/081/images/081_p2_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/081/images/081_p2_fig_2.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/081/raw_text_data/081_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/081/images/081_p2_fig_1.png",
+      "width": 372,
+      "height": 1123,
+      "figure_id": "081_p2_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/081/images/081_p2_fig_2.png",
+      "width": 1002,
+      "height": 811,
+      "figure_id": "081_p2_fig_2"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:30.598738+00:00",
+  "updated_at": "2025-11-05T07:21:18.161177+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

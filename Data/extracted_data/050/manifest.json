@@ -1,0 +1,49 @@
+{
+  "case_id": "050",
+  "case_title": "A 24 Year Old Man of Turkish Origin With Jau 2022 Clinical Cases in Tro",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/50---A-24-Year-Old-Man-of-Turkish-Origin-With-Jau_2022_Clinical-Cases-in-Tro.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/050/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/050/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/050/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/050/pages/050_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/050/pages/050_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/050/pages/050_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/050/images/050_p1_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/050/images/050_p1_fig_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/050/images/050_p2_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/050/raw_text_data/050_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/050/images/050_p1_fig_1.png",
+      "width": 877,
+      "height": 704,
+      "figure_id": "050_p1_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/050/images/050_p1_fig_2.png",
+      "width": 875,
+      "height": 703,
+      "figure_id": "050_p1_fig_2"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/050/images/050_p2_fig_1.png",
+      "width": 877,
+      "height": 706,
+      "figure_id": "050_p2_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:09.019184+00:00",
+  "updated_at": "2025-11-05T07:21:16.633697+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

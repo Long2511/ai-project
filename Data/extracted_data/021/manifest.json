@@ -1,0 +1,35 @@
+{
+  "case_id": "021",
+  "case_title": "A 35 Year Old American Man With Fatigue 2022 Clinical Cases in Tropica",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/21---A-35-Year-Old-American-Man-With-Fatigue-_2022_Clinical-Cases-in-Tropica.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/021/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/021/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/021/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/021/pages/021_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/021/pages/021_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/021/pages/021_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/021/images/021_p1_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/021/raw_text_data/021_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/021/images/021_p1_fig_1.png",
+      "width": 877,
+      "height": 568,
+      "figure_id": "021_p1_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:56:54.730638+00:00",
+  "updated_at": "2025-11-05T07:21:13.922973+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

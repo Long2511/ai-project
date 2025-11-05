@@ -1,0 +1,41 @@
+{
+  "case_id": "005",
+  "case_title": "A 4 Year Old Boy from Laos With a Lesion o 2022 Clinical Cases in Tropic",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/5---A-4-Year-Old-Boy-from-Laos-With-a-Lesion-o_2022_Clinical-Cases-in-Tropic.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/005/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/005/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/005/raw_text_data",
+  "n_pages": 2,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/005/pages/005_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/005/pages/005_page_2.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/005/images/005_p1_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/005/images/005_p2_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/005/raw_text_data/005_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/005/images/005_p1_fig_1.png",
+      "width": 751,
+      "height": 939,
+      "figure_id": "005_p1_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/005/images/005_p2_fig_1.png",
+      "width": 877,
+      "height": 657,
+      "figure_id": "005_p2_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:56:48.693731+00:00",
+  "updated_at": "2025-11-05T07:21:12.275395+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

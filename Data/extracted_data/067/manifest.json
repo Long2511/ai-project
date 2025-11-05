@@ -1,0 +1,42 @@
+{
+  "case_id": "067",
+  "case_title": "A 24 Year Old Woman from the Peruvian Andes 2022 Clinical Cases in Tro",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/67---A-24-Year-Old-Woman-from-the-Peruvian-Andes-_2022_Clinical-Cases-in-Tro.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/067/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/067/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/067/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/067/pages/067_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/067/pages/067_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/067/pages/067_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/067/images/067_p2_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/067/images/067_p2_fig_2.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/067/raw_text_data/067_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/067/images/067_p2_fig_1.png",
+      "width": 876,
+      "height": 654,
+      "figure_id": "067_p2_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/067/images/067_p2_fig_2.png",
+      "width": 534,
+      "height": 654,
+      "figure_id": "067_p2_fig_2"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:13.273949+00:00",
+  "updated_at": "2025-11-05T07:21:17.420697+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

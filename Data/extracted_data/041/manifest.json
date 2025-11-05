@@ -1,0 +1,42 @@
+{
+  "case_id": "041",
+  "case_title": "A 7 Year Old Girl from West Africa With Two Ski 2022 Clinical Cases in",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/41---A-7-Year-Old-Girl-from-West-Africa-With-Two-Ski_2022_Clinical-Cases-in-.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/041/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/041/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/041/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/041/pages/041_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/041/pages/041_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/041/pages/041_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/041/images/041_p1_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/041/images/041_p2_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/041/raw_text_data/041_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/041/images/041_p1_fig_1.png",
+      "width": 877,
+      "height": 343,
+      "figure_id": "041_p1_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/041/images/041_p2_fig_1.png",
+      "width": 1297,
+      "height": 383,
+      "figure_id": "041_p2_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:06.111175+00:00",
+  "updated_at": "2025-11-05T07:21:16.259003+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

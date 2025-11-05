@@ -1,0 +1,35 @@
+{
+  "case_id": "044",
+  "case_title": "A 7 Year Old Girl from South Sudan With 2022 Clinical Cases in Tropica",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/44---A-7-Year-Old-Girl-from-South-Sudan-With-_2022_Clinical-Cases-in-Tropica.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/044/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/044/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/044/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/044/pages/044_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/044/pages/044_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/044/pages/044_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/044/images/044_p2_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/044/raw_text_data/044_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/044/images/044_p2_fig_1.png",
+      "width": 876,
+      "height": 658,
+      "figure_id": "044_p2_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:07.068169+00:00",
+  "updated_at": "2025-11-05T07:21:16.356138+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

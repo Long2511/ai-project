@@ -1,0 +1,13 @@
+{
+  "patient_information": "A 21-year-old woman, 32 weeks pregnant with her first pregnancy. She is from The Gambia and is reported to be otherwise well with no significant past medical history.",
+  "chief_complaint": "A generalized, non-itchy rash for 5 days.",
+  "history_of_present_illness": "The patient presented with a 5-day history of a generalized, non-itchy rash. She reported being otherwise well and denied any other symptoms.",
+  "exposure_and_epidemiology": "The patient is from The Gambia. No other specific epidemiological risk factors such as travel, contacts, or other exposures were mentioned.",
+  "vitals": null,
+  "physical_exam": "Physical examination revealed a generalized, non-itchy macular rash which involved the palms of both hands. The mouth was normal, and there was no lymphadenopathy. The patient was not anaemic or jaundiced, and the remainder of the general examination was unremarkable.",
+  "labs_and_diagnostics": "No laboratory or diagnostic test results, such as serological tests for syphilis, were reported for this patient. The diagnosis was based on clinical findings.",
+  "differential_diagnosis": "The primary and most likely diagnosis presented is syphilis. The case discussion states that a generalized, non-itchy rash affecting the palms of the hands is considered 'syphilis until proven otherwise'. No other alternative diagnoses were discussed.",
+  "management_and_clinical_course": "The patient was treated with a single intramuscular (IM) dose of benzathine penicillin. Following this treatment, she made an uneventful recovery. She subsequently delivered a normal infant at term. The case notes that her infant should receive a course of treatment for congenital syphilis because maternal treatment was administered after 28 weeks' gestation.",
+  "final_diagnosis": "The final diagnosis is secondary syphilis. This was a clinical diagnosis based on the classic presentation of a generalized, non-itchy macular rash involving the palms in a pregnant woman. The diagnosis was supported by the patient's complete and uneventful recovery after receiving a single dose of benzathine penicillin, the standard treatment for syphilis, and the subsequent delivery of a normal infant at term.",
+  "disease_name_short": "Secondary syphilis"
+}

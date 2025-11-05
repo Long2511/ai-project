@@ -1,0 +1,42 @@
+{
+  "case_id": "079",
+  "case_title": "A 34 Year Old Male Immigrant from Peru With Ch 2022 Clinical Cases in T",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/79---A-34-Year-Old-Male-Immigrant-from-Peru-With-Ch_2022_Clinical-Cases-in-T.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/079/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/079/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/079/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/079/pages/079_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/079/pages/079_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/079/pages/079_page_3.png"
+  ],
+  "image_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/079/images/079_p1_fig_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/079/images/079_p2_fig_1.png"
+  ],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/079/raw_text_data/079_raw_text.txt"
+  ],
+  "images_meta": [
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/079/images/079_p1_fig_1.png",
+      "width": 1003,
+      "height": 752,
+      "figure_id": "079_p1_fig_1"
+    },
+    {
+      "file": "/content/drive/MyDrive/Project-AI/Data/extracted_data/079/images/079_p2_fig_1.png",
+      "width": 2002,
+      "height": 807,
+      "figure_id": "079_p2_fig_1"
+    }
+  ],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:30.199453+00:00",
+  "updated_at": "2025-11-05T07:21:18.042525+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}

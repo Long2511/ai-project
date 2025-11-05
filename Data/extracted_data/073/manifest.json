@@ -1,0 +1,26 @@
+{
+  "case_id": "073",
+  "case_title": "A 21 Year Old Male Migrant from Rural Mali 2022 Clinical Cases in Trop",
+  "source_pdf": "/content/drive/MyDrive/Project-AI/Data/pdf-data/73---A-21-Year-Old-Male-Migrant-from-Rural-Mali-_2022_Clinical-Cases-in-Trop.pdf",
+  "pages_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/073/pages",
+  "images_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/073/images",
+  "text_dir": "/content/drive/MyDrive/Project-AI/Data/extracted_data/073/raw_text_data",
+  "n_pages": 3,
+  "page_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/073/pages/073_page_1.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/073/pages/073_page_2.png",
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/073/pages/073_page_3.png"
+  ],
+  "image_files": [],
+  "text_files": [
+    "/content/drive/MyDrive/Project-AI/Data/extracted_data/073/raw_text_data/073_raw_text.txt"
+  ],
+  "images_meta": [],
+  "pdf_filesize": null,
+  "pdf_sha256": null,
+  "created_at": "2025-11-05T06:57:14.694120+00:00",
+  "updated_at": "2025-11-05T07:21:17.785327+00:00",
+  "extract_model": "qwen2-vl-7b-instruct",
+  "prompt_version": "tropid-json-v3-no-fewshot",
+  "errors": []
+}
