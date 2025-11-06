@@ -1,0 +1,23 @@
+A 6-year-old Malawian boy from the lakeshore of Lake Malawi presents with a painless, proptosed left eye that his family first noticed 3 weeks ago. It has worsened rapidly though his vision is still normal. He denies any pain.
+
+On examination he is afebrile, the right eye is normal, the left eye is proptosed but non-pulsating (Fig. 60.1). The pupil is round and clear and responds well to light. When he is asked to follow an object with his eyes the left eyeball hardly moves. He has no other swellings or abnormalities; and though he is thin, he is not malnourished.
+
+1. What are the three most likely diagnoses?
+2. What investigations would you do to confirm the diagnosis and direct your treatment plan?
+
+A young Malawian boy presents because of a progressive painless proptosis of his left eye for the past 3 weeks. His vision is not impaired. Apart from being proptosed, the eye on examination looks normal.
+The boy resides in an area endemic for malaria and schistosomiasis.
+
+This is a rapidly developing proptosis in a boy who lives in a malaria-endemic area; the most likely diagnosis is Burkitt's lymphoma.
+
+The second possibility is that it is another type of B cell lymphoma; and the third possibility is rhabdomyosarcoma.
+It is not a retinoblastoma, which starts in the eye and usually, but not always, presents at an earlier age. The process is painless, which excludes infection, and it is non-pulsating which makes the diagnosis of an arteriovenous malformation unlikely. Lachrymal gland tumours are more anteromedial than this mass.
+
+There are three questions to ask: what is it, where is it and is it safe to treat?
+What is it? A thorough history and physical examination will narrow the field. Is this a multifocal or localized lesion? Knowing the age will rule in some more likely diagnoses and rule out others. Are there any systemic or neurological signs and symptoms? A fine-needle aspirate (FNA) or biopsy will confirm the diagnosis.
+Where is it? Again, the examination will assist. An abdominal ultrasound scan will demonstrate any intra-abdominal masses and organ involvement. A cytospun sample of cerebrospinal fluid (CSF) should be examined for malignant cells; a full blood count (FBC) should also be done and bone marrow aspirate (BMA) examined. A chest radiograph is useful if intrathoracic pathology is suspected.
+
+Is it safe to treat? Anaemia (<7g/dL) and thrombocytopenia (<50 × 10⁹/L) should be corrected before giving chemotherapy. A blood film and stool and urine samples should be examined to exclude or treat malaria or any other invasive parasitic infections such as schistosomiasis or strongyloidiasis. The abdominal ultrasound scan will demonstrate any renal involvement and forewarn of possible complications when treatment is given. Baseline renal function and liver function tests are useful but not essential. HIV status will not affect the treatment; but if positive, infections and anaemia should be anticipated during chemotherapy.
+
+The boy was admitted and a full work-up was done as a matter of urgency (FNA, BMA, FBC, lumbar puncture (LP), HIV antibody test, stool and urine microscopy) and an abdominal scan was carried out. This was to enable treatment for presumed Burkitt's lymphoma to start as soon as possible to prevent further proptosis and irreversible damage to the eye. Delay could mean the eye losing its blood supply and 'melting', leaving the boy sightless in that eye.
+When the LP was done, intrathecal methotrexate and hydrocortisone were given as prophylaxis against CNS involvement. Oral allopurinol and hyperhydration were commenced; chemotherapy was given the next day. The eye looked less proptosed within 48 hours and was back to normal within a week. He had four courses of chemotherapy in the next 30 days (Fig. 60.2). A year later he was free of disease and pronounced cured.

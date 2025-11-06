@@ -1,0 +1,5 @@
+The patient has a suspected CNS infection and is seriously ill with confusion, cranial nerve palsy and a high fever. Immediate action should be taken, and treatment should not be delayed whilst further test results are being awaited. Pragmatic treatment should cover bacterial, cryptococcal and tuberculous meningitis.
+
+Gram-stain and bacterial culture should be done from the CSF. If available, an ultrasensitive PCR for M. tuberculosis (e.g. Xpert MTB/RIF Ultra) should be ordered. The sensitivity of Ziehl-Neelsen stain from the CSF is low in many settings. Cryptococcal antigen (CrAG) testing should be done from CSF and serum; additionally, India ink stain and fungal culture should be done for detection of Cryptococcus neoformans.
+
+An HIV-serology study is crucial because cryptococcal meningitis is associated with immunosuppression. Tuberculous meningitis is also more common in HIV-positive than in uninfected persons.

@@ -1,0 +1,3 @@
+Treatment of VL is complex: efficacy of the individual drugs varies geographically and depends on parasite susceptibility and the immune status of the patient. Parenteral drugs currently used are pentavalent antimonials, paromomycin and (liposomal) amphotericin B. The oral drug in use is miltefosine. Combinations of antileishmanial drugs seem to help shorten therapy courses, reduce side effects, improve treatment out­comes, delay resistance development and reduce treatment costs.
+
+In HIV patients, VL is even more difficult to treat because it does not respond well to the classic antileishmanial drugs and has a higher tendency to relapse.

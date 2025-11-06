@@ -1,0 +1,3 @@
+It is not possible to reliably distinguish spinal tuberculosis from brucellosis by x-ray or CT/MRI imaging; microbiolog- ical testing is required. In patients from highly endemic countries, serological testing and interferon gamma release assays (IGRA) are of limited diagnostic value, because they are not able to distinguish between active and latent/past infection. Definitive diagnosis requires isolation of the caus- ative agent from blood or tissue samples.
+
+Spinal tuberculosis is rarely accompanied by pulmonary involvement, and sputum samples often remain negative. In brucellosis, the sensitivity of blood culture is generally high in acute disease and decreases over time. Bone marrow cultures have a better yield at all stages of disease.

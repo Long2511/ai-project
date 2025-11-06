@@ -1,0 +1,8 @@
+The approach is influenced by (1) the high prevalence of HIV and subsequent immunosuppression; (2) the high burden of infection, including tuberculosis, bacterial meningitis and tropical diseases, e.g. cerebral malaria; and (3) the lack of resources, in particular, low availability of imaging studies and antiepileptic drugs (AEDs).
+
+CNS infections are a prominent cause of epileptic seizures in sub-Saharan Africa. They can cause seizures during the acute illness (acute symptomatic seizures), as well as weeks or months after the acute episode, if the infection leaves an epileptogenic 'scar' in the brain (remote symptomatic seizures).
+
+Three questions should be addressed when managing a patient with possible epileptic disorder:
+1. Is it actually an epileptic seizure/epilepsy?
+2. Is there an underlying cause for the seizure disorder which can be identified and treated?
+3. Does the patient require antiepileptic drug treatment and for how long should it be given?

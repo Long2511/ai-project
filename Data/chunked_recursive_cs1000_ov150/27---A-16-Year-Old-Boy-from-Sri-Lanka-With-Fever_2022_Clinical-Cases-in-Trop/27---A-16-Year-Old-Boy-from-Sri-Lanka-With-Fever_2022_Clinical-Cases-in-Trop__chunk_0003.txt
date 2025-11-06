@@ -1,0 +1,3 @@
+On admission, laboratory results showed a white blood cell count of 5.7 x 10^9/L, with 68% neutrophils and 31% lymphocytes, and a haemoglobin of 14.8 g/dL, both within their normal ranges. The platelet count was low at 96 x 10^9/L. Liver function tests were abnormal, showing elevated AST at 64 IU/L, ALT at 58 IU/L, and ALP at 246 IU/L. Bilirubin was high, with total serum bilirubin at 77 µmol/L and direct serum bilirubin at 54.7 µmol/L. Renal function was impaired, with blood urea nitrogen at 20.7 µmol/L and serum creatinine at 212.2 µmol/L. The C-reactive protein level was also elevated at 48 mg/L.
+
+The urine microscopy shows 20 red blood cells per high-power field, proteins '+' and granular casts '+'. A chest radiograph is normal. An ECG shows sinus tachycardia.

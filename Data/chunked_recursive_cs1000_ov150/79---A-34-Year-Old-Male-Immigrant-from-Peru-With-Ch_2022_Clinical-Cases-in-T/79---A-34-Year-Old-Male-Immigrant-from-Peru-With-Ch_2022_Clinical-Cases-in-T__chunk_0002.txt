@@ -1,0 +1,3 @@
+The patient's laboratory results on admission showed a white blood cell count of 11.7 x 10⁹/L, which is within the 4.5-11.0 reference range, and an elevated platelet count of 644 x 10⁹/L, above the 150-450 reference range. Haemoglobin was low at 12.4 g/dL, below the 13.5-17.5 reference. Total protein was low at 4.9 g/dL, compared to a reference of 6.0-8.0, and albumin was also low at 2.2 g/dL, compared to a reference of 3.5-5.0. The ESR was elevated at 26 mm/h, above the 1-14 reference, and the HIV test was negative.
+
+Abdominal CT scan and abdominal MRI are without any pathological findings. Oesophagogastroduodenoscopy appeared macroscopically normal. Histology of a duodenal biopsy is shown in Fig. 79.1.

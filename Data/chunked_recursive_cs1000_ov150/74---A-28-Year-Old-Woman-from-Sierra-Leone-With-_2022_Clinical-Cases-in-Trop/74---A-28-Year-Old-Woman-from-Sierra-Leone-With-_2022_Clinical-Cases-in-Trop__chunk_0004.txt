@@ -1,0 +1,5 @@
+Lassa fever is a serious disease. It has caused nosocomial outbreaks in which many medical staff have died. Therefore all procedures should be done with caution and the possibility of Lassa fever should always be discussed with the laboratory. All specimens should be transported in sealed plastic containers.
+
+Serological and PCR tests are available for the diagnosis of Lassa fever, and an antigen-based rapid point-of-care test has been licensed.
+
+PCR tests are the most sensitive but are not available in most African countries. Antigen tests demonstrate the presence of the disease but may not detect low levels of the virus, especially if taken in the first days of illness. IgM antibody tests can show a high rate of false positive tests and may be hard to interpret.

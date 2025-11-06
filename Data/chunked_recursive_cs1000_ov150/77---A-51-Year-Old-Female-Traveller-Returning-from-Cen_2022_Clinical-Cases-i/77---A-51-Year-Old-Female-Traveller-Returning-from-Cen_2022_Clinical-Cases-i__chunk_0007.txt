@@ -1,0 +1,5 @@
+The diagnosis is made by the detection of viral RNA, viral antigen or specific IgM, or by the documentation of a ≥ four-fold rise of specific IgG antibody titres in paired (acute and convalescent) serum samples. In resource-poor countries, as well as in daily clinical practice in travel medicine, rapid diagnostic tests (RDTs) for dengue (testing for NS1-Ag, IgM, and IgG) and chikungunya (testing for IgM) are widely available and often the primarily performed diagnostic tests. RDTs to diagnose Zika virus infections are under development.
+
+In our case, RDTs for dengue and chikungunya were negative.
+
+Because the performed RDTs for dengue and chikungunya both showed a negative result, the patient's blood samples were sent to a reference laboratory for arboviruses and our clinical suspicion of a Zika virus infection was confirmed by PCR as well as seroconversion (Table 77.2). A rise in anti-Dengue IgG was interpreted as cross-reactivity which is common among viruses of the same family.

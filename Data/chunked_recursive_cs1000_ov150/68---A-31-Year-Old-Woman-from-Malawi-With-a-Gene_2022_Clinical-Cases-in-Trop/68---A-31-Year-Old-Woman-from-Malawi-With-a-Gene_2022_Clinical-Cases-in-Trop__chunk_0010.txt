@@ -1,0 +1,5 @@
+All potentially causative drugs need to be withdrawn immediately. Treatment is supportive and there is no clear benefit of any other disease-modifying interventions. Systemic corticosteroids do not seem helpful and the use of IV immunoglobulins is disputed. However, data from large controlled clinical trials are lacking.
+
+According to literature from the developed world, the case fatality rate of patients with SJS is up to 5%; in TEN it is 30% on average. Primary causes of death are infection and multi-organ failure.
+
+A severity-of-illness score (SCORTEN) has been published to predict the lethality of patients with SJS/TEN. Its use in resource-constrained setting is limited, because it requires laboratory results (urea, bicarbonate, glucose) that may be difficult to obtain.

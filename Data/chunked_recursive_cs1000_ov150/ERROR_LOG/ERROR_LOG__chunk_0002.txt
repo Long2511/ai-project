@@ -1,0 +1,7 @@
+--------------------
+Không thể xử lý tệp: 56---A-21-Year-Old-Pregnant-Woman-from-The-Ga_2022_Clinical-Cases-in-Tropica.pdf
+Lỗi: 429 Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.
+--------------------
+Không thể xử lý tệp: 87---A-27-Year-Old-Male-Traveller-Returning-from-the_2022_Clinical-Cases-in-.pdf
+Lỗi: 429 Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.
+--------------------

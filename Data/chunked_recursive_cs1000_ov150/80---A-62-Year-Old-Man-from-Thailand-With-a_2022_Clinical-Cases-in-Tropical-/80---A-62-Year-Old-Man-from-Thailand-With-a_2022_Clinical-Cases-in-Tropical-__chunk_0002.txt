@@ -1,0 +1,6 @@
+His laboratory results are shown. The patient's laboratory results for AST, ALT, ALP, total bilirubin, and direct bilirubin were all within their respective normal reference ranges, with values of 26 U/L, 32 U/L, 84 U/L, 0.6 mg/dL, and 0.2 mg/dL. Tests for HBsAg, HBeAg, and Anti-HCV were negative. The Anti-HBs level was elevated at 24.13 IU/L, compared to a normal range of 0.0-10.0, and the Anti-HBc test was positive. The AFP tumor marker was within the normal range at 2.8 U/mL, but the CEA level was elevated at 18.96 µg/L against a normal range of 0.0-2.5, and the CA19-9 level was markedly high at 342.80 U/mL, with a normal range of 0.0-37.0.
+
+Abdominal MRI reveals a single solid liver mass in the right liver lobe (segments VI/VII).
+
+1. What is your differential diagnosis?
+2. What additional information should you obtain from the patient?

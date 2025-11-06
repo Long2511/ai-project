@@ -1,0 +1,7 @@
+A simplified scheme for assessing and classifying trachoma based on clinical signs has been developed. The stages are:
+Trachomatous inflammation with follicles (TF)
+Intense trachomatous inflammation (TI)
+Trachomatous conjunctival scarring (TS)
+Trachomatous trichiasis (TT) and
+Corneal opacity because of trachoma (CO).
+TF and TI are prevalent in young children and are manifestations of moderate and severe active infection, while TT is common in adults.

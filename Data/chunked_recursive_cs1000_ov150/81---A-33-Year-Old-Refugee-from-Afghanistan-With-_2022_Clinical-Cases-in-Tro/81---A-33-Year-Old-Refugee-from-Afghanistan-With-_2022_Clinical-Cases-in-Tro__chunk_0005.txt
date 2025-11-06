@@ -1,0 +1,3 @@
+CT-guided percutaneous vertebral biopsy and subsequent tissue culture and molecular analysis is the diagnostic gold standard in infectious spondylitis. Histopathology should be performed simultaneously to rule out malignancy and to confirm granulomatous inflammation, which is a feature of both tuberculosis (caseous) and brucellosis (non-caseous).
+
+It is important to notify laboratory staff that brucellosis is suspected: Brucella cultures are highly infectious and require biosafety level 3 handling; they may also have a prolonged time to positivity (although this is less of an issue with mod- ern automated blood culture systems).

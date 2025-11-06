@@ -1,0 +1,3 @@
+HTLV-1 is a neglected retrovirus, which is primarily transmitted by breastfeeding, but also by sexual contact and blood products. It causes a Th1-predominant T-cell proliferation and a marked shift towards type 1 cytokines. This immunological imbalance affects the Th2-mediated control of S. stercoralis, with the risk of accelerated auto-infection leading to increased loads of Strongyloides adults and larvae.
+
+In HIV/AIDS, T-cell response is shifted towards Th2 cytokines; therefore HIV infection is not usually associated with strongyloides hyperinfection syndrome, even though some cases have been described, e.g. in the context of immune reconstitution inflammatory syndrome (IRIS).

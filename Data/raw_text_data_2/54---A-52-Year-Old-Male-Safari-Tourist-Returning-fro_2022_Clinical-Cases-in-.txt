@@ -1,0 +1,41 @@
+A 52-year-old man presents to a tropical medicine clinic in Germany with a fever for the past 2 days. He is also complaining of night sweats and a frontal headache. There are no joint pains and he has not noticed a rash.
+
+Ten days ago, he returned from a 2-week holiday trip to South Africa. He visited Cape Town and travelled the Garden Route and through KwaZulu-Natal. He went on safari in Kruger Park and several other game reserves. He did not take any antimalarial chemoprophylaxis. His past medical history is unremarkable.
+
+Fair general condition. Tympanic temperature 37.5°C (99.5°F) (after taking 1g of paracetamol), pulse 80bpm, blood pressure 130/70 mmHg.
+
+No jaundice; neck supple. Enlarged lymph nodes in the left groin. You notice a small sticking plaster on the left upper thigh of the patient. He tells you that he has noted a skin lesion that he meant to show to a friend, who happens to be a surgeon, for advice. You ask the patient to take off the plaster.
+
+A 52-year-old German man presents with a short history of fever after a trip to South Africa. On examination there is a small necrotic skin lesion on his upper thigh with adjoining lymphangiitis and lymphadenitis.
+
+The skin lesion is a typical eschar. Given the travel history, the clinical diagnosis is most likely African tick-bite fever. This rickettsial disease is a common cause of fever in safari tourists returning from Southern Africa.
+
+The patient has travelled to KwaZulu-Natal, which is a malaria-endemic region, and he has not taken any antimalarial chemoprophylaxis. In any febrile traveller returning from a malaria-endemic region, malaria has to be ruled out, even if other diagnoses seem obvious.
+
+The diagnosis of African tick-bite fever is primarily clinical.
+
+A PCR from the eschar scab may confirm the diagnosis. For confirmative serology, paired samples would have to be taken and may be more of academic value in this case. African tick-bite fever is usually a mild, self-limiting disease. Doxycycline can be given to speed up recovery.
+
+The malaria rapid diagnostic test, as well as thick and thin film for malaria, came back negative. The patient was prescribed doxycycline at 100 mg bid PO for 1 week. The fever settled within the next few days and the lymphadenopathy subsided. The eschar eventually healed after about 2 weeks.
+
+African tick-bite fever (ATBF) is the second most common specific cause of fever after malaria in travellers returning from sub-Saharan Africa. It belongs to the spotted fever group of rickettsioses, a large group of infections, which are mainly transmitted by ticks. Rickettsial infections are grouped by their transmission vectors. The tick-borne infections are known as spotted fevers and fall under the Spotted Fever (SF) Group. These are caused by various pathogens such as R. africae for African tick bite fever and R. rickettsii for Rocky Mountain SF, are transmitted by ticks, and have reservoirs in mammals, rodents, and marsupials. The mite-borne infections, such as scrub typhus, belong to the Scrub typhus Group. They are caused by the pathogen Orientia tsutsugamushi, transmitted by Trombiculid mites, and their reservoirs are rodents and the mites themselves via transovarian transmission. The louse-borne infection is epidemic typhus, which is part of the Typhus Group. It is caused by R. prowazekii, transmitted by the human body louse, with humans being the reservoir. Finally, the flea-borne infections, including murine typhus, are also in the Typhus Group. They are caused by R. typhi, transmitted by the rat flea, and their reservoir is rodents.
+
+ATBF is caused by Rickettsia africae and transmitted by cattle ticks of the genus Amblyomma, which act both as reservoir and as vector.
+
+Other reservoir hosts are wild and domestic animals, such as cattle, buffalos, rhinos, and hippos. ATBF is endemic in most of rural sub-Saharan Africa and in the West Indies.
+
+ATBF commonly occurs in game hunters, safari tourists, cross-country runners and campers in veld areas or grasslands. ATBF is one of the most common causes of febrile presentations in international travellers to sub-Saharan Africa, and it is the most common rickettsial infection encountered in travel medicine. In contrast, fairly little is known about incidence and risk factors of ATBF in local indigenous populations.
+
+The incubation period following the bite of an infected tick is about 6 to 10 days. Patients develop fever and flu-like symptoms such as myalgias and headache. There may be a characteristic inoculation eschar at the site of the bite with local lymphadenopathy. It may however take some time for the pathognomonic eschar to demarcate and early lesions may be non-specific erythematous papules, resembling mosquito bites. Multiple inoculation eschars are not uncommon, because Amblyomma ticks are known to aggressively attack their hosts.
+
+Despite the fact that African tick-bite fever belongs to the group of 'spotted fevers', a rash is seen in less than half of cases. ATBF is usually a mild illness and no deaths have been reported so far.
+
+However, neurological involvement has been described in ATBF, including encephalopathy and peripheral neuropathy. Also, retinitis and panuveitis have been described.
+
+Diagnosis of ATBF is usually made clinically, but in febrile individuals living in or returning from tropical areas malaria should still be ruled out.
+
+PCR from the eschar scab or even a skin swab is a non-invasive and sensitive way to confirm the diagnosis of acute infection. Serodiagnosis remains the gold standard for spotted-fever group rickettsial infections using seroconversion and fourfold antibody titre increases. Its use in clinical decision-making is however limited because of poor sensitivity during acute infection (antibodies are often not detectable within the first 10-14 days), the indirect nature of diagnostic evidence and cross-reaction with other Rickettsiae. The immunofluorescence assay (IFA) is currently considered the gold standard serological test.
+
+Treatment may not be necessary in mild cases. Doxycycline 100 mg bid PO may be given for 3 to 7 days. In pregnant women and in children younger than 8 years of age, macrolides are an alternative.
+
+Preventive measures include appropriate clothing, which should be impregnated with pyrethroids, and topical insect repellents applied to the skin. Whether tetracyclines can be used as chemoprophylaxis against ATBF is still a matter of dispute.

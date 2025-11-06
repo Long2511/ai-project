@@ -1,0 +1,37 @@
+A 24-year-old Dutch yoga instructor presents to an emergency room in Berlin, Germany, with one episode of strange sensations in the right side of her body. This started in the right side of her face, marched to her right arm and then continued to involve her right leg. She describes the feeling as 'pins and needles' lasting for about 2 minutes. She had a similar episode several months ago. At that time, she did not consult a doctor.
+
+Four years before this presentation, after finishing school, she had left her home town in The Netherlands to go backpacking for 2 years. She travelled extensively through South America (Ecuador, Peru, Argentina) and South-east Asia (Thailand, Laos, Cambodia), staying in hostels or private accommodations. She describes herself as an 'eco-traveller', visiting the countryside and staying with local people. She has been a strict vegan for the past 8 years. She would eat food from local vendors but never any animal products. Her main diet during her travelling consisted of fruits, vegetables, nuts and rice.
+
+On examination she looks well and is afebrile. Her neurological examination is completely unremarkable. The rest of her physical examination is also normal.
+
+Her routine blood investigations, including differential blood count and C-reactive protein are completely normal. Her CSF examination is unremarkable.
+
+The MRI of her brain with gadolinium enhancement shows multiple cortical and subcortical cystic lesions in both hemispheres.
+
+A young Dutch woman presents with paraesthesias that spread over the right side of her body, lasting for about 2 minutes. Four years previously she went on an extensive backpacking trip around the world, visiting various places in South America and Asia. She lives on a vegan diet. Her physical examination including her neurological status are completely normal. The basic blood and CSF results are normal and do not reveal any signs of inflammation. The MRI of the brain shows multiple cystic lesions in both hemispheres.
+
+The patient presents with a focal epileptic seizure. Her paraesthesias represent a so-called Jacksonian 'sensory march'. Neuroimaging reveals multiple cortical and subcortical lesions. The cortical lesions in the left hemisphere are likely to be responsible for the patient's epileptic disorder on the contralateral side of her body.
+
+The lesions are cystic, some of them show gadolinium enhancement of the wall and surrounding oedema. Given the presentation (healthy-looking patient, no immunosuppression, no fever, one similar episode a while ago with no progression of symptoms) and her travel history to South America and South-east Asia the most likely diagnosis is neurocysticercosis with multiple cysts in the vesicular and colloidal stage. An enzyme-linked immunoelectrotransfer blot (EITB) for the detection of anticysticercal antibodies in serum and CSF should be done to confirm the diagnosis.
+
+The patient should receive antiparasitic treatment, corticosteroids and antiepileptic drugs.
+
+The EITB came back positive for serum and CSF and a diagnosis of neurocysticercosis was made.
+
+The patient was treated with albendazole 400 mg bd pig faeces which contain for 10 days and started on antiepileptic drugs. She declined treatment with steroids. She did not attend her 3-month follow-up but returned as an outpatient 1 year later. She had remained seizure-free for 1 year. MRI of the brain showed regression of all cysts. A CT scan on 2-year follow-up showed two calcifications. Her antiepileptic treatment was stopped after a seizure-free period of 3 years.
+
+The stages of a cysticercal cyst involve distinct neuroimaging and biological characteristics with corresponding treatment recommendations. In the vesicular stage, neuroimaging shows a lesion that is isointense or isodense to CSF without contrast enhancement; biologically, this represents a viable, non-immunogenic cyst that can persist for years without symptoms. For one to two cysts in this stage, the recommended treatment is albendazole plus steroids for 10 to 14 days. In the colloidal stage, imaging reveals a cyst with an enhanced wall and surrounding oedema. This indicates a viable but degenerating and immunogenic cyst. If more than two cysts are present, the treatment is albendazole plus praziquantel and steroids for 10 to 14 days. However, for both the vesicular and colloidal stages, antihelminthic treatment is contraindicated if diffuse cerebral oedema is present. The granulo-nodular stage, characterized by a thickened, retracted cyst without oedema on imaging, represents a degenerated cyst, and no anthelmintic treatment is recommended. The final calcified stage is the involuted stage, appearing as a calcification on imaging.
+
+Neurocysticercosis is a CNS infestation with the larval form of Taenia solium (the pork tapeworm). It is widely prevalent in Africa, Asia and Latin America and is considered by the WHO to be the most common preventable cause of epilepsy in the developing world.
+
+Humans acquire neurocysticercosis by eating food, e.g. salad or vegetables, contaminated with T. solium eggs. This explains why even individuals who do not eat pork meat for religious or ideological reasons can get neurocysticercosis, as seen in this case. (Consuming infested pork meat leads to intestinal infection with adult pork tapeworm).
+
+Consumed ova release oncospheres that penetrate the intestinal wall to spread haematogenously throughout the host's body. In the CNS they become encysted affecting either the CNS parenchyma or, less commonly, the subarachnoid space.
+
+Symptoms and signs depend on the location of cysts. The most common clinical presentation is focal epileptic seizures. Cysts in the subarachnoid space can cause hydrocephalus, producing headache and altered mental state. Diagnosis is based on neuroimaging, serology and epidemiological evidence.
+
+Only vesicular and colloidal cysts are amenable to anthelmintic treatment. Albendazole or the combination of albendazole and praziquantel can decrease the number of active lesions and reduce long-term seizure frequency. Adjunctive corticosteroid therapy before antiparasitic drugs is recommended for all patients treated with anthelmintic drugs.
+
+In patients with untreated hydrocephalus or diffuse cerebral oedema, management of elevated intracranial pressure alone without antiparasitic treatment is recommended. The management of patients with diffuse cerebral oedema should be antiinflammatory therapy with corticosteroids; hydrocephalus usually requires a surgical approach.
+
+The duration of antiepileptic therapy depends on the course of the disease. Radiological follow-ups at 6-month intervals are recommended. If the patient has remained seizure-free for 24 consecutive months with cysts resolved on neuroimaging, antiepileptic drugs may be tapered off and then stopped.

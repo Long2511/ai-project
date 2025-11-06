@@ -1,0 +1,3 @@
+The diagnostic work-up of FBLs in a resource-limited setting primarily depends on the availability of investigations. It often remains mainly clinical, guided by epidemiological evidence and by the degree of immunosuppression in HIV-positive patients. Clinicians may often find themselves restricted to the pragmatic approach of 'treating the treatable'.
+
+If the patient is HIV-positive, a CD4 count should be performed. Some FBLs are very unlikely if the CD4 count is above 200/μL, e.g. cryptococcoma or cerebral toxoplasmosis. Cerebral TB can occur at any CD4 count. PML mostly manifests in patients with advanced immunosuppression but has also been described in patients with higher CD4 counts.
