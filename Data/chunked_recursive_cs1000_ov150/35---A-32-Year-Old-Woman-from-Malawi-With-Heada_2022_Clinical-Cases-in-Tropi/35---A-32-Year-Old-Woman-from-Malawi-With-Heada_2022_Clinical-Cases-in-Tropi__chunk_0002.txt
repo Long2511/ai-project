@@ -1,0 +1,3 @@
+The patient's laboratory results on admission showed a White Blood Cell count of 3.7 x 10^9/L, which is below the reference range of 4-10, and a haemoglobin level of 10.2 g/dL, which is also below the reference range of 12-16. Her Mean Corpuscular Volume was 92 fL, within the normal range of 80-98, while her platelet count was low at 91 x 10^9/L, compared to the reference of 150-350. The fasting blood glucose was normal at 5.43 mmol/L, within the 5.0-6.7 range, and the Malaria Rapid Diagnostic Test was negative.
+
+A Malawian woman presents with a chronic headache and 'blurred vision'. She is wasted and has a unilateral abducens nerve palsy. She is afebrile and has no neck stiffness. The full blood count shows normocytic anaemia and thrombocytopenia.

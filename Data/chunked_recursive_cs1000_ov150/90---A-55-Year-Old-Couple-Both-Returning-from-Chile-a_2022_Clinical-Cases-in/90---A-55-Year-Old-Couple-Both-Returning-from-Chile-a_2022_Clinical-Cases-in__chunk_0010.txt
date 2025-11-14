@@ -1,0 +1,5 @@
+Diagnosis is confirmed by RT-PCR from whole blood or by serology, either with presence of specific IgM antibodies or at least a 4-fold increase in IgG titres in paired samples.
+
+There is no specific treatment or vaccine against ANDV. The use of ribavirin and corticosteroids in ANDV infection still remains to be elucidated. Organ supportive therapy is therefore the mainstay of treatment. Patients should be transferred to a tertiary intensive care unit immediately upon suspicion of ANDV infection, because ECMO support might be required. Case fatality rate in patients with HCPS attributable to ANDV is 20% to 40%.
+
+ANDV is the only hantavirus for which person-to-person transmission has been described, though this occurs very rarely.

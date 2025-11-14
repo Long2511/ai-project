@@ -1,0 +1,13 @@
+{
+  "patient_information": "A 29-year-old man from The Gambia who was previously well.",
+  "chief_complaint": "Painful sores on his private parts for 7 days.",
+  "history_of_present_illness": "The patient developed painful sores on his genitals over the course of one week. The pain is considerable, and he is only able to walk with difficulty because of the sores.",
+  "exposure_and_epidemiology": "The patient is in The Gambia and reports having had unprotected sex with a commercial sex worker two weeks ago.",
+  "vitals": "The patient is afebrile.",
+  "physical_exam": "The patient is well nourished and the general examination is unremarkable. The key finding is the presence of numerous painful ulcers on his penis, scrotum, and inner thigh. The ulcers are described as tender, soft, and they bleed on contact. There is no inguinal lymphadenopathy.",
+  "labs_and_diagnostics": "The patient tested HIV-negative. His syphilis serology was positive (RPR and TPHA). A swab taken from an ulcer for culture of Haemophilus ducreyi was positive, with H. ducreyi growing after three days' incubation at 33°C.",
+  "differential_diagnosis": "The primary differential diagnoses for genital ulceration were Herpes simplex, syphilis, and chancroid. Herpes ulcers are typically self-limiting over a few days in immunocompetent hosts. Syphilis ulcers are usually painless and single. Chancroid ulcers are often multiple and painful. Because the clinical diagnosis is considered unreliable, syndromic management covering both syphilis and chancroid was recommended.",
+  "management_and_clinical_course": "The patient was treated with a single intramuscular dose of benzathine penicillin (2.4 million units) for syphilis, and a seven-day course of erythromycin 500 mg four times daily for chancroid. He was strongly encouraged to have his sexual partners seek assessment and treatment. At a follow-up visit after 7 days, the patient's pain had resolved and all the ulcers were healing.",
+  "final_diagnosis": "The final diagnosis is a mixed infection causing genital ulcer disease, specifically chancroid and syphilis. Chancroid was confirmed by the culture of Haemophilus ducreyi from an ulcer, which is consistent with the clinical picture of multiple painful ulcers. Concomitant primary syphilis was confirmed by positive RPR and TPHA serology, highlighting that mixed infections are common in patients with sexually transmitted diseases.",
+  "disease_name_short": "Mixed Genital Ulcer Disease (Chancroid and Syphilis)"
+}

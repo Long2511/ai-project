@@ -1,0 +1,5 @@
+Diagnosis of ATBF is usually made clinically, but in febrile individuals living in or returning from tropical areas malaria should still be ruled out.
+
+PCR from the eschar scab or even a skin swab is a non-invasive and sensitive way to confirm the diagnosis of acute infection. Serodiagnosis remains the gold standard for spotted-fever group rickettsial infections using seroconversion and fourfold antibody titre increases. Its use in clinical decision-making is however limited because of poor sensitivity during acute infection (antibodies are often not detectable within the first 10-14 days), the indirect nature of diagnostic evidence and cross-reaction with other Rickettsiae. The immunofluorescence assay (IFA) is currently considered the gold standard serological test.
+
+Treatment may not be necessary in mild cases. Doxycycline 100 mg bid PO may be given for 3 to 7 days. In pregnant women and in children younger than 8 years of age, macrolides are an alternative.

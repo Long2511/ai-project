@@ -1,0 +1,13 @@
+{
+  "patient_information": "A 14-year-old girl from the Solomon Islands. No other comorbidities or relevant medical history were reported.",
+  "chief_complaint": "A painless, non-healing large ulcer on the left leg that began one month earlier.",
+  "history_of_present_illness": "The patient presented with a painless, non-healing large ulcer on her left leg which had been present for one month. The lesion was chronic and had not resolved on its own.",
+  "exposure_and_epidemiology": "The patient lives in the Solomon Islands, a region in the West Pacific where yaws is a common and highly endemic disease. Yaws is associated with overcrowding and poor hygiene and is spread through skin-to-skin contact.",
+  "vitals": null,
+  "physical_exam": "On examination, there was a large lesion approximately 3 cm in diameter on the left lower leg, covered by a layer of crust. A smaller, similar satellite lesion was noted further down the same leg. There was no regional lymphadenopathy or evidence of any other skin or bone lesions.",
+  "labs_and_diagnostics": "A rapid plasma reagin (RPR) test was positive at a titre of 1:64. Twelve months after treatment, a repeat RPR test was positive at a titre of 1:8.",
+  "differential_diagnosis": "The differential diagnoses considered included other bacterial causes of skin ulcers that can clinically appear similar to early yaws. These included infections with Haemophilus ducreyi, pyoderma, tropical ulcer, cutaneous diphtheria, and Aeromonas hydrophila infection.",
+  "management_and_clinical_course": "The patient was treated with a single intramuscular (IM) dose of benzathine benzylpenicillin, and the skin lesion resolved over the next 10 days. She was seen again 12 months later with a similar ulcer on her right leg. A repeat RPR test showed a titre of 1:8. This greater than four-fold fall in the RPR titre was considered indicative of cure from the initial infection, and the new ulcer was interpreted to have a different etiology.",
+  "final_diagnosis": "The final diagnosis is yaws, an infection caused by Treponema pallidum subspecies pertenue. The diagnosis was established based on the characteristic clinical findings of a chronic, crusted ulcer with a satellite lesion in a young person from an endemic area, and confirmed by a high-titre positive rapid plasma reagin (RPR) test (1:64). Successful treatment and cure were demonstrated by the lesion's resolution and a subsequent four-fold drop in the RPR titre.",
+  "disease_name_short": "Yaws"
+}

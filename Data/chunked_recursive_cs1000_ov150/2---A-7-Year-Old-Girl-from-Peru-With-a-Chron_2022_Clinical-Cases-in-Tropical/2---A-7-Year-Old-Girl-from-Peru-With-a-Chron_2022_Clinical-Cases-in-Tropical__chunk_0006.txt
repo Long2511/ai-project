@@ -1,0 +1,5 @@
+The simplest approach is to scrape with a lancet under the edges of the lesion, and use the obtained material for a smear examination with Giemsa staining, looking for Leishmania amastigotes. The sensitivity of this technique is about 70%, decreasing as the duration of the lesion increases. The specificity is 100%.
+
+Culture can be done on samples obtained by fine-needle aspiration or biopsy taken from the edge of a lesion. In reference centres, polymerase chain reaction (PCR) is used to confirm the presence of Leishmania and to identify the species.
+
+The Montenegro or leishmanin skin test detects delayed immune response against Leishmania antigens and is sometimes used as a diagnostic aid. It can be negative in early stages of the disease and cannot distinguish current from past infection.

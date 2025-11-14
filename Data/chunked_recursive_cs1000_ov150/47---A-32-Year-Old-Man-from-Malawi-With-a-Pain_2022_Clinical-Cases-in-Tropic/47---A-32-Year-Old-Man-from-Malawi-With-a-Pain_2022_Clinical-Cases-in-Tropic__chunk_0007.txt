@@ -1,0 +1,5 @@
+HIV-associated immune reconstitution inflammatory syndrome (IRIS) is a deterioration of the clinical situation caused by increased inflammation because of improving immune competence resulting from successful ART.
+
+The clinical manifestations are wide-ranging and depend on the underlying condition, which is mostly an opportunistic infection, but can also be a tumour, an autoimmune disease or another condition. In sub-Saharan Africa, tuberculosis and cryptococcal meningitis are the two most important IRIS presentations. IRIS is very common, occurring in between 10 and 25% of patients who start ART. There are no validated tests for IRIS. The diagnosis is therefore clinical.
+
+A widely accepted definition does not exist, although standardization has been attempted. Definitions include measures of successful ART, exclusion of other causes of the clinical deterioration, such as toxicity, and a relationship in time between the symptoms and the start of ART.

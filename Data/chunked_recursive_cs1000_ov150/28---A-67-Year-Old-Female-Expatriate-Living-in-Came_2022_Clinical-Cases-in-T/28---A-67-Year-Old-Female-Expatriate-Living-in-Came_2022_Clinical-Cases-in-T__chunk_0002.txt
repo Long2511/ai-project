@@ -1,0 +1,7 @@
+Full blood count results are shown in Table 28.1.
+
+The patient's full blood count showed a white blood cell count of 6.20 x 10^9/L, within the reference range of 4-10. Haemoglobin was 13.8 g/dL, within the 12-15 g/dL range. The platelet count was 155 x 10^9/L, within the reference of 150-450. In the differential count, neutrophils were 45%, lymphocytes were 36%, band neutrophils were 1%, monocytes were 4%, and basophils were 0%, all within their respective reference ranges of 20-50%, 20-40%, 0-5%, 0-10%, and 0-2%. Notably, eosinophils were elevated at 14%, which is above the 0-6% reference range, and the absolute eosinophil count was 0.868 x 10^9/L, exceeding the reference value of less than 0.45.
+
+The chest radiograph does not show any abnormalities.
+
+A 67-year-old expatriate living in Cameroon for 4 years presents with eosinophilia and reports transient subcutaneous swellings. Additionally, the patient suffers from cardiac arrhythmia.

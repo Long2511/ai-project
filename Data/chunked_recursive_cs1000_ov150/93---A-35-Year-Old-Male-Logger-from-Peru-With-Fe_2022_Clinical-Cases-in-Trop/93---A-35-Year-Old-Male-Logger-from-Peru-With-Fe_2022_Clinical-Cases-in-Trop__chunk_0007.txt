@@ -1,0 +1,5 @@
+If available, PCR of urine and blood should be done to look for leptospirosis; microscopic agglutination test is an alternative if PCR is not available.
+
+Laboratory tests should include IgM antibodies for the different viral hepatitis viruses (except for acute hepatitis D because of delayed antibody production).
+
+IgM antibodies against the yellow fever virus persist for several weeks and can be detected by various methods, e.g. IgM capture ELISA. Detection of viral RNA by RT-PCR could also be attempted.

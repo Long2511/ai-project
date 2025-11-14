@@ -1,0 +1,13 @@
+{
+  "patient_information": "A 52-year-old man with an unremarkable past medical history.",
+  "chief_complaint": "Fever for two days, accompanied by night sweats and a frontal headache.",
+  "history_of_present_illness": "A 52-year-old man presented to a tropical medicine clinic with a two-day history of fever, night sweats, and frontal headache. He denied any joint pains or rash. The symptoms developed ten days after returning from a trip to South Africa.",
+  "exposure_and_epidemiology": "The patient had recently returned from a 2-week holiday trip to South Africa, which concluded 10 days prior to presentation. His travel included visiting Cape Town, the Garden Route, KwaZulu-Natal, and going on safari in Kruger Park and other game reserves. He did not take any antimalarial chemoprophylaxis.",
+  "vitals": "On examination, after having taken 1g of paracetamol, his tympanic temperature was 37.5°C (99.5°F). His pulse was 80 bpm and his blood pressure was 130/70 mmHg.",
+  "physical_exam": "The patient was in fair general condition, with no jaundice and a supple neck. There were enlarged lymph nodes in the left groin. A small necrotic skin lesion (eschar), about 0.7 cm in diameter, was noted on his left upper thigh, with surrounding inflammation, lymphangiitis, and adjoining lymphadenitis.",
+  "labs_and_diagnostics": "A malaria rapid diagnostic test, as well as thick and thin blood films for malaria, were both negative. The text notes that PCR from an eschar scab can confirm the diagnosis, but does not state if this was performed.",
+  "differential_diagnosis": "The primary diagnosis considered was African tick-bite fever, based on the typical eschar and recent travel history to an endemic safari region. Malaria was a critical differential diagnosis that needed to be ruled out, as the patient was a febrile traveller returning from a malaria-endemic region (KwaZulu-Natal) without having taken chemoprophylaxis.",
+  "management_and_clinical_course": "The patient was prescribed doxycycline 100 mg twice daily by mouth for one week. Following treatment, the fever settled within a few days and the lymphadenopathy subsided. The eschar eventually healed after approximately two weeks.",
+  "final_diagnosis": "The final diagnosis was African tick-bite fever, a rickettsial disease caused by Rickettsia africae. The diagnosis was made clinically, based on the pathognomonic finding of an inoculation eschar with regional lymphadenopathy, fever, and a history of safari travel in an endemic region of Southern Africa. Malaria, a key differential diagnosis, was excluded by negative rapid diagnostic tests and blood smears.",
+  "disease_name_short": "African tick-bite fever"
+}
