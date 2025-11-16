@@ -1,0 +1,6 @@
+{
+  "test_id": "5",
+  "query_for_retriever": "A 60-year-old man from Ohio with a history of rheumatoid arthritis presents with severe dyspnea and cough. His medical history is significant for treatment with methotrexate, methylprednisolone, and infliximab, which was started ten weeks prior to presentation. His symptoms rapidly progressed to respiratory failure requiring mechanical ventilation. A chest radiograph revealed bilateral nodular infiltrates. Bronchoalveolar lavage fluid contained yeast forms, and a urine antigen test was markedly positive. The patient has normal blood cell counts.",
+  "ground_truth_answer": "The diagnosis is histoplasmosis, caused by the fungus Histoplasma capsulatum. This is supported by the patient's severe respiratory failure, bilateral nodular infiltrates on chest imaging, and residence in an endemic area (Ohio). His immunosuppressive therapy, particularly the TNF-alpha inhibitor infliximab, is a major risk factor for severe disease. The diagnosis was confirmed by identifying yeast forms in bronchoalveolar lavage fluid, a positive Histoplasma urine antigen test, and subsequent confirmation by culture and high complement fixation titers.",
+  "ground_truth_disease": "Histoplasmosis"
+}

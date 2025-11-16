@@ -1,0 +1,6 @@
+{
+  "test_id": "10",
+  "query_for_retriever": "A 63-year-old man living in a hostel for the homeless presents with a one-month history of weakness, weight loss, night fevers, and breathlessness. He recently began coughing up blood, which prompted him to seek care at a walk-in clinic. On examination, he had a low-grade fever and bronchial breathing was noted on chest auscultation. A chest X-ray was performed, which demonstrated apical shadowing and a large cavitation. A sputum sample was collected for analysis.",
+  "ground_truth_answer": "The diagnosis is pulmonary tuberculosis (TB), caused by Mycobacterium tuberculosis. The patient's social history of homelessness is a major risk factor for reactivation TB. His clinical presentation of constitutional symptoms (fever, weight loss) and respiratory symptoms (hemoptysis, breathlessness) is highly suggestive. The diagnosis is strongly supported by the classic chest X-ray findings of apical shadowing and cavitation. Confirmation is made by identifying acid-fast bacilli (Mycobacterium tuberculosis) in the sputum via Ziehl-Neelsen stain, culture, or molecular tests.",
+  "ground_truth_disease": "Pulmonary tuberculosis"
+}

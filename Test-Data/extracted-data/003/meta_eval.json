@@ -1,0 +1,6 @@
+{
+  "test_id": "3",
+  "query_for_retriever": "A 72-year-old man who lives in the south of Spain presented in the UK with a progressive illness characterized by fever, malaise, weight loss, and loss of appetite. On examination, he had temperatures up to 39°C and progressive, marked hepatosplenomegaly. Blood tests revealed pancytopenia, and he did not respond to broad-spectrum antibiotics. A bone marrow examination was negative for malignancy and initial stains for organisms were unrevealing. Four months prior to his illness, he had been on a camping trip in a coastal area of Spain, where he recalls seeing many thin dogs.",
+  "ground_truth_answer": "The diagnosis is visceral leishmaniasis, likely caused by Leishmania infantum. This is supported by the classic clinical presentation of prolonged fever, massive hepatosplenomegaly, and pancytopenia in a patient with relevant epidemiologic exposure. The patient had recently been camping in southern Spain, a known endemic area, and was exposed to dogs, which are a primary reservoir. The diagnosis was confirmed by a positive polymerase chain reaction (PCR) for Leishmania on a bone marrow sample.",
+  "ground_truth_disease": "Visceral leishmaniasis"
+}

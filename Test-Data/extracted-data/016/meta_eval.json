@@ -1,0 +1,6 @@
+{
+  "test_id": "16",
+  "query_for_retriever": "A 34-year-old man with no significant past medical history presented with a two-week illness. His symptoms began with epigastric pain, nausea, decreased appetite, and fevers up to 39°C. One week into the illness, he developed right-sided pleuritic chest pain. On the day of admission, his symptoms persisted, and an abdominal ultrasound was performed. The imaging revealed hepatomegaly and a large, heterogeneous liver lesion measuring 13.4 x 3.6 cm.",
+  "ground_truth_answer": "The diagnosis is an amebic liver abscess, caused by the protozoan parasite Entamoeba histolytica. The clinical presentation of a subacute febrile illness with right upper quadrant pain is classic. The ultrasound finding of a large, solitary liver lesion in this clinical context is highly suggestive. The diagnosis is typically confirmed by positive serology for E. histolytica antibodies, which are highly sensitive for extraintestinal disease.",
+  "ground_truth_disease": "Amebic Liver Abscess"
+}

@@ -1,0 +1,6 @@
+{
+  "test_id": "22",
+  "query_for_retriever": "A 7-year-old boy in Texas presented with a two-day history of right-hand pruritus and arm pain. Over the next few days, his condition worsened to include a rash, delusions, spasms, high fever, hypersalivation, and altered mental status, requiring intubation for airway protection. An extensive initial workup for common central nervous system infections, including various viruses and bacteria, was negative. A detailed history subsequently revealed that the child had been bitten by a bat approximately two months before symptom onset. No post-exposure prophylaxis was administered at the time of the bite because there were no visible marks.",
+  "ground_truth_answer": "The diagnosis is human rabies. This is supported by the clinical presentation of acute progressive neuroencephalitis (altered mental status, seizures, hypersalivation) in a patient with a history of a bat bite two months prior, for which no post-exposure prophylaxis was given. The diagnosis was confirmed by detecting rabies viral RNA via real-time reverse transcription–polymerase chain reaction (RT-PCR) on nuchal skin biopsy and saliva specimens. Viral sequencing was consistent with a rabies virus variant found in the Mexican free-tailed bat.",
+  "ground_truth_disease": "Human Rabies"
+}

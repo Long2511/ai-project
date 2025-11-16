@@ -1,0 +1,6 @@
+{
+  "test_id": "7",
+  "query_for_retriever": "A 25-year-old male was hospitalized for vomiting blood. On examination, he was found to have an enlarged liver and spleen, and endoscopy confirmed the presence of esophageal varices. Blood tests revealed anemia and a significantly elevated eosinophil count. Serological tests for hepatitis B and C were negative, and the patient denied excessive alcohol use. A liver biopsy showed extensive granulomatous changes and fibrosis. Further history revealed he spent his childhood in Kenya where he frequently swam in a lake.",
+  "ground_truth_answer": "The diagnosis is chronic schistosomiasis caused by Schistosoma mansoni. This is supported by the patient's history of childhood freshwater exposure in Kenya, which led to the development of portal hypertension with hepatosplenomegaly and bleeding esophageal varices. The marked eosinophilia and granulomatous fibrosis on liver biopsy are also classic findings. The diagnosis was definitively confirmed by identifying S. mansoni eggs in the stool and on rectal biopsy, with positive serology providing further evidence.",
+  "ground_truth_disease": "Schistosomiasis"
+}

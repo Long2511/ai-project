@@ -1,0 +1,6 @@
+{
+  "test_id": "2",
+  "query_for_retriever": "A 26-year-old woman presents one week after returning from a trip to the Gambia. She reports an abrupt onset of shivering, feeling cold, rigors, vomiting, and profuse sweating, accompanied by headache and nausea. On examination, she is pale, has a temperature of 39.5°C, and is tachycardic. The patient reports having taken anti-malarial tablets during her trip but was admitted with a febrile illness.",
+  "ground_truth_answer": "The diagnosis is malaria, caused by a Plasmodium species. This is strongly supported by the patient's recent travel to The Gambia, a malaria-endemic region. Her clinical presentation is classic for malaria, featuring paroxysms of high fever (39.5°C), chills, rigors, and sweats. Although she took prophylaxis, its failure is not uncommon. The diagnosis is confirmed by identifying Plasmodium parasites on a peripheral blood smear or through a rapid diagnostic antigen test.",
+  "ground_truth_disease": "Malaria"
+}

@@ -1,0 +1,6 @@
+{
+  "test_id": "33",
+  "query_for_retriever": "A 38-year-old man presented with a one-week history of high-grade intermittent fever, rigors, chills, headache, retro-orbital pain, and myalgia. For the past two days, he has also experienced reddish-colored urine with clots and two episodes of gum bleeding. On physical examination, his vital signs were stable, but he had multiple purpura and petechiae on his shoulder, trunk, and legs, as well as large ecchymotic lesions on his back. Laboratory studies revealed a very low platelet count of 20,000/μL and a low white blood cell count of 2.4 x 10^9/L. A tourniquet test was also positive.",
+  "ground_truth_answer": "The diagnosis is Dengue Hemorrhagic Fever (DHF), a severe manifestation of infection with the Dengue virus. The clinical picture of a prolonged febrile illness with headache, retro-orbital pain, and myalgia is classic for dengue. The progression to hemorrhagic signs, including gum bleeding, hematuria, purpura, and ecchymoses, combined with severe thrombocytopenia and leukopenia, meets the criteria for DHF. The diagnosis was confirmed by serologic evidence of dengue virus infection.",
+  "ground_truth_disease": "Dengue"
+}

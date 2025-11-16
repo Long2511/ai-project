@@ -1,0 +1,6 @@
+{
+  "test_id": "25",
+  "query_for_retriever": "A 47-year-old Belgian woman, who was not vaccinated, developed an acute illness during a one-week vacation in The Gambia. Her symptoms began with high fever, chills, headache, back pain, and severe asthenia. Upon returning to Europe, she was admitted to an intensive care unit with jaundice, anuria, and profound weakness. Laboratory evaluation revealed thrombocytopenia, leukopenia, acute kidney injury, and extremely elevated liver transaminases (AST 49,000 U/L, ALT 23,000 U/L). She subsequently developed a severe coagulopathy with an elevated INR, leading to bleeding from injection sites and massive gastrointestinal hemorrhage, which resulted in hypovolemic shock and death.",
+  "ground_truth_answer": "The diagnosis is Yellow Fever, a viral hemorrhagic fever caused by the yellow fever virus. This is strongly supported by the patient's travel to an endemic area (The Gambia) without prior vaccination. Her clinical course was classic, featuring an acute febrile phase followed by a toxic phase with jaundice, renal failure, extremely high liver enzymes, and a severe coagulopathy leading to fatal hemorrhage. The diagnosis was definitively confirmed by a positive reverse transcription-polymerase chain reaction (RT-PCR) test for yellow fever virus on a plasma sample.",
+  "ground_truth_disease": "Yellow Fever"
+}

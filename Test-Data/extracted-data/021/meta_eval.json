@@ -1,0 +1,6 @@
+{
+  "test_id": "21",
+  "query_for_retriever": "A female neonate was born in the Democratic Republic of Congo to a 22-year-old mother who was diagnosed with Ebola virus disease via PCR at 34 weeks of gestation. The mother recovered after one week of supportive care. The infant was delivered vaginally at 38 weeks gestation with excellent Apgar scores and a normal physical examination. Multiple diagnostic tests were performed on the newborn at birth. Umbilical cord blood PCR, peripheral blood swabs, and salivary swabs were all negative for Ebola virus. The infant was discharged home and was growing normally at a one-month follow-up appointment.",
+  "ground_truth_answer": "This case describes a neonate born free of Ebola virus disease (EVD) to a mother who had a confirmed infection during her third trimester. The mother's infection with Ebola virus was confirmed by PCR at 34 weeks gestation. The diagnosis of an uninfected infant was established by negative PCR tests for Ebola virus on the neonate's umbilical cord blood, peripheral blood, and saliva at birth. This represents a rare, favorable outcome, as maternal EVD during pregnancy is associated with extremely high rates of fetal and neonatal mortality.",
+  "ground_truth_disease": "Ebola virus disease during pregnancy"
+}

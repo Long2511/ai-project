@@ -1,0 +1,6 @@
+{
+  "test_id": "20",
+  "query_for_retriever": "A 68-year-old man with a history of benign prostatic hyperplasia presented with a chronic dermatological complaint. For the past seven months, he has developed scaly skin lesions spread across his body. The lesions are associated with severe and persistent itching. The condition has been progressive over this multi-month period. No other systemic symptoms or relevant exposures are mentioned in the initial history.",
+  "ground_truth_answer": "The diagnosis is crusted scabies, a severe hyperinfestation with the mite *Sarcoptes scabiei var. hominis*. The long duration of symptoms (7 months), widespread scaly lesions, and severe pruritus in an elderly patient are highly suggestive of this condition. Unlike classic scabies, crusted scabies is characterized by thick crusts and an extremely high mite burden. Diagnosis is confirmed by microscopic examination of skin scrapings to identify numerous mites, eggs, or scybala.",
+  "ground_truth_disease": "Crusted Scabies"
+}

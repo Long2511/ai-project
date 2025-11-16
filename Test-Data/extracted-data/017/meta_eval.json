@@ -1,0 +1,6 @@
+{
+  "test_id": "17",
+  "query_for_retriever": "A 70-year-old man from Peru presented with a six-year history of a slowly expanding, painless skin lesion on his left foot. The lesion initially appeared as a small, non-pruritic papule on the dorsum of the foot. Over the course of several years, this papule became ulcerated and failed to heal. The patient has no other significant past medical history and sought evaluation for this chronic, non-healing ulcer.",
+  "ground_truth_answer": "The diagnosis is Cutaneous Leishmaniasis. This is supported by the extremely chronic (six-year) history of a slowly progressive, painless, ulcerative skin lesion in a patient from Peru, an endemic area for the disease. The evolution from a papule to a non-healing ulcer is a classic presentation. Diagnosis is typically confirmed by identifying Leishmania amastigotes in a skin biopsy or smear, or by PCR.",
+  "ground_truth_disease": "Cutaneous Leishmaniasis"
+}

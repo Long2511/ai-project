@@ -1,0 +1,6 @@
+{
+  "test_id": "8",
+  "query_for_retriever": "A 24-year-old man from Southern India presented with swelling of his left foot that diminishes overnight. He is afebrile and systemically well but reports a history of recurrent episodes of painful, swollen lymph nodes in his groin. On examination, he has enlarged inguinal lymph nodes. Laboratory evaluation was significant for a marked eosinophilia of 1.4×10^9 L–1, while D-dimers were normal. Filarial serology was positive. The patient noted that in his hometown, he had seen individuals with grossly swollen legs.",
+  "ground_truth_answer": "The diagnosis is lymphatic filariasis, caused by the nematode Wuchereria bancrofti. This is strongly suggested by the patient's presentation of unilateral limb swelling (lymphedema) and recurrent adenolymphangitis, combined with his origin from an endemic area in Southern India. The diagnosis is supported by key laboratory findings of marked peripheral eosinophilia and a positive filarial serology test. Confirmation can also be achieved by detecting microfilariae on a blood film or through filarial antigen testing.",
+  "ground_truth_disease": "Lymphatic filariasis"
+}

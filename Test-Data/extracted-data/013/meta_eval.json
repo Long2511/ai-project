@@ -1,0 +1,6 @@
+{
+  "test_id": "13",
+  "query_for_retriever": "A 19-year-old woman presented for a routine gynecologic examination with a complaint of mid-cycle bleeding. She is sexually active with one partner and is taking oral contraceptives. On internal examination, a mucopurulent discharge was noted at the external cervical os. The cervix was also observed to be friable and bled easily on contact. An endocervical swab was collected for testing due to suspicion of a sexually transmitted infection, and the test result was positive.",
+  "ground_truth_answer": "The diagnosis is chlamydial cervicitis, caused by the bacterium Chlamydia trachomatis. This is supported by the patient's clinical presentation as a sexually active young woman with mid-cycle bleeding, and the characteristic physical exam findings of a mucopurulent cervical discharge and cervical friability. The diagnosis was definitively confirmed by a positive laboratory test for Chlamydia from an endocervical swab specimen.",
+  "ground_truth_disease": "Trachoma"
+}

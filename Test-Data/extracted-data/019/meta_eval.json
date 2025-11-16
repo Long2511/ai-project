@@ -1,0 +1,6 @@
+{
+  "test_id": "19",
+  "query_for_retriever": "An 18-year-old female presents with a five-day history of abrupt onset fever, shaking chills, generalized malaise, headache, and myalgias. She also reports nausea, vomiting, and dark urine that began two days prior to admission. Her symptoms began eight days after she returned from an 8-day trip to a jungle region in Iquitos, Peru. During her trip, she slept in tents, swam in a river, and had inconsistent use of mosquito repellents and nets. On examination, she is febrile to 38°C and tachycardic with a heart rate of 110 bpm. The exam is notable for tenderness to palpation in both abdominal flanks, but no jaundice, rash, or signs of bleeding are present.",
+  "ground_truth_answer": "The diagnosis is uncomplicated malaria, caused by Plasmodium vivax. The key evidence includes the classic clinical syndrome of abrupt fever, chills, malaise, and headache. This occurred within a typical incubation period (8 days) after travel to a highly malaria-endemic area (Iquitos, Peru) with significant mosquito exposure. The diagnosis is confirmed by identifying Plasmodium parasites on a thick and thin peripheral blood smear or by a positive malaria rapid diagnostic test (RDT).",
+  "ground_truth_disease": "Malaria (Uncomplicated Plasmodium vivax)"
+}

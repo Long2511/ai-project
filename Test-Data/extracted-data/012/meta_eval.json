@@ -1,0 +1,6 @@
+{
+  "test_id": "12",
+  "query_for_retriever": "A university professor presents with malaise and headache after returning from a botanical expedition in Kenya. He developed a large, swollen, and painful black lesion on his thigh. An initial course of antibiotics for a suspected skin infection was ineffective, and his headache and myalgia persisted. Upon evaluation at a travel clinic, the lesion was identified as a tick bite. Physical examination also revealed regional lymphadenopathy. Blood was drawn for serology to confirm a suspected tick-borne illness before appropriate antibiotic therapy was started.",
+  "ground_truth_answer": "The diagnosis is African Tick Bite Fever, a form of rickettsiosis. This is strongly suggested by the patient's travel history to Kenya and the clinical presentation of a painful black eschar (tache noire) at the site of a tick bite. The associated symptoms of headache, myalgia, and regional lymphadenopathy are also characteristic of this infection, which is caused by the bacterium *Rickettsia africae*. The diagnosis is provisionally made based on clinical and epidemiological findings and can be confirmed by serology.",
+  "ground_truth_disease": "Rickettsial infection (Scrub Typhus)"
+}

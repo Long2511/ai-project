@@ -1,0 +1,6 @@
+{
+  "test_id": "9",
+  "query_for_retriever": "A 28-year-old Kurdish refugee presented with a four-month history of upper abdominal pain and recent right-sided chest pain. He was afebrile and his weight was stable. An initial chest X-ray showed a mass in the right lung. A subsequent CT scan of the chest and abdomen demonstrated a cystic structure in his liver, with additional cysts in his chest. The right lung lesion was surgically excised for diagnosis. Histopathology of the excised tissue confirmed a parasitic etiology, and serologic tests were also positive.",
+  "ground_truth_answer": "The diagnosis is hydatid disease, or cystic echinococcosis, caused by the larval stage of the tapeworm Echinococcus granulosus. The clinical suspicion is raised by the patient's origin from an endemic region and the presence of slowly growing cysts in the liver and lungs. The diagnosis was confirmed by the histopathological identification of a hydatid cyst from the excised lung lesion, which is the pathognomonic finding. Positive serology for Echinococcus provided further supportive evidence.",
+  "ground_truth_disease": "Hydatid disease (cystic echinococcosis)"
+}

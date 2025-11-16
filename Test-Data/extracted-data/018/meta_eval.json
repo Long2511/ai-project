@@ -1,0 +1,6 @@
+{
+  "test_id": "18",
+  "query_for_retriever": "A 52-year-old male farmer from rural Brazil presents with a six-month history of progressive weight loss, productive cough, and painful sores in his mouth. He has difficulty eating due to the oral lesions. On physical examination, he appears cachectic. The oropharynx reveals multiple ulcerative and granulomatous lesions on the gums and palate, described as having a mulberry-like appearance. Lung examination is notable for bilateral crackles. A chest radiograph shows bilateral, mixed interstitial and alveolar infiltrates, predominantly in the middle and lower lung zones.",
+  "ground_truth_answer": "The final diagnosis is chronic paracoccidioidomycosis. This is supported by the patient's epidemiology (male agricultural worker from an endemic area in Brazil), the chronicity of the illness, and the classic clinical presentation involving both the lungs and the oral mucosa (mulberry-like stomatitis). The diagnosis is confirmed by direct microscopic examination of a biopsy from an oral lesion or a sputum sample, which reveals the characteristic large, multiple-budding yeast cells of Paracoccidioides brasiliensis, often described as a \"mariner's wheel.\"",
+  "ground_truth_disease": "Paracoccidioidomycosis"
+}

@@ -1,0 +1,6 @@
+{
+  "test_id": "11",
+  "query_for_retriever": "A 32-year-old woman originally from Brazil presented with a sudden onset of left-sided weakness affecting her face, arm, and leg. She also reported recent shortness of breath on exertion. A CT scan of her brain confirmed an acute stroke. Her ECG was abnormal, showing broadened QRS complexes, and a chest X-ray demonstrated cardiomegaly. An echocardiogram revealed a dilated left ventricle with a characteristic apical aneurysm. A small thrombus was noted within the aneurysm, consistent with a cardioembolic source for her stroke.",
+  "ground_truth_answer": "The final diagnosis is chronic Chagas disease with associated cardiomyopathy and a resulting embolic stroke. This is caused by the protozoan parasite Trypanosoma cruzi. The diagnosis is strongly supported by the patient's origin from Brazil, an endemic country, and her clinical presentation with heart failure and a stroke. The characteristic cardiac findings of a dilated left ventricle with an apical aneurysm and intracardiac thrombus are classic for Chagas cardiomyopathy. The diagnosis was confirmed by a positive ELISA test for Trypanosoma cruzi antibodies.",
+  "ground_truth_disease": "Trypanosomiasis"
+}

@@ -1,0 +1,6 @@
+{
+  "test_id": "4",
+  "query_for_retriever": "A 24-year-old man presents after a 3-month backpacking trip to India. He initially developed watery, non-bloody diarrhea which resolved, and a stool culture at that time grew Campylobacter. Two weeks after returning home, he developed recurrent diarrhea, loss of appetite, bloating, and significant flatulence. He notes that his stools are particularly foul-smelling and difficult to flush. The patient has also started to lose weight. His doctor ordered stool microscopy to investigate for ova, cysts, and parasites.",
+  "ground_truth_answer": "The final diagnosis is giardiasis, caused by the protozoan Giardia intestinalis. The patient's history of backpacking in India, followed by the development of chronic diarrhea with bloating, flatulence, weight loss, and foul-smelling, fatty stools (steatorrhea) is classic for this infection. Although he had an initial Campylobacter infection, the persistence and evolution of his symptoms prompted further testing. The diagnosis was confirmed by identifying Giardia cysts in a stool specimen on microscopy.",
+  "ground_truth_disease": "Giardiasis"
+}

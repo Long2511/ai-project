@@ -1,0 +1,6 @@
+{
+  "test_id": "14",
+  "query_for_retriever": "A 37-year-old woman from Southern Mexico presented with a persistent body rash. Her symptoms began five years prior with spasms and needle-like pain in her arms, accompanied by fatigue. She was initially treated for depression and atopic dermatitis. Physical examination revealed numerous hypopigmented skin lesions on her arms, face, abdomen, back, and legs. She also had thinning eyebrows and numbness in her forearm. A skin biopsy was taken from an abdominal lesion for analysis.",
+  "ground_truth_answer": "The diagnosis is lepromatous leprosy (LL), a form of Hansen's disease caused by Mycobacterium leprae. This is supported by the patient's origin from an endemic region (Mexico) and the chronic clinical presentation of numerous hypopigmented skin lesions, thinning eyebrows (madarosis), and peripheral neuropathy (numbness). The diagnosis was confirmed by a skin biopsy from an abdominal lesion, which revealed the presence of acid-fast bacilli.",
+  "ground_truth_disease": "Leprosy (Hansen’s disease)"
+}
